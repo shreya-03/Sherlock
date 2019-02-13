@@ -1,10 +1,14 @@
-# SHERLOCK : Twitch-Chatbot-detection (Livestreaming platform)
+# SHERLOCK : A Scalable, Hybrid Bot Detection Framework for Livestreaming Chatlogs
+
+<p align="center">
+  <img src="./Assets/screen.png" width="100" title="A chatroom on Twitch">
+</p>
 
 ## Objective
-The purpose of our project is to detect chatbots in a chat room of a stream at a real time to deduce fraudulent activities.
+The purpose of our project is to detect chatbots in chatrooms of livestreaming services. Most livestreaming platforms recommed stream(er)s to viewers based on engagement of streams (viewership and chatroom activity). Popular streams consistently attracting a large number of users to their streams have various ways to monetize their content and make a lot of money. To fast-track gain in popularity, some streamers use fraudulent methods such as inflating viewership (through viewbots) and increasing chatroom activity (through chatbots). We aim to detect streams which are chatbotted and the constituent fake chatbot handles.
 
 ## Problem
-We formulate the problem into two subproblems. First is to detect whether the stream is chat botted in real time. Secondly if it is then find out the chat bots in that corrupted stream.
+We formulate the problem into two subproblems. First is to detect whether the stream is chat botted in real time. Secondly if it is then find out the chat bots in that corrupted stream. 
 
 ## Solution
 * For Stage 1, we have used supervised approach to predict whether the given stream is chatbotted or not.
