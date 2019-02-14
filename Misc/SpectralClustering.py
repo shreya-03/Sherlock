@@ -5,16 +5,16 @@ import pandas as pd
 from scipy.linalg import sqrtm,inv
 from scipy.sparse.linalg import eigsh
 from tfidf import *
-from edge_weighing import *
-from gap_statistics import *
-from cluster_evaluation import *
+from EdgeWeighing import *
+from GapStatistics import *
+from ClusterEvaluation import *
 from sklearn.cluster import KMeans
 from sklearn import metrics,preprocessing
 from scipy.spatial.distance import cdist
 import matplotlib.pyplot as plt
 import community
 from optparse import OptionParser
-from entropy import *
+from Entropy import *
 from sklearn.manifold.spectral_embedding_ import _graph_is_connected,_graph_connected_component
 from sklearn.decomposition import PCA
 

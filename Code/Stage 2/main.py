@@ -2,7 +2,7 @@ import math,random,requests,json
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from entropy import *
+from Entropy import *
 from collections import OrderedDict,Counter
 import json,time
 from sklearn.metrics import accuracy_score
@@ -11,12 +11,12 @@ from sklearn import neighbors
 from sklearn.neural_network import MLPClassifier
 from os import listdir
 from os.path import isfile,join,isdir
-from modified_UserClustering import *
+from UserClustering import *
 from sklearn.semi_supervised import label_propagation
 
 plt.rcParams['axes.facecolor'] = 'white'
 
-#--------function plot entropy of real user with red dots and bots with blue dots for a particular stream--------
+#--------Function plots entropy of real user with red dots and bots with blue dots for a particular stream--------
 
 def plot_entropy_feature(feature_vectors,considered_users_index,real_users,bot_users,users):
 	X = []
@@ -44,7 +44,7 @@ def plot_entropy_feature(feature_vectors,considered_users_index,real_users,bot_u
 	plt.title('entropy features')
 	plt.show()
 
-#----------Function gets all followers of specific channel from followers_cnt folder----------
+#----------Function gets all followers of specific channel----------
 
 def get_channel_followers(path,channel_name):
 	
@@ -63,7 +63,7 @@ def get_channel_followers(path,channel_name):
 			f.close()
 	return list(follows)
 
-#----------This function runs specified classification model on the generated feature set----------
+#----------Function runs specified classification model on the generated feature set----------
 
 def run_model(model,alg_name,X_train,y_train,X_test,y_test):
 	model.fit(np.array(X_train),np.array(y_train).ravel())
@@ -79,7 +79,6 @@ def getAllFilesRecursive(path,certified_reals,certified_new_reals):
 	for file in listdir(path):
 		print file
 		filename = join(path,file)
-		# if (file.split('#')[1].split('database')[0] in certified_new_reals or file.split('#')[1].split('database')[0] in certified_reals) and 'b<r' not in str(filename):
 		lt = file.split('#')
 		real_file = "../Data/Real Data/"+str(lt[0])+'/#'+str(lt[1])+'.txt'
 		try:
@@ -112,7 +111,7 @@ def getAllFilesRecursive(path,certified_reals,certified_new_reals):
 			continue
 	print (sum(acc)/count)
 
-#----------Function gives the feature vectors for the considerable users----------	
+#----------Function gives the feature vectors for the considered users----------	
 
 def get_final_features(feature_vectors,considered_users_index):
 	X = []
@@ -122,7 +121,7 @@ def get_final_features(feature_vectors,considered_users_index):
 	return pd.DataFrame(X)
 
 
-#----------This function labels the users with 1,0,-1 for bot,real,unknown respectively which will be used by label propagation----------
+#----------Function labels the users with 1,0,-1 for bot,real,unknown respectively which will be used by label propagation----------
 
 def data_labelprop(X,real_users_index,bot_users_index):
 	label_X = []
@@ -141,7 +140,7 @@ def data_labelprop(X,real_users_index,bot_users_index):
 			label_Y.append(-1)
 	return label_X,label_Y
 
-#----------Split the dataset into training and testing with training set comprises of users which are for sure botted or real and remaining are put into testing set----------
+#----------Split the dataset into training and testing with training set comprising of users which are botted/real and remaining are put into testing set----------
 
 def label_data_classifier(X,real_users_index,bot_users_index,users,considered_users_index,real_users,bot_users):
 	X_train = []
@@ -164,13 +163,12 @@ def label_data_classifier(X,real_users_index,bot_users_index,users,considered_us
 				Y_test.append(1)
 	return X_train,X_test,Y_train,Y_test
 
-#----------Using user entropy for further readjustment of labels and finally return the corrected labels---------- 
+#----------Readjust step from the paper - utilizes information from modalities other than # msgs and mean IMD---------- 
 
 def readjust(label_X,label_Y,uw_ft,user_entropy):
 	uw_ft = [i[0] for i in uw_ft.values]
 	user_entropy = [i[0] for i in user_entropy.values]
 	data = [label_X[i] for i in range(len(label_X)) if label_Y[i] == 1]
-	# data = (sorted(data,key=lambda tup:(tup[0],tup[1])))
 	xs = [i[0] for i in data]
 	xs = sorted(xs)
 	ys = [i[1] for i in data]
@@ -224,19 +222,16 @@ def readjust(label_X,label_Y,uw_ft,user_entropy):
 		if uw_ft[i] in uw_many and user_entropy[i] in ue_many:
 			label_Y[i] = 1
 			print "outside change"
-	# print(uw_select)
-	# print(ue_select)
 	return label_X, label_Y
 
-#----------Main function which calls all other functions in itself----------
+#----------Main function which implements all the steps in the pipeline including Label Propagation----------
 
 def main(merged_filename,real_file,boted_file):
 	
 	documents = []
 	print merged_filename
 	users_info = getUserIMDMessages(merged_filename)	# Get a dictionary of users with the list of corresponding imds
-	#print users_info.keys()
-	#print "total users:" + str(len(users_info.keys()))
+
 	considered_users_index = []
 	index = 0
 	for user in users_info.keys():
@@ -300,33 +295,13 @@ def main(merged_filename,real_file,boted_file):
 			bot_Y.append(list_user_fts[i][1])
 	real_tup = [(real_X[i],real_Y[i]) for i in range(len((real_X)))]	# Generate tuples of #msgs and mean imd features for real users 
 	bot_tup = [(bot_X[i],bot_Y[i]) for i in range(len((bot_X)))]	# Genrate tuples of #msgs and mean imd features for bots
-	#real_tup = sorted(real_tup)
-	#bot_tup = sorted(bot_tup)
-	#print real_tup
-	#print bot_tup
-	#plt.scatter(real_X,real_Y,c='red',s=7)
-	#plt.scatter(bot_X,bot_Y,c='blue',s=7)
-	#plt.axvline(x=initavg_f1,c='yellow')
-	#lt.axhline(y=initavg_f2,c='green')
-	#plt.title(filename)
-	#plt.show()
 
-	## Cluster datapoints on desired new set of features 
-	# f1 = final_features.iloc[:,0].values
-	# f2 = final_features.iloc[:,1].values
-	# gt_X = np.array(list(zip(f1,f2)))
-	# Xmeans = XMeans(kmax=7)
-	# Xmeans.fit(list(gt_X))
-	# XMeanslabels = Xmeans.labels_
-	# plot_graph(gt_X,real_X,real_Y,bot_X,bot_Y,XMeanslabels)
 	channel_followers = get_channel_followers('../followers_cnt/',real_file.split('#')[1].split('database')[0])		# get the list of users who follows specified channel
-	#real_users_index = set(real_users_index)
 	users = set(users)
 	for user in channel_followers:
 		if user in users:
 			real_users_index.append(list(users).index(user))
 	print real_users_index
-	#plot_graph(final_features,real_users_index,bot_users_index)
 	
 	print "#considered users:" + str(len(considered_users_index))
 	
@@ -439,30 +414,128 @@ def main(merged_filename,real_file,boted_file):
 	# model = MLPClassifier()
 	# run_model(model,"NN-MLP",X_train,y_train,X_test,y_test)
 
-with open('../Data/Real Data/certified real.txt','r') as f:
-	certified_reals = f.readlines()
-certified_reals = [real.strip('\n') for real in certified_reals]
-f.close()
-with open('../Data/Real Data/certified real for new data.txt') as f:
-	certified_new_reals = f.readlines()
-certified_new_reals = [real.strip('\n') for real in certified_new_reals]
-f.close()
+# A copy of the above main function, to work on unlabelled data
+
+def callmain(filename):
+	print filename
+	users_info = getUserIMDMessages(filename)
+	considered_users_index = []
+	index = 0
+	for user in users_info.keys():
+		if users_info[user]['m'] > 1:
+			considered_users_index.append(index)
+		index += 1
+	# real_users_index,bot_users_index,real_users,bot_users = labeling_data(merged_filename,real_file,boted_file)
+	real_users_index,bot_users_index = unlabelled_data(filename)
+
+	users_dict = users_info
+	users = users_info.keys()
+
+	## For no of messages per user feature
+	user_chats_ft = get_chats_features(users_dict)
+	user_chats_ft = pd.DataFrame(user_chats_ft)
+
+	# User windows
+	uw_dict = user_windows(filename)
+	uw_ft = []
+	for user in users_dict.keys():
+		if users_dict[user]['m'] > 1:
+			uw_ft.append(uw_dict[user])
+	uw_ft = pd.DataFrame(uw_ft)
+	
+	## For per user imds features 
+	user_imd_bins = pd.DataFrame(get_IMD_features(users_dict))
+	
+	# Feature of Entropy of imds of a user
+	user_entropy = pd.DataFrame(np.array(get_entropy_features(filename)))
+	
+	## to get the features of users with no of messages > 1
+	user_entropy = get_final_features(user_entropy,considered_users_index)
+	
+	# print(uw_ft, user_entropy)
+
+	## plot entropy feature of each user 
+	#plot_entropy_feature(user_entropy,considered_users_index,real_users,bot_users,users)
+	
+	final_features = pd.concat([user_chats_ft,user_imd_bins],axis=1)
+
+	channel_followers = get_channel_followers('./',filename.split('.txt')[0])
+	users = set(users)
+	for user in channel_followers:
+		if user in users:
+			real_users_index.append(list(users).index(user))
+	print real_users_index
+	
+	print "#considered users:" + str(len(considered_users_index))
+	
+	label_X,label_Y = data_labelprop(final_features,real_users_index,bot_users_index)
+	print len(label_X),len(label_Y)
+	orig_labelX, orig_labelY = label_X[:], label_Y[:]
+	label_X, label_Y = readjust(label_X,label_Y,uw_ft,user_entropy)
+
+	real_X = []
+	real_Y = []
+	bot_X = []
+	bot_Y = []
+	for i in range(len(label_X)):
+		if label_Y[i] == 0:
+			real_X.append(final_features.iloc[i,0])
+			real_Y.append(final_features.iloc[i,1])
+		elif label_Y[i] == 1:
+			bot_X.append(final_features.iloc[i,0])
+			bot_Y.append(final_features.iloc[i,1])
+	plt.scatter(real_X,real_Y,c='red',s=7,label='real')
+	plt.scatter(bot_X,bot_Y,c='blue',s=7,label='bot')
+	plt.legend(loc='upper right')
+	plt.show()
+	# Learn with LabelSpreading
+	label_spread = label_propagation.LabelSpreading(kernel='rbf', alpha=0.6)
+	label_spread.fit(label_X, label_Y)
+	output_labels = label_spread.transduction_
+	label_spread.fit(orig_labelX, orig_labelY)
+	orig_output_labels = label_spread.transduction_
+	
+	real_X = []
+	real_Y = []
+	bot_X = []
+	bot_Y = []
+	for i in range(len(output_labels)):
+		if output_labels[i] == 1:
+			print list(users)[i]
+		if output_labels[i] == 0:
+			real_X.append(final_features.iloc[i,0])
+			real_Y.append(final_features.iloc[i,1])
+		else:
+			bot_X.append(final_features.iloc[i,0])
+			bot_Y.append(final_features.iloc[i,1])
+
+	plt.rcParams['axes.facecolor'] = 'white'
+	plt.rcParams["axes.edgecolor"] = "black"
+	plt.rcParams["axes.linewidth"] = 1
+	fig_size = plt.rcParams["figure.figsize"]
+	fig_size[0] = 3
+	fig_size[1] = 3
+	plt.rcParams["figure.figsize"] = fig_size
+	plt.ylim(top=1200)
+	plt.xlim(right=30)
+	plt.scatter(real_X,real_Y,c='blue',s=15,label='real')
+	plt.scatter(bot_X,bot_Y,c='red',s=15,label='bot')
+	plt.legend(loc='upper right',framealpha=1,frameon=True,borderpad=1,fancybox=True)
+
+	plt.show()
+
+# handling real files in training
+# with open('../Data/Real Data/certified real.txt','r') as f:
+# 	certified_reals = f.readlines()
+# certified_reals = [real.strip('\n') for real in certified_reals]
+# f.close()
+
+# recurse through a directory to perform an experiment
 # getAllFilesRecursive('../Data/Real Data/Merged_Data',certified_reals,certified_new_reals)	
-#getAllFilesRecursive('../Data/Real Data/Merged_Data/',certified_reals,certified_new_reals)
-#main('../Data/Real Data/Merged_Data/data#prophdawgdatabase_new#dip_7777database_random1_1.txt',
-#	'../Data/Real Data/data/#prophdawgdatabase_new.txt','../Data/Bot Data/#dip_7777database_random1.txt')
-main('../Data/Real Data/Merged_Data/10-15 Viewers#aristineklexisdatabase_new#dip_7777database_random1_1.txt',
-	'../Data/Real Data/10-15 Viewers/#aristineklexisdatabase_new.txt','../Data/Bot Data/#dip_7777database_random1.txt')
-#callmain('../Data/Real Data/35-40 Viewers/#alcanti_database_new.txt')
-# main('../Data/Real Data/Merged_Data/25-30 Viewers#shyflavordatabase_new#dip_7777database_chatterscontrolled_5.txt',
-#  	'../Data/Real Data/25-30 Viewers/#shyflavordatabase_new.txt','../Data/Bot Data/#dip_7777database_chatterscontrolled.txt')
-# main('../Data/Real Data/Merged_Data/data#gbonbomdatabase_new#dip_7777database_random1_1.txt',
-#  	'../Data/Real Data/data/#gbonbomdatabase_new.txt','../Data/Bot Data/#dip_7777database_random1.txt')
-# main('../Data/Real Data/Merged_Data/data#soarcarldatabase_new#dip_7777database_chatterscontrolled_7.txt',
-#  	'../Data/Real Data/data/#soarcarldatabase_new.txt','../Data/Bot Data/#dip_7777database_chatterscontrolled.txt')
-# main('../Data/Real Data/Merged_Data/data#nightfall369database_new#dip_7777database_random1_1.txt',
-#  	'../Data/Real Data/data/#nightfall369database_new.txt','../Data/Bot Data/#dip_7777database_random1.txt')
-# main('../Data/Real Data/Merged_Data/data#mtsack_officialdatabase_new#dip_7777database_chatterscontrolled_8.txt',
-#  	'../Data/Real Data/data/#mtsack_officialdatabase_new.txt','../Data/Bot Data/#dip_7777database_chatterscontrolled.txt')
-# main('../Data/Real Data/Merged_Data/data#gunslayerdatabase_new#dip_7777database_random2_1.txt',
-# 	'../Data/Real Data/data/#gunslayerdatabase_new.txt','../Data/Bot Data/#dip_7777database_random2.txt')
+
+# to work on labelled dataset
+# main('../Data/Real Data/Merged_Data/10-15 Viewers#aristineklexisdatabase_new#dip_7777database_random1_1.txt',
+# 	'../Data/Real Data/10-15 Viewers/#aristineklexisdatabase_new.txt','../Data/Bot Data/#dip_7777database_random1.txt')
+
+# to work on unlabelled dataset
+callmain('../../Sample Data/sample_chatlog_chatbotted.txt')
