@@ -1,7 +1,8 @@
 # SHERLOCK : A Scalable, Hybrid Bot Detection Framework for Livestreaming Chatlogs
 
 <p align="center">
-  <img src="./Assets/screen.png" width="300" height="400" title="A chatroom on Twitch">
+  <img src="./Assets/screen.png" width="250" height="300" title="A chatroom on Twitch">
+  <img src="./Assets/botdash1.png" width="250" height="300" title="Dashboard of a chatbot service provider">
 </p>
 
 ## Objective
