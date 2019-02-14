@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="./Assets/screen.png" width="250" height="300" title="A chatroom on Twitch">
-  <img src="./Assets/botdash1.png" width="250" height="300" title="Dashboard of a chatbot service provider">
+  <img src="./Assets/botdash1.png" width="200" height="300" title="Dashboard of a chatbot service provider">
+  <img src="./Assets/outline.png" width="250" height="300" title="A schematic overview of Sherlock">
 </p>
 
 ## Objective
