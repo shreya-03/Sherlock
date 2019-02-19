@@ -1,0 +1,1643 @@
+{"t":"0","u":"anon1","e":"{"25":["19-23"],"55338":["0-9"]}","m":"KappaPride KappaHD Kappa","nm":"KappaPride KappaHD Kappa","b":"nb"}
+{"t":"0","u":"anon2","e":"null","m":"didnt wash hands monkaS","nm":"didnt wash hands monkaS","b":"b"}
+{"t":177,"u":"anon3","e":"{"55338":["0-9"]}","m":"KappaPride","nm":"KappaPride","b":"nb"}
+{"t":10713,"u":"anon4","e":"null","m":"What channels are you guys all subscribed to?","nm":"What channels are you guys all subscribed to","b":"nb"}
+{"t":13965,"u":"anon5","e":"{"9":["18-19","21-22","24-25"]}","m":"@fortnitekookxbow <3 <3 <3","nm":"fortnitekookxbow 3 3 3","b":"nb"}
+{"t":14710,"u":"anon1","e":"null","m":"KappaHD","nm":"KappaHD","b":"nb"}
+{"t":15991,"u":"anon6","e":"{"55338":["0-9"]}","m":"KappaPride","nm":"KappaPride","b":"nb"}
+{"t":18297,"u":"anon7","e":"null","m":"yeah one your using","nm":"yeah one your using","b":"b"}
+{"t":18405,"u":"anon8","e":"{"55338":["8-17"],"115847":["0-6"]}","m":"KappaHD KappaPride","nm":"KappaHD KappaPride","b":"nb"}
+{"t":18584,"u":"anon1","e":"null","m":"?????????","nm":"","b":"nb"}
+{"t":30524,"u":"anon1","e":"{"9":["0-1","3-4"]}","m":"<3 <3 @AGlobalForce","nm":"3 3 AGlobalForce","b":"nb"}
+{"t":33360,"u":"anon9","e":"{"112290":["0-7","9-16","18-25","27-34","36-43","45-52"],"1424198":["54-66","68-80","82-94","96-108","110-122","124-136","138-150"]}","m":"imGlitch imGlitch imGlitch imGlitch imGlitch imGlitch txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","nm":"imGlitch imGlitch imGlitch imGlitch imGlitch imGlitch txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":34512,"u":"anon10","e":"{"112291":["14-20"]}","m":"@AGlobalForce GivePLZ","nm":"AGlobalForce GivePLZ","b":"nb"}
+{"t":37573,"u":"anon11","e":"null","m":"last one","nm":"last one","b":"b"}
+{"t":44680,"u":"anon12","e":"{"36":["0-5","7-12","14-19","21-26"]}","m":"PJSalt PJSalt PJSalt PJSalt","nm":"PJSalt PJSalt PJSalt PJSalt","b":"b"}
+{"t":46811,"u":"anon6","e":"{"36":["0-5"]}","m":"PJSalt","nm":"PJSalt","b":"nb"}
+{"t":49286,"u":"anon5","e":"{"134253":["11-21"]}","m":"@Passi0net PrimeRlyTho","nm":"Passi0net PrimeRlyTho","b":"nb"}
+{"t":60924,"u":"anon2","e":"{"41":["15-22"]}","m":"One more emote Kreygasm","nm":"One more emote Kreygasm","b":"b"}
+{"t":72090,"u":"anon2","e":"null","m":"günaydın","nm":"gnaydn","b":"b"}
+{"t":76830,"u":"anon10","e":"{"58765":["25-35"],"115846":["14-23"]}","m":"@AGlobalForce ScaredyCat NotLikeThis","nm":"AGlobalForce ScaredyCat NotLikeThis","b":"nb"}
+{"t":85278,"u":"anon13","e":"{"25":["0-4"],"55338":["6-15"],"70433":["37-45"],"74510":["17-26"],"461298":["28-35"]}","m":"Kappa KappaPride KappaClaus DarkMode KappaRoss","nm":"Kappa KappaPride KappaClaus DarkMode KappaRoss","b":"nb"}
+{"t":88363,"u":"anon7","e":"null","m":"Looks like the king brings the most out of you","nm":"Looks like the king brings the most out of you","b":"b"}
+{"t":88425,"u":"anon8","e":"{"1424198":["0-12","14-26"]}","m":"txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":108635,"u":"anon11","e":"null","m":"nice ceez impression","nm":"nice ceez impression","b":"b"}
+{"t":112699,"u":"anon12","e":"null","m":"22K OMFG","nm":"22K OMFG","b":"b"}
+{"t":120826,"u":"anon14","e":"null","m":"why does he keep leaving","nm":"why does he keep leaving","b":"b"}
+{"t":126920,"u":"anon15","e":"null","m":"daequaSleep daequaSleep daequaSleep daequaSleep daequaSleep daequaSleep daequaGasm daequaGasm daequaGasm daequaGasm daequaPump daequaPump daequaPump","nm":"daequaSleep daequaSleep daequaSleep daequaSleep daequaSleep daequaSleep daequaGasm daequaGasm daequaGasm daequaGasm daequaPump daequaPump daequaPump","b":"b"}
+{"t":138089,"u":"anon16","e":"{"65":["9-16"]}","m":"RIP DOHG FrankerZ","nm":"RIP DOHG FrankerZ","b":"b"}
+{"t":138321,"u":"anon4","e":"{"52":["0-4"],"65":["6-13"],"357":["15-23"],"360":["25-32"],"1902":["34-38"],"49106":["40-48"],"81997":["50-60"]}","m":"SMOrc FrankerZ HotPokket FailFish Keepo CorgiDerp KappaWealth","nm":"SMOrc FrankerZ HotPokket FailFish Keepo CorgiDerp KappaWealth","b":"nb"}
+{"t":145200,"u":"anon17","e":"null","m":"KANG DANGALANG","nm":"KANG DANGALANG","b":"b"}
+{"t":149264,"u":"anon18","e":"null","m":"Dead","nm":"Dead","b":"b"}
+{"t":151292,"u":"anon19","e":"null","m":"@Cillidbaaangl post the emoji","nm":"Cillidbaaangl post the emoji","b":"b"}
+{"t":151898,"u":"anon9","e":"{"1424198":["0-12","14-26","28-40","42-54","56-68","70-82","84-96","98-110","112-124","126-138","140-152","154-166","168-180","182-194","196-208","210-222","224-236","238-250"]}","m":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":158400,"u":"anon20","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":161448,"u":"anon21","e":"null","m":"ceezEhh","nm":"ceezEhh","b":"b"}
+{"t":163719,"u":"anon1","e":"{"25":["0-4"],"1902":["6-10"],"55338":["12-21"],"81997":["23-33"],"461298":["35-42"]}","m":"Kappa Keepo KappaPride KappaWealth DarkMode","nm":"Kappa Keepo KappaPride KappaWealth DarkMode","b":"nb"}
+{"t":170589,"u":"anon22","e":"{"33":["12-19"]}","m":"summit subs DansGame","nm":"summit subs DansGame","b":"b"}
+{"t":171062,"u":"anon1","e":"null","m":"gg","nm":"gg","b":"nb"}
+{"t":173845,"u":"anon10","e":"{"845930":["14-30"]}","m":"@AGlobalForce jacksepticSamdone","nm":"AGlobalForce jacksepticSamdone","b":"nb"}
+{"t":175675,"u":"anon23","e":"{"64138":["40-48"],"112291":["0-6","8-14","16-22","24-30","32-38"]}","m":"GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ SeemsGood","nm":"GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ SeemsGood","b":"b"}
+{"t":177987,"u":"anon10","e":"null","m":"noooo","nm":"noooo","b":"nb"}
+{"t":180482,"u":"anon1","e":"{"1424198":["0-12","14-26","28-40"]}","m":"txryckDenziGG txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":189879,"u":"anon2","e":"null","m":"FlipThis FlipThis FlipThis","nm":"FlipThis FlipThis FlipThis","b":"b"}
+{"t":190185,"u":"anon10","e":"null","m":"riiippp","nm":"riiippp","b":"nb"}
+{"t":193101,"u":"anon6","e":"null","m":"Denzi who came in your room","nm":"Denzi who came in your room","b":"nb"}
+{"t":194489,"u":"anon8","e":"{"1424198":["0-12","14-26"]}","m":"txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":194948,"u":"anon5","e":"null","m":"Hey, $15 is better than nothing bro","nm":"Hey 15 is better than nothing bro","b":"nb"}
+{"t":194949,"u":"anon2","e":"null","m":"@mmDustA yeah","nm":"mmDustA yeah","b":"b"}
+{"t":195986,"u":"anon7","e":"null","m":"Bothhhhhhhh","nm":"Bothhhhhhhh","b":"b"}
+{"t":197481,"u":"anon24","e":"null","m":"GG","nm":"GG","b":"nb"}
+{"t":199526,"u":"anon25","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"nb"}
+{"t":202609,"u":"anon26","e":"null","m":"GG man.","nm":"GG man","b":"nb"}
+{"t":202747,"u":"anon10","e":"null","m":"all g man","nm":"all g man","b":"nb"}
+{"t":204643,"u":"anon4","e":"null","m":"Last night I did a full hour on stream of building and practicing aim and I improved with my keybinds so well","nm":"Last night I did a full hour on stream of building and practicing aim and I improved with my keybinds so well","b":"nb"}
+{"t":209181,"u":"anon11","e":"null","m":"@dip_7777 do you like cats","nm":"dip_7777 do you like cats","b":"b"}
+{"t":211214,"u":"anon12","e":"null","m":"@dip_7777 like a true athlete analyzing your wins and losses trying to see where you can improve. I great to watch","nm":"dip_7777 like a true athlete analyzing your wins and losses trying to see where you can improve I great to watch","b":"b"}
+{"t":211230,"u":"anon13","e":"{"1424198":["0-12"]}","m":"txryckDenziGG anywhere","nm":"txryckDenziGG anywhere","b":"nb"}
+{"t":211558,"u":"anon6","e":"null","m":"Denzi who came in your room.","nm":"Denzi who came in your room","b":"nb"}
+{"t":217312,"u":"anon14","e":"null","m":"yeh i was in lupos chat is was getting bad","nm":"yeh i was in lupos chat is was getting bad","b":"b"}
+{"t":220058,"u":"anon8","e":"null","m":"mom","nm":"mom","b":"nb"}
+{"t":226455,"u":"anon15","e":"null","m":"10/10 mods","nm":"1010 mods","b":"b"}
+{"t":227469,"u":"anon16","e":"null","m":"Why don’t you both land on opposite sides of tilted to ensure you kill everyone there. That could work","nm":"Why dont you both land on opposite sides of tilted to ensure you kill everyone there That could work","b":"b"}
+{"t":228058,"u":"anon27","e":"null","m":"great job man no joke its so stressful when there money on the line","nm":"great job man no joke its so stressful when there money on the line","b":"nb"}
+{"t":235593,"u":"anon17","e":"null","m":"Stream snipe","nm":"Stream snipe","b":"b"}
+{"t":237510,"u":"anon10","e":"null","m":"^","nm":"","b":"nb"}
+{"t":239659,"u":"anon18","e":"null","m":"@Konti13375i @Konti13375i @Konti13375i Suggestions on growing my channel as twitch staff members?","nm":"Konti13375i Konti13375i Konti13375i Suggestions on growing my channel as twitch staff members","b":"b"}
+{"t":245500,"u":"anon9","e":"null","m":"@fortnitedenzi Im Sorry Not to Show Up on Past Live Streams. Really Sorry Man","nm":"fortnitedenzi Im Sorry Not to Show Up on Past Live Streams Really Sorry Man","b":"nb"}
+{"t":246962,"u":"anon28","e":"null","m":"everybody makes mistakes","nm":"everybody makes mistakes","b":"nb"}
+{"t":251849,"u":"anon19","e":"{"69":["0-9","11-20","22-31","33-42","44-53"]}","m":"BloodTrail BloodTrail BloodTrail BloodTrail BloodTrail","nm":"BloodTrail BloodTrail BloodTrail BloodTrail BloodTrail","b":"b"}
+{"t":253236,"u":"anon29","e":"null","m":"end stream?!","nm":"end stream","b":"nb"}
+{"t":253872,"u":"anon20","e":"null","m":"swag is a verb now","nm":"swag is a verb now","b":"b"}
+{"t":255160,"u":"anon4","e":"{"2":["0-1"],"49106":["14-22"],"1003187":["3-12"],"1003189":["24-33"]}","m":":( MercyWing1 CorgiDerp MercyWing2","nm":" MercyWing1 CorgiDerp MercyWing2","b":"nb"}
+{"t":259469,"u":"anon24","e":"null","m":"How you doing today mate?","nm":"How you doing today mate","b":"nb"}
+{"t":260565,"u":"anon29","e":"null","m":"pls dont","nm":"pls dont","b":"nb"}
+{"t":265043,"u":"anon21","e":"null","m":"Pre ejac","nm":"Pre ejac","b":"b"}
+{"t":270125,"u":"anon22","e":"null","m":"clip?","nm":"clip","b":"b"}
+{"t":280285,"u":"anon23","e":"null","m":"@gravesen_1T yo","nm":"gravesen_1T yo","b":"b"}
+{"t":288742,"u":"anon5","e":"null","m":"NO","nm":"NO","b":"nb"}
+{"t":292465,"u":"anon30","e":"null","m":"thanks","nm":"thanks","b":"b"}
+{"t":293206,"u":"anon5","e":"null","m":"HELL no","nm":"HELL no","b":"nb"}
+{"t":294490,"u":"anon31","e":"null","m":"dip_7777Aww","nm":"dip_7777Aww","b":"b"}
+{"t":294780,"u":"anon29","e":"null","m":"lol","nm":"lol","b":"nb"}
+{"t":296976,"u":"anon10","e":"null","m":"lmao","nm":"lmao","b":"nb"}
+{"t":300623,"u":"anon24","e":"null","m":"lmao","nm":"lmao","b":"nb"}
+{"t":304652,"u":"anon32","e":"null","m":"I CAN BREAK THESE CUFFS","nm":"I CAN BREAK THESE CUFFS","b":"b"}
+{"t":306689,"u":"anon33","e":"{"3792":["13-17"]}","m":"@AuzyrisTVfZ ANELE Clap","nm":"AuzyrisTVfZ ANELE Clap","b":"b"}
+{"t":307512,"u":"anon5","e":"null","m":"I still love you though","nm":"I still love you though","b":"nb"}
+{"t":315815,"u":"anon34","e":"null","m":"Lol","nm":"Lol","b":"b"}
+{"t":318272,"u":"anon35","e":"null","m":"Good nighttt","nm":"Good nighttt","b":"nb"}
+{"t":320586,"u":"anon24","e":"{"443":["21-22"]}","m":"Just a straight 'NO' :D","nm":"Just a straight NO D","b":"nb"}
+{"t":322928,"u":"anon36","e":"null","m":"dip_7777's been doing speed since '03","nm":"dip_7777s been doing speed since 03","b":"b"}
+{"t":324883,"u":"anon35","e":"null","m":"I’m sooo tired lol","nm":"Im sooo tired lol","b":"nb"}
+{"t":336121,"u":"anon37","e":"null","m":"is it worth buying the entire game>","nm":"is it worth buying the entire game","b":"b"}
+{"t":337143,"u":"anon38","e":"null","m":"Sup dip_7777s hysteriaHey","nm":"Sup dip_7777s hysteriaHey","b":"b"}
+{"t":337547,"u":"anon28","e":"null","m":"yes","nm":"yes","b":"nb"}
+{"t":340903,"u":"anon24","e":"null","m":"@cubbz94 Get some sleep!","nm":"cubbz94 Get some sleep","b":"nb"}
+{"t":345268,"u":"anon39","e":"null","m":"big jelly in cave","nm":"big jelly in cave","b":"b"}
+{"t":347296,"u":"anon40","e":"null","m":"@dip_7777 are you going to come back to h1z1 when the new Z1 update comes out?","nm":"dip_7777 are you going to come back to h1z1 when the new Z1 update comes out","b":"b"}
+{"t":347975,"u":"anon28","e":"null","m":"plz yes","nm":"plz yes","b":"nb"}
+{"t":354696,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":355409,"u":"anon2","e":"null","m":"triggered","nm":"triggered","b":"b"}
+{"t":357986,"u":"anon41","e":"null","m":"play with subs","nm":"play with subs","b":"nb"}
+{"t":358115,"u":"anon4","e":"null","m":"When can you apply for partner again","nm":"When can you apply for partner again","b":"nb"}
+{"t":360481,"u":"anon2","e":"null","m":"@Konti13375i ;]","nm":"Konti13375i ","b":"b"}
+{"t":365370,"u":"anon28","e":"null","m":"ppllzz yes","nm":"ppllzz yes","b":"nb"}
+{"t":367612,"u":"anon7","e":"null","m":"just hold the w button gang","nm":"just hold the w button gang","b":"b"}
+{"t":374120,"u":"anon42","e":"null","m":"Playground","nm":"Playground","b":"nb"}
+{"t":374247,"u":"anon10","e":"null","m":"@AGlobalForce uhh have u seen my chats on dicord man and the ones like yesterday and stuff coz u were at work?","nm":"AGlobalForce uhh have u seen my chats on dicord man and the ones like yesterday and stuff coz u were at work","b":"nb"}
+{"t":378216,"u":"anon5","e":"null","m":"Its okay bruv","nm":"Its okay bruv","b":"nb"}
+{"t":378780,"u":"anon11","e":"null","m":"Hey @dip_7777 this is my first time watching your streams","nm":"Hey dip_7777 this is my first time watching your streams","b":"b"}
+{"t":389951,"u":"anon12","e":"null","m":"Sup dip_7777","nm":"Sup dip_7777","b":"b"}
+{"t":391278,"u":"anon5","e":"null","m":"@Passi0net noo","nm":"Passi0net noo","b":"nb"}
+{"t":393121,"u":"anon27","e":"null","m":"what grahpics card are you tryna get","nm":"what grahpics card are you tryna get","b":"nb"}
+{"t":397069,"u":"anon14","e":"null","m":"What you cooking?","nm":"What you cooking","b":"b"}
+{"t":398196,"u":"anon29","e":"null","m":"sorry denzi","nm":"sorry denzi","b":"nb"}
+{"t":401715,"u":"anon25","e":"null","m":"Stupid mods-.-","nm":"Stupid mods","b":"nb"}
+{"t":402127,"u":"anon15","e":"null","m":"Can you do the ONLY WIN challenge? lol","nm":"Can you do the ONLY WIN challenge lol","b":"b"}
+{"t":402464,"u":"anon10","e":"{"58765":["14-24"]}","m":"@AGlobalForce NotLikeThis","nm":"AGlobalForce NotLikeThis","b":"nb"}
+{"t":404601,"u":"anon5","e":"null","m":"Taryck, How about this","nm":"Taryck How about this","b":"nb"}
+{"t":413296,"u":"anon16","e":"null","m":"cheer45000 LUV U FAM","nm":"cheer45000 LUV U FAM","b":"b"}
+{"t":413776,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":414284,"u":"anon42","e":"null","m":"Don’t beat yourself up xxxxxxx","nm":"Dont beat yourself up xxxxxxx","b":"nb"}
+{"t":417189,"u":"anon4","e":"null","m":"!peensize","nm":"peensize","b":"nb"}
+{"t":417461,"u":"anon29","e":"null","m":"GTG","nm":"GTG","b":"nb"}
+{"t":418509,"u":"anon43","e":"null","m":"duo fill","nm":"duo fill","b":"nb"}
+{"t":422762,"u":"anon1","e":"null","m":"i was typing in emotes bro","nm":"i was typing in emotes bro","b":"nb"}
+{"t":424467,"u":"anon17","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":437675,"u":"anon18","e":"null","m":"@Cillidbaaangl hes doing it till they fix it","nm":"Cillidbaaangl hes doing it till they fix it","b":"b"}
+{"t":446015,"u":"anon28","e":"null","m":"duo fill","nm":"duo fill","b":"nb"}
+{"t":447312,"u":"anon10","e":"null","m":"@fortnitedenzi now ur just wingeing to get sypathy i know u hahaah","nm":"fortnitedenzi now ur just wingeing to get sypathy i know u hahaah","b":"nb"}
+{"t":451895,"u":"anon19","e":"null","m":"o.o","nm":"oo","b":"b"}
+{"t":457521,"u":"anon1","e":"null","m":"taryck tryna get somma dat sympothy sex from monteiss","nm":"taryck tryna get somma dat sympothy sex from monteiss","b":"nb"}
+{"t":458000,"u":"anon10","e":"null","m":"jkjk","nm":"jkjk","b":"nb"}
+{"t":459807,"u":"anon6","e":"null","m":"@fortnitekookxbow HEy","nm":"fortnitekookxbow HEy","b":"nb"}
+{"t":459858,"u":"anon27","e":"null","m":"@QSG_Charge to big of a peen","nm":"QSG_Charge to big of a peen","b":"nb"}
+{"t":466094,"u":"anon20","e":"null","m":"would been 10","nm":"would been 10","b":"b"}
+{"t":468125,"u":"anon21","e":"null","m":"5555555","nm":"5555555","b":"b"}
+{"t":472189,"u":"anon22","e":"null","m":"Hi","nm":"Hi","b":"b"}
+{"t":473243,"u":"anon3","e":"null","m":"Follow Denzitv on insta or instagram.com/denzitv to see twitch highlights, when I go live and to be entered into giveaways I host.","nm":"Follow Denzitv on insta or instagramcomdenzitv to see twitch highlights when I go live and to be entered into giveaways I host","b":"nb"}
+{"t":473509,"u":"anon43","e":"null","m":"91 viewers","nm":"91 viewers","b":"nb"}
+{"t":478287,"u":"anon23","e":"{"114836":["13-20"]}","m":"@Konti13375i Jebaited","nm":"Konti13375i Jebaited","b":"b"}
+{"t":482255,"u":"anon4","e":"null","m":"@dixblopingboi it would break the screen","nm":"dixblopingboi it would break the screen","b":"nb"}
+{"t":485643,"u":"anon5","e":"null","m":"@fortnitekookxbow LMAO","nm":"fortnitekookxbow LMAO","b":"nb"}
+{"t":492498,"u":"anon30","e":"null","m":"he got banned on twitch and FORTNITE LOLELLEOLELEEOLKOLKEEL","nm":"he got banned on twitch and FORTNITE LOLELLEOLELEEOLKOLKEEL","b":"b"}
+{"t":493489,"u":"anon42","e":"null","m":"Taryck don’t beat yourself up xx","nm":"Taryck dont beat yourself up xx","b":"nb"}
+{"t":496137,"u":"anon1","e":"null","m":"global didnt say u should risk it","nm":"global didnt say u should risk it","b":"nb"}
+{"t":504683,"u":"anon31","e":"null","m":"rekt","nm":"rekt","b":"b"}
+{"t":505957,"u":"anon5","e":"null","m":"Yeah, I did","nm":"Yeah I did","b":"nb"}
+{"t":511306,"u":"anon41","e":"null","m":"sub games","nm":"sub games","b":"nb"}
+{"t":512798,"u":"anon32","e":"null","m":"ki","nm":"ki","b":"b"}
+{"t":521024,"u":"anon27","e":"null","m":"@QSG_Charge its known for its wide variety of strokes","nm":"QSG_Charge its known for its wide variety of strokes","b":"nb"}
+{"t":523847,"u":"anon42","e":"null","m":"Shudddup mattt","nm":"Shudddup mattt","b":"nb"}
+{"t":526983,"u":"anon1","e":"null","m":"oh lmao i saw someone else do it as well","nm":"oh lmao i saw someone else do it as well","b":"nb"}
+{"t":527015,"u":"anon33","e":"null","m":"@EllektrikkS0 thank you!","nm":"EllektrikkS0 thank you","b":"b"}
+{"t":533054,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":534122,"u":"anon34","e":"null","m":"triggered trash","nm":"triggered trash","b":"b"}
+{"t":534467,"u":"anon5","e":"null","m":"Hmmm","nm":"Hmmm","b":"nb"}
+{"t":538908,"u":"anon1","e":"null","m":"ohhhhhh i thought that was someone else","nm":"ohhhhhh i thought that was someone else","b":"nb"}
+{"t":540222,"u":"anon36","e":"null","m":"MISSED GOLD ZAPOTRON","nm":"MISSED GOLD ZAPOTRON","b":"b"}
+{"t":540988,"u":"anon5","e":"null","m":"What should we do?","nm":"What should we do","b":"nb"}
+{"t":542545,"u":"anon28","e":"null","m":"go to sleep","nm":"go to sleep","b":"nb"}
+{"t":550095,"u":"anon1","e":"null","m":"hehehe @monteiss14_","nm":"hehehe monteiss14_","b":"nb"}
+{"t":550372,"u":"anon37","e":"null","m":"im crying","nm":"im crying","b":"b"}
+{"t":553305,"u":"anon41","e":"null","m":"sub games","nm":"sub games","b":"nb"}
+{"t":557477,"u":"anon38","e":"null","m":"nice","nm":"nice","b":"b"}
+{"t":557608,"u":"anon1","e":"null","m":"do some playground fill","nm":"do some playground fill","b":"nb"}
+{"t":560538,"u":"anon42","e":"null","m":"ur so funny matt wow","nm":"ur so funny matt wow","b":"nb"}
+{"t":565051,"u":"anon44","e":"null","m":"do playgrounds","nm":"do playgrounds","b":"nb"}
+{"t":567820,"u":"anon41","e":"null","m":"oops inv by accident","nm":"oops inv by accident","b":"nb"}
+{"t":569193,"u":"anon43","e":"null","m":"duo fill","nm":"duo fill","b":"nb"}
+{"t":569676,"u":"anon39","e":"null","m":"Gg","nm":"Gg","b":"b"}
+{"t":570989,"u":"anon1","e":"null","m":"if u get off hop in a call?","nm":"if u get off hop in a call","b":"nb"}
+{"t":572178,"u":"anon4","e":"null","m":"@dixblopingboi my iPhone screen is only 6 inches I think it has at least 3 times that","nm":"dixblopingboi my iPhone screen is only 6 inches I think it has at least 3 times that","b":"nb"}
+{"t":573084,"u":"anon43","e":"null","m":"playground fill","nm":"playground fill","b":"nb"}
+{"t":575564,"u":"anon42","e":"null","m":"Play playground mode","nm":"Play playground mode","b":"nb"}
+{"t":576785,"u":"anon40","e":"null","m":"how is he always landing on a pump!","nm":"how is he always landing on a pump","b":"b"}
+{"t":577192,"u":"anon43","e":"null","m":"duo fill","nm":"duo fill","b":"nb"}
+{"t":583218,"u":"anon41","e":"null","m":"@fortnitedenzi do sub games brutha","nm":"fortnitedenzi do sub games brutha","b":"nb"}
+{"t":583309,"u":"anon5","e":"null","m":"Ill give you another challenge","nm":"Ill give you another challenge","b":"nb"}
+{"t":590369,"u":"anon10","e":"null","m":"^^","nm":"","b":"nb"}
+{"t":592017,"u":"anon45","e":"{"2":["5-6"]}","m":"HEAL :(","nm":"HEAL ","b":"b"}
+{"t":594038,"u":"anon1","e":"null","m":"playground fill","nm":"playground fill","b":"nb"}
+{"t":601067,"u":"anon28","e":"null","m":"50v50","nm":"50v50","b":"nb"}
+{"t":601165,"u":"anon46","e":"null","m":"HAHAHAHAHAHAH","nm":"HAHAHAHAHAHAH","b":"b"}
+{"t":602171,"u":"anon47","e":"null","m":"wow","nm":"wow","b":"b"}
+{"t":603105,"u":"anon5","e":"null","m":"Let me think","nm":"Let me think","b":"nb"}
+{"t":611310,"u":"anon48","e":"null","m":"40K at midnight in our timezone... NUTS. This is so dope lol","nm":"40K at midnight in our timezone NUTS This is so dope lol","b":"b"}
+{"t":612330,"u":"anon49","e":"null","m":"that guy was pissed","nm":"that guy was pissed","b":"b"}
+{"t":615376,"u":"anon50","e":"{"28087":["0-6"]}","m":"WutFace","nm":"WutFace","b":"b"}
+{"t":618635,"u":"anon27","e":"null","m":"@QSG_Charge at least defo","nm":"QSG_Charge at least defo","b":"nb"}
+{"t":621455,"u":"anon51","e":"null","m":"tug boat stream snipe","nm":"tug boat stream snipe","b":"b"}
+{"t":629596,"u":"anon52","e":"null","m":"top kek","nm":"top kek","b":"b"}
+{"t":632737,"u":"anon5","e":"null","m":"Do you want the $15 or another challenge? The risk might not be worth the reward. Ill let you decide","nm":"Do you want the 15 or another challenge The risk might not be worth the reward Ill let you decide","b":"nb"}
+{"t":635693,"u":"anon53","e":"null","m":"Brooooomance!","nm":"Brooooomance","b":"b"}
+{"t":637721,"u":"anon54","e":"null","m":"tia","nm":"tia","b":"b"}
+{"t":639736,"u":"anon55","e":"{"84608":["15-22"]}","m":"The disrespect cmonBruh","nm":"The disrespect cmonBruh","b":"b"}
+{"t":643743,"u":"anon4","e":"null","m":"And you will show face cam","nm":"And you will show face cam","b":"nb"}
+{"t":643809,"u":"anon56","e":"null","m":"daddy wants the storm","nm":"daddy wants the storm","b":"b"}
+{"t":650035,"u":"anon1","e":"null","m":"@AGlobalForce since he failed that make it every 2 kills is $30","nm":"AGlobalForce since he failed that make it every 2 kills is 30","b":"nb"}
+{"t":651919,"u":"anon57","e":"null","m":"@Hefinex2 no","nm":"Hefinex2 no","b":"b"}
+{"t":660045,"u":"anon58","e":"null","m":"bruh.. I just had bk","nm":"bruh I just had bk","b":"b"}
+{"t":660940,"u":"anon1","e":"null","m":"i reckon that will be good as","nm":"i reckon that will be good as","b":"nb"}
+{"t":665122,"u":"anon59","e":"null","m":"@deadlyopticsns basically the controlled chaos of where the bullets go in this game","nm":"deadlyopticsns basically the controlled chaos of where the bullets go in this game","b":"b"}
+{"t":669181,"u":"anon60","e":"null","m":"He wants to die chill chat","nm":"He wants to die chill chat","b":"b"}
+{"t":679359,"u":"anon61","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":684427,"u":"anon62","e":"null","m":"38 kills","nm":"38 kills","b":"b"}
+{"t":686539,"u":"anon28","e":"null","m":"take the 15","nm":"take the 15","b":"nb"}
+{"t":692547,"u":"anon63","e":"null","m":"@AuzyrisTVfZ Read your motherboard manual!","nm":"AuzyrisTVfZ Read your motherboard manual","b":"b"}
+{"t":702694,"u":"anon64","e":"null","m":"WHATTTTT","nm":"WHATTTTT","b":"b"}
+{"t":703708,"u":"anon2","e":"null","m":"GOAT","nm":"GOAT","b":"b"}
+{"t":707765,"u":"anon2","e":"null","m":"baait","nm":"baait","b":"b"}
+{"t":708099,"u":"anon27","e":"null","m":"backflip for 4 vbucks","nm":"backflip for 4 vbucks","b":"nb"}
+{"t":715908,"u":"anon7","e":"{"425618":["10-12"]}","m":"the pumps LUL","nm":"the pumps LUL","b":"b"}
+{"t":716379,"u":"anon44","e":"null","m":"what r ur specs","nm":"what r ur specs","b":"nb"}
+{"t":723003,"u":"anon11","e":"null","m":"Twitch staff comin through with the support","nm":"Twitch staff comin through with the support","b":"b"}
+{"t":724741,"u":"anon5","e":"null","m":"!specs","nm":"specs","b":"nb"}
+{"t":724922,"u":"anon3","e":"null","m":"i5 2500 / GTX 660 Ti / 8gb Ram","nm":"i5 2500  GTX 660 Ti  8gb Ram","b":"nb"}
+{"t":728366,"u":"anon6","e":"null","m":"@fortnitekookxbow $30 is 2 kills when its 15 1 kill","nm":"fortnitekookxbow 30 is 2 kills when its 15 1 kill","b":"nb"}
+{"t":729965,"u":"anon4","e":"null","m":"Yeeticus the meaticus","nm":"Yeeticus the meaticus","b":"nb"}
+{"t":730121,"u":"anon12","e":"{"25":["24-28"]}","m":"Myth can keep on hating Kappa","nm":"Myth can keep on hating Kappa","b":"b"}
+{"t":734184,"u":"anon14","e":"null","m":"@RaizQT4I hahaha i was just like ???","nm":"RaizQT4I hahaha i was just like ","b":"b"}
+{"t":736221,"u":"anon15","e":"null","m":"saving money for a pc really sucks man","nm":"saving money for a pc really sucks man","b":"b"}
+{"t":737233,"u":"anon16","e":"null","m":"you guys can defnitely hit 40 with the right game","nm":"you guys can defnitely hit 40 with the right game","b":"b"}
+{"t":744343,"u":"anon17","e":"null","m":"Shut up and break some records, viewers, kills, momentum mentum mentum","nm":"Shut up and break some records viewers kills momentum mentum mentum","b":"b"}
+{"t":744994,"u":"anon10","e":"null","m":"^","nm":"","b":"nb"}
+{"t":752191,"u":"anon65","e":"null","m":"hey im back again","nm":"hey im back again","b":"nb"}
+{"t":753487,"u":"anon18","e":"null","m":"Hey boys","nm":"Hey boys","b":"b"}
+{"t":758618,"u":"anon1","e":"null","m":"yeh i know im not stupid @Hayden_rock35","nm":"yeh i know im not stupid Hayden_rock35","b":"nb"}
+{"t":762623,"u":"anon19","e":"null","m":"POGGERS","nm":"POGGERS","b":"b"}
+{"t":766692,"u":"anon20","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":772777,"u":"anon21","e":"null","m":"loo","nm":"loo","b":"b"}
+{"t":773017,"u":"anon6","e":"null","m":"@fortnitekookxbow Dident say you were stupid <","nm":"fortnitekookxbow Dident say you were stupid ","b":"nb"}
+{"t":774658,"u":"anon6","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":775875,"u":"anon65","e":"null","m":"thns","nm":"thns","b":"nb"}
+{"t":778875,"u":"anon22","e":"null","m":"cheer100 cheer100 cheer100 cheer100 cheer100","nm":"cheer100 cheer100 cheer100 cheer100 cheer100","b":"b"}
+{"t":780837,"u":"anon1","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":781925,"u":"anon23","e":"null","m":"o shit","nm":"o shit","b":"b"}
+{"t":784552,"u":"anon28","e":"null","m":"show me your first dance you owned","nm":"show me your first dance you owned","b":"nb"}
+{"t":787999,"u":"anon30","e":"null","m":"Your YouTube is killin it man. Congrats","nm":"Your YouTube is killin it man Congrats","b":"b"}
+{"t":795099,"u":"anon31","e":"null","m":"@dip_7777 where did you get your orange and blue goku shirt?","nm":"dip_7777 where did you get your orange and blue goku shirt","b":"b"}
+{"t":802217,"u":"anon32","e":"null","m":"Oh no no no no no plz no","nm":"Oh no no no no no plz no","b":"b"}
+{"t":808312,"u":"anon33","e":"null","m":"one more","nm":"one more","b":"b"}
+{"t":811358,"u":"anon34","e":"null","m":"L","nm":"L","b":"b"}
+{"t":814409,"u":"anon36","e":"null","m":"why not just take the dub and play it out","nm":"why not just take the dub and play it out","b":"b"}
+{"t":820496,"u":"anon37","e":"null","m":"@dip_7777 can you explain to me what bloom is in fortnite? Lol","nm":"dip_7777 can you explain to me what bloom is in fortnite Lol","b":"b"}
+{"t":823531,"u":"anon38","e":"null","m":"wow lol","nm":"wow lol","b":"b"}
+{"t":826574,"u":"anon4","e":"null","m":"They blocked coolmathgames on school iPads and school WiFi FeelsBadMan","nm":"They blocked coolmathgames on school iPads and school WiFi FeelsBadMan","b":"nb"}
+{"t":827951,"u":"anon1","e":"null","m":"brb","nm":"brb","b":"nb"}
+{"t":828288,"u":"anon27","e":"null","m":"how bout backflip or 5 vbucks ?","nm":"how bout backflip or 5 vbucks ","b":"nb"}
+{"t":830668,"u":"anon39","e":"null","m":"@dip_7777 where did you get your orange and blue goku shirt","nm":"dip_7777 where did you get your orange and blue goku shirt","b":"b"}
+{"t":832344,"u":"anon6","e":"null","m":"d","nm":"d","b":"nb"}
+{"t":834703,"u":"anon40","e":"null","m":"Whisper me if u wanna add me on xbox if ur good","nm":"Whisper me if u wanna add me on xbox if ur good","b":"b"}
+{"t":840813,"u":"anon45","e":"{"86":["0-9","26-35"]}","m":"BibleThump WE CAN PRETEND BibleThump","nm":"BibleThump WE CAN PRETEND BibleThump","b":"b"}
+{"t":841835,"u":"anon46","e":"null","m":"poop","nm":"poop","b":"b"}
+{"t":842846,"u":"anon47","e":"null","m":"someone make a youtube comp of thos","nm":"someone make a youtube comp of thos","b":"b"}
+{"t":843548,"u":"anon43","e":"null","m":"fgf","nm":"fgf","b":"nb"}
+{"t":844742,"u":"anon43","e":"null","m":"fg","nm":"fg","b":"nb"}
+{"t":850970,"u":"anon48","e":"null","m":"has an Org. picked you up yet?","nm":"has an Org picked you up yet","b":"b"}
+{"t":856950,"u":"anon65","e":"null","m":"@QSG_Charge that sucks","nm":"QSG_Charge that sucks","b":"nb"}
+{"t":857061,"u":"anon49","e":"null","m":"What’s ur fav team @alanzokaeX","nm":"Whats ur fav team alanzokaeX","b":"b"}
+{"t":860121,"u":"anon42","e":"null","m":"What’s the deal now","nm":"Whats the deal now","b":"nb"}
+{"t":865188,"u":"anon50","e":"{"86":["0-9","11-20","22-31"]}","m":"BibleThump BibleThump BibleThump","nm":"BibleThump BibleThump BibleThump","b":"b"}
+{"t":873298,"u":"anon51","e":"{"88":["0-7"]}","m":"PogChamp Clap","nm":"PogChamp Clap","b":"b"}
+{"t":877379,"u":"anon52","e":"null","m":"Emotes are hilarious","nm":"Emotes are hilarious","b":"b"}
+{"t":878013,"u":"anon5","e":"null","m":"9 kills and a W","nm":"9 kills and a W","b":"nb"}
+{"t":884309,"u":"anon5","e":"null","m":"You have 4 tries","nm":"You have 4 tries","b":"nb"}
+{"t":885503,"u":"anon53","e":"null","m":"2rans suck","nm":"2rans suck","b":"b"}
+{"t":889554,"u":"anon54","e":"null","m":"ohhsnaCStory","nm":"ohhsnaCStory","b":"b"}
+{"t":892187,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":892596,"u":"anon55","e":"{"68856":["0-6"]}","m":"MingLee","nm":"MingLee","b":"b"}
+{"t":896669,"u":"anon56","e":"null","m":"what mouse are they talking about??","nm":"what mouse are they talking about","b":"b"}
+{"t":896705,"u":"anon27","e":"null","m":"5 hole vbucks very risky","nm":"5 hole vbucks very risky","b":"nb"}
+{"t":898532,"u":"anon28","e":"null","m":"hard","nm":"hard","b":"nb"}
+{"t":898702,"u":"anon57","e":"{"52":["0-4"]}","m":"SMOrc","nm":"SMOrc","b":"b"}
+{"t":902813,"u":"anon4","e":"null","m":"Always on that 60-Second Burger Run Grind","nm":"Always on that 60Second Burger Run Grind","b":"nb"}
+{"t":904450,"u":"anon42","e":"null","m":"Ohhh shitttt","nm":"Ohhh shitttt","b":"nb"}
+{"t":904799,"u":"anon58","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":906829,"u":"anon59","e":"null","m":"not possibru","nm":"not possibru","b":"b"}
+{"t":910884,"u":"anon60","e":"null","m":"@Hefinex2 what went on?","nm":"Hefinex2 what went on","b":"b"}
+{"t":911907,"u":"anon61","e":"{"114836":["34-41"]}","m":"dip_7777 can yell at who he wants Jebaited","nm":"dip_7777 can yell at who he wants Jebaited","b":"b"}
+{"t":916987,"u":"anon62","e":"null","m":"dip_7777 you into streetwear?","nm":"dip_7777 you into streetwear","b":"b"}
+{"t":919016,"u":"anon63","e":"null","m":"@ThreedoggBc feelsbirthdayman","nm":"ThreedoggBc feelsbirthdayman","b":"b"}
+{"t":921629,"u":"anon65","e":"null","m":"globl hey","nm":"globl hey","b":"nb"}
+{"t":922046,"u":"anon64","e":"null","m":"Holy fuck","nm":"Holy fuck","b":"b"}
+{"t":923076,"u":"anon66","e":"null","m":"How’ are you @dip_7777","nm":"How are you dip_7777","b":"b"}
+{"t":924093,"u":"anon67","e":"null","m":"ahahahhaa","nm":"ahahahhaa","b":"b"}
+{"t":925114,"u":"anon68","e":"null","m":"Blue ar","nm":"Blue ar","b":"b"}
+{"t":926128,"u":"anon69","e":"null","m":"LMAO","nm":"LMAO","b":"b"}
+{"t":930840,"u":"anon70","e":"null","m":"I just reached tier 100 and level 60 and I don’t have any of the dire upgrades! anyone know why?","nm":"I just reached tier 100 and level 60 and I dont have any of the dire upgrades anyone know why","b":"nb"}
+{"t":931212,"u":"anon71","e":"null","m":"what the fuck is up my people","nm":"what the fuck is up my people","b":"b"}
+{"t":932224,"u":"anon72","e":"null","m":"were people abusing the boom replay????","nm":"were people abusing the boom replay","b":"b"}
+{"t":937298,"u":"anon73","e":"null","m":"😒","nm":"","b":"b"}
+{"t":938316,"u":"anon74","e":"null","m":"sumW sumPluto sumE","nm":"sumW sumPluto sumE","b":"b"}
+{"t":942378,"u":"anon75","e":"null","m":"@SratukeDe yes but your going to have to go amd for graphics card and cpu","nm":"SratukeDe yes but your going to have to go amd for graphics card and cpu","b":"b"}
+{"t":947454,"u":"anon76","e":"null","m":"@marth88M Hulloooo","nm":"marth88M Hulloooo","b":"b"}
+{"t":950471,"u":"anon6","e":"null","m":"@monteiss14_ Are you in denzis class?","nm":"monteiss14_ Are you in denzis class","b":"nb"}
+{"t":950661,"u":"anon10","e":"null","m":"@vizionttv idk man thats weird","nm":"vizionttv idk man thats weird","b":"nb"}
+{"t":951507,"u":"anon77","e":"null","m":"@dip_7777 Youre the best, you deserve all the donations and subs you get 100%","nm":"dip_7777 Youre the best you deserve all the donations and subs you get 100","b":"b"}
+{"t":953369,"u":"anon65","e":"null","m":"global soz","nm":"global soz","b":"nb"}
+{"t":953747,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":954565,"u":"anon78","e":"{"191764":["0-5"]}","m":"Squid3","nm":"Squid3","b":"b"}
+{"t":959640,"u":"anon79","e":"null","m":"Heyy","nm":"Heyy","b":"b"}
+{"t":959664,"u":"anon43","e":"null","m":"!discord","nm":"discord","b":"nb"}
+{"t":959917,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":960873,"u":"anon10","e":"null","m":"@vizionttv try restarting?","nm":"vizionttv try restarting","b":"nb"}
+{"t":961669,"u":"anon80","e":"null","m":"RIP MoneyBoze","nm":"RIP MoneyBoze","b":"b"}
+{"t":963365,"u":"anon42","e":"null","m":"@hayden_rock35 yeh","nm":"hayden_rock35 yeh","b":"nb"}
+{"t":966741,"u":"anon81","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":970376,"u":"anon28","e":"null","m":"you know what your first dance was","nm":"you know what your first dance was","b":"nb"}
+{"t":971960,"u":"anon6","e":"null","m":"@monteiss14_ Oh","nm":"monteiss14_ Oh","b":"nb"}
+{"t":972842,"u":"anon82","e":"null","m":"play w summit","nm":"play w summit","b":"b"}
+{"t":973858,"u":"anon83","e":"{"2":["50-51"]}","m":"every time i come here dip_7777 is downed or dead :(","nm":"every time i come here dip_7777 is downed or dead ","b":"b"}
+{"t":978931,"u":"anon84","e":"null","m":"men7alBrain men7alBrain men7alBrain men7alBrain men7alBrain","nm":"men7alBrain men7alBrain men7alBrain men7alBrain men7alBrain","b":"b"}
+{"t":980968,"u":"anon85","e":"null","m":"WTF","nm":"WTF","b":"b"}
+{"t":985792,"u":"anon42","e":"null","m":"@hayden_rock35 why","nm":"hayden_rock35 why","b":"nb"}
+{"t":987054,"u":"anon86","e":"null","m":"have to restart slim to none","nm":"have to restart slim to none","b":"b"}
+{"t":990243,"u":"anon27","e":"null","m":"do you know the rapper chillinit","nm":"do you know the rapper chillinit","b":"nb"}
+{"t":992131,"u":"anon87","e":"null","m":"i think they kno about that bug tho lol","nm":"i think they kno about that bug tho lol","b":"b"}
+{"t":992316,"u":"anon70","e":"null","m":"@passi0net I did like 3 times","nm":"passi0net I did like 3 times","b":"nb"}
+{"t":992415,"u":"anon65","e":"null","m":";.","nm":"","b":"nb"}
+{"t":992756,"u":"anon10","e":"null","m":"@vizionttv o wait some of the upgrades are complete weekly challenges","nm":"vizionttv o wait some of the upgrades are complete weekly challenges","b":"nb"}
+{"t":997182,"u":"anon6","e":"null","m":"@monteiss14_ dose kook go to your class","nm":"monteiss14_ dose kook go to your class","b":"nb"}
+{"t":997216,"u":"anon88","e":"{"84608":["0-7","9-16","18-25","27-34","36-43","45-52","54-61","63-70","72-79","81-88","90-97","99-106","108-115","117-124","126-133","135-142","144-151"]}","m":"cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh","nm":"cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh","b":"b"}
+{"t":1002296,"u":"anon89","e":"null","m":"he has audios on another monitor","nm":"he has audios on another monitor","b":"b"}
+{"t":1002312,"u":"anon42","e":"null","m":"@dixblopingboi yessss","nm":"dixblopingboi yessss","b":"nb"}
+{"t":1003307,"u":"anon90","e":"{"354":["27-31"]}","m":"34 is not greater than 36? 4Head","nm":"34 is not greater than 36 4Head","b":"b"}
+{"t":1009404,"u":"anon91","e":"null","m":"sub","nm":"sub","b":"b"}
+{"t":1012328,"u":"anon4","e":"null","m":"I want to see a 69 kill game and I will donate $500","nm":"I want to see a 69 kill game and I will donate 500","b":"nb"}
+{"t":1012453,"u":"anon2","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":1012641,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":1015507,"u":"anon7","e":"null","m":"wow","nm":"wow","b":"b"}
+{"t":1017687,"u":"anon42","e":"null","m":"@hayden_rock35 he’s in our year","nm":"hayden_rock35 hes in our year","b":"nb"}
+{"t":1018542,"u":"anon11","e":"null","m":"stream loot","nm":"stream loot","b":"b"}
+{"t":1019561,"u":"anon12","e":"null","m":"YOURE A FUCKING GOD","nm":"YOURE A FUCKING GOD","b":"b"}
+{"t":1019818,"u":"anon65","e":"null","m":"remember when we where all bitching about nightbot","nm":"remember when we where all bitching about nightbot","b":"nb"}
+{"t":1020576,"u":"anon14","e":"null","m":"100","nm":"100","b":"b"}
+{"t":1021597,"u":"anon15","e":"{"120232":["0-6"]}","m":"TriHard 7","nm":"TriHard 7","b":"b"}
+{"t":1023629,"u":"anon16","e":"null","m":"got aqueef'd on?","nm":"got aqueefd on","b":"b"}
+{"t":1024639,"u":"anon17","e":"null","m":"@CasinoLocosE king is using g900 though","nm":"CasinoLocosE king is using g900 though","b":"b"}
+{"t":1026672,"u":"anon18","e":"{"114836":["0-7"]}","m":"Jebaited","nm":"Jebaited","b":"b"}
+{"t":1027539,"u":"anon65","e":"null","m":"hahhahhaha","nm":"hahhahhaha","b":"nb"}
+{"t":1029719,"u":"anon19","e":"null","m":"YOURE WITH SUMMIT IN THIS GAME","nm":"YOURE WITH SUMMIT IN THIS GAME","b":"b"}
+{"t":1032681,"u":"anon10","e":"null","m":"@AGlobalForce bb","nm":"AGlobalForce bb","b":"nb"}
+{"t":1032763,"u":"anon20","e":"null","m":"doc? dr lupo","nm":"doc dr lupo","b":"b"}
+{"t":1033782,"u":"anon21","e":"{"25":["13-17"]}","m":"what command Kappa","nm":"what command Kappa","b":"b"}
+{"t":1035813,"u":"anon22","e":"{"84608":["0-7"]}","m":"cmonBruh","nm":"cmonBruh","b":"b"}
+{"t":1036831,"u":"anon23","e":"null","m":"White ar op op","nm":"White ar op op","b":"b"}
+{"t":1038977,"u":"anon27","e":"null","m":"@monteiss14_ hes good you reckon i like him","nm":"monteiss14_ hes good you reckon i like him","b":"nb"}
+{"t":1039874,"u":"anon30","e":"null","m":"logIssou logIssou","nm":"logIssou logIssou","b":"b"}
+{"t":1042917,"u":"anon31","e":"null","m":"purple scar","nm":"purple scar","b":"b"}
+{"t":1043934,"u":"anon32","e":"null","m":"He survived that.","nm":"He survived that","b":"b"}
+{"t":1044909,"u":"anon6","e":"null","m":"DONT THINK BOU IT YOU WILL BE STRESSED","nm":"DONT THINK BOU IT YOU WILL BE STRESSED","b":"nb"}
+{"t":1046988,"u":"anon33","e":"null","m":"PG 13","nm":"PG 13","b":"b"}
+{"t":1050026,"u":"anon34","e":"{"360":["25-32"]}","m":"hes not blaming him chat FailFish","nm":"hes not blaming him chat FailFish","b":"b"}
+{"t":1052064,"u":"anon36","e":"null","m":"Stfu","nm":"Stfu","b":"b"}
+{"t":1054626,"u":"anon42","e":"null","m":"@dixblopingboi I love him","nm":"dixblopingboi I love him","b":"nb"}
+{"t":1055109,"u":"anon37","e":"null","m":"@comesomeall1H2 Clap","nm":"comesomeall1H2 Clap","b":"b"}
+{"t":1058155,"u":"anon38","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1059174,"u":"anon39","e":"null","m":"LuL","nm":"LuL","b":"b"}
+{"t":1059347,"u":"anon5","e":"null","m":"Huh?","nm":"Huh","b":"nb"}
+{"t":1061199,"u":"anon40","e":"null","m":"that fucking aim punch.","nm":"that fucking aim punch","b":"b"}
+{"t":1063237,"u":"anon45","e":"null","m":"HEY","nm":"HEY","b":"b"}
+{"t":1065278,"u":"anon46","e":"null","m":"i had to clean my kitchen monkaS","nm":"i had to clean my kitchen monkaS","b":"b"}
+{"t":1066279,"u":"anon47","e":"{"191762":["0-5"],"191763":["7-12"],"191764":["14-19"],"191767":["21-26"]}","m":"Squid1 Squid2 Squid3 Squid4","nm":"Squid1 Squid2 Squid3 Squid4","b":"b"}
+{"t":1068635,"u":"anon70","e":"null","m":"passi0net i have the calamity skin fully upgraded and I don’t even have the dire skin upgraded once","nm":"passi0net i have the calamity skin fully upgraded and I dont even have the dire skin upgraded once","b":"nb"}
+{"t":1069326,"u":"anon48","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1070342,"u":"anon49","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1071364,"u":"anon50","e":"null","m":"nasty af","nm":"nasty af","b":"b"}
+{"t":1072369,"u":"anon51","e":"null","m":"blue ar","nm":"blue ar","b":"b"}
+{"t":1072422,"u":"anon3","e":"null","m":"Follow Denzitv on insta or instagram.com/denzitv to see twitch highlights, when I go live and to be entered into giveaways I host.","nm":"Follow Denzitv on insta or instagramcomdenzitv to see twitch highlights when I go live and to be entered into giveaways I host","b":"nb"}
+{"t":1073394,"u":"anon52","e":"null","m":"EZ","nm":"EZ","b":"b"}
+{"t":1075425,"u":"anon53","e":"null","m":"if only there was custom to practice","nm":"if only there was custom to practice","b":"b"}
+{"t":1077451,"u":"anon54","e":"null","m":"wassup","nm":"wassup","b":"b"}
+{"t":1079475,"u":"anon55","e":"null","m":"Yeet","nm":"Yeet","b":"b"}
+{"t":1080888,"u":"anon43","e":"null","m":"!discord","nm":"discord","b":"nb"}
+{"t":1081066,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":1081514,"u":"anon56","e":"null","m":"oH nO pEoPlE dOiNg SwEaRs","nm":"oH nO pEoPlE dOiNg SwEaRs","b":"b"}
+{"t":1084561,"u":"anon57","e":"null","m":"@JacobRLk Truth","nm":"JacobRLk Truth","b":"b"}
+{"t":1086416,"u":"anon5","e":"null","m":"Do this challenge on your first try and ill donate $350USD","nm":"Do this challenge on your first try and ill donate 350USD","b":"nb"}
+{"t":1086598,"u":"anon58","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1088624,"u":"anon59","e":"{"70433":["0-8"]}","m":"KappaRoss","nm":"KappaRoss","b":"b"}
+{"t":1090649,"u":"anon60","e":"null","m":"@BeyondTheSummitSm only pc can compare on pc cus its totally different leagues","nm":"BeyondTheSummitSm only pc can compare on pc cus its totally different leagues","b":"b"}
+{"t":1092690,"u":"anon61","e":"{"425671":["21-28"],"425688":["0-7"]}","m":"PowerUpL formalKappa PowerUpR","nm":"PowerUpL formalKappa PowerUpR","b":"b"}
+{"t":1093182,"u":"anon5","e":"null","m":"Yes, 9 kills and a w","nm":"Yes 9 kills and a w","b":"nb"}
+{"t":1095144,"u":"anon5","e":"null","m":"4 tries","nm":"4 tries","b":"nb"}
+{"t":1095738,"u":"anon62","e":"null","m":"@comesomeall1H2 CmonBruh","nm":"comesomeall1H2 CmonBruh","b":"b"}
+{"t":1096753,"u":"anon63","e":"null","m":"cizzSub","nm":"cizzSub","b":"b"}
+{"t":1097758,"u":"anon64","e":"null","m":"I wouldn't let kids watch doc ol creepy ass","nm":"I wouldnt let kids watch doc ol creepy ass","b":"b"}
+{"t":1098779,"u":"anon66","e":"null","m":"@mmDustA You are an idiot.","nm":"mmDustA You are an idiot","b":"b"}
+{"t":1099277,"u":"anon27","e":"null","m":"@monteiss14_ hes doing a gig near me and i got tickets im that pumped","nm":"monteiss14_ hes doing a gig near me and i got tickets im that pumped","b":"nb"}
+{"t":1101826,"u":"anon67","e":"null","m":"Use medkit that you just ran by","nm":"Use medkit that you just ran by","b":"b"}
+{"t":1105893,"u":"anon68","e":"null","m":"Doc doesn’t play Fortnite","nm":"Doc doesnt play Fortnite","b":"b"}
+{"t":1108841,"u":"anon42","e":"null","m":"@dixblopingboi shit yeh","nm":"dixblopingboi shit yeh","b":"nb"}
+{"t":1109955,"u":"anon69","e":"null","m":"@dip_7777 I have class at 9 please lol","nm":"dip_7777 I have class at 9 please lol","b":"b"}
+{"t":1110894,"u":"anon5","e":"null","m":"Because i want you to choke","nm":"Because i want you to choke","b":"nb"}
+{"t":1113570,"u":"anon28","e":"null","m":"that first dance question was a challenge but everyone has the dance","nm":"that first dance question was a challenge but everyone has the dance","b":"nb"}
+{"t":1115032,"u":"anon71","e":"null","m":"zucc","nm":"zucc","b":"b"}
+{"t":1120112,"u":"anon72","e":"null","m":"32","nm":"32","b":"b"}
+{"t":1121543,"u":"anon10","e":"null","m":"@fortnitedenzi 400 our money*","nm":"fortnitedenzi 400 our money","b":"nb"}
+{"t":1123157,"u":"anon73","e":"null","m":"KappaHD KappaHD KappaHD KappaHD KappaHD","nm":"KappaHD KappaHD KappaHD KappaHD KappaHD","b":"b"}
+{"t":1125190,"u":"anon74","e":"{"360":["25-32"]}","m":"hes not blaming him chat FailFish","nm":"hes not blaming him chat FailFish","b":"b"}
+{"t":1126188,"u":"anon75","e":"{"36":["0-5","7-12","14-19","21-26","28-33"]}","m":"PJSalt PJSalt PJSalt PJSalt PJSalt","nm":"PJSalt PJSalt PJSalt PJSalt PJSalt","b":"b"}
+{"t":1129250,"u":"anon76","e":"null","m":"who here is just chillin, im just chillin","nm":"who here is just chillin im just chillin","b":"b"}
+{"t":1133309,"u":"anon77","e":"null","m":"dip_7777 doesn't win every game, unsub","nm":"dip_7777 doesnt win every game unsub","b":"b"}
+{"t":1134334,"u":"anon78","e":"null","m":"bout to use my first sub to dip_7777","nm":"bout to use my first sub to dip_7777","b":"b"}
+{"t":1135543,"u":"anon5","e":"null","m":"YO","nm":"YO","b":"nb"}
+{"t":1136348,"u":"anon79","e":"null","m":"It Fair","nm":"It Fair","b":"b"}
+{"t":1139353,"u":"anon6","e":"null","m":"@vizionttv How dose that work","nm":"vizionttv How dose that work","b":"nb"}
+{"t":1139418,"u":"anon80","e":"{"2":["12-13"]}","m":"that was me :(","nm":"that was me ","b":"b"}
+{"t":1144478,"u":"anon81","e":"null","m":"This is almost as stressful as watching scump trying to do the 70 challenge","nm":"This is almost as stressful as watching scump trying to do the 70 challenge","b":"b"}
+{"t":1147532,"u":"anon82","e":"null","m":"How many subs does dip_7777 have","nm":"How many subs does dip_7777 have","b":"b"}
+{"t":1151596,"u":"anon83","e":"null","m":"Why did You leave","nm":"Why did You leave","b":"b"}
+{"t":1153506,"u":"anon4","e":"null","m":"Mods only so we can see the wide words of Global","nm":"Mods only so we can see the wide words of Global","b":"nb"}
+{"t":1155657,"u":"anon84","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":1158511,"u":"anon65","e":"null","m":"brb","nm":"brb","b":"nb"}
+{"t":1160738,"u":"anon85","e":"{"425618":["0-2","4-6","8-10","12-14","16-18"]}","m":"LUL LUL LUL LUL LUL","nm":"LUL LUL LUL LUL LUL","b":"b"}
+{"t":1162771,"u":"anon86","e":"{"160394":["0-5"]}","m":"BegWan","nm":"BegWan","b":"b"}
+{"t":1167839,"u":"anon87","e":"null","m":"clip","nm":"clip","b":"b"}
+{"t":1171904,"u":"anon88","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":1175967,"u":"anon89","e":"null","m":"800dpi","nm":"800dpi","b":"b"}
+{"t":1176355,"u":"anon10","e":"null","m":"@vizionttv uhh is do u actualy have the dire challenges","nm":"vizionttv uhh is do u actualy have the dire challenges","b":"nb"}
+{"t":1176981,"u":"anon90","e":"null","m":"K","nm":"K","b":"b"}
+{"t":1177902,"u":"anon4","e":"null","m":"*wise","nm":"wise","b":"nb"}
+{"t":1179677,"u":"anon28","e":"null","m":"lonley","nm":"lonley","b":"nb"}
+{"t":1179900,"u":"anon92","e":"null","m":"hi","nm":"hi","b":"nb"}
+{"t":1181046,"u":"anon91","e":"null","m":"When did he start streaming","nm":"When did he start streaming","b":"b"}
+{"t":1183065,"u":"anon2","e":"null","m":"19 left 1v1 yes","nm":"19 left 1v1 yes","b":"b"}
+{"t":1185090,"u":"anon2","e":"null","m":"@comesomeall1H2 no.","nm":"comesomeall1H2 no","b":"b"}
+{"t":1190192,"u":"anon7","e":"null","m":"youre giving up a slot for this","nm":"youre giving up a slot for this","b":"b"}
+{"t":1192209,"u":"anon11","e":"null","m":"Hey Reece","nm":"Hey Reece","b":"b"}
+{"t":1195261,"u":"anon12","e":"null","m":"Who celebrating with tacos today?","nm":"Who celebrating with tacos today","b":"b"}
+{"t":1195365,"u":"anon92","e":"null","m":"sry i was taking a break","nm":"sry i was taking a break","b":"nb"}
+{"t":1197296,"u":"anon14","e":"null","m":"Your in the storm","nm":"Your in the storm","b":"b"}
+{"t":1202383,"u":"anon15","e":"{"112291":["32-38","40-46","48-54","56-62","64-70","96-102","104-110","112-118","144-150","152-158","160-166"],"112292":["0-6","8-14","16-22","24-30","72-78","80-86","88-94","120-126","128-134","136-142"]}","m":"TakeNRG TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ","nm":"TakeNRG TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ TakeNRG TakeNRG TakeNRG GivePLZ GivePLZ GivePLZ","b":"b"}
+{"t":1207451,"u":"anon16","e":"null","m":"one opportunity monkaS","nm":"one opportunity monkaS","b":"b"}
+{"t":1208469,"u":"anon17","e":"null","m":"feelsbadman for guy","nm":"feelsbadman for guy","b":"b"}
+{"t":1210505,"u":"anon18","e":"null","m":"Blue burst","nm":"Blue burst","b":"b"}
+{"t":1215578,"u":"anon19","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1219641,"u":"anon20","e":"null","m":"wtf hahaha","nm":"wtf hahaha","b":"b"}
+{"t":1221530,"u":"anon10","e":"null","m":"@AGlobalForce bb can i plz have dance money lmao im getting beaned","nm":"AGlobalForce bb can i plz have dance money lmao im getting beaned","b":"nb"}
+{"t":1222684,"u":"anon21","e":"null","m":"noice","nm":"noice","b":"b"}
+{"t":1226749,"u":"anon22","e":"null","m":"I dont miss nothin!","nm":"I dont miss nothin","b":"b"}
+{"t":1229799,"u":"anon23","e":"null","m":"FUCK IT! WHO CARES! @dip_7777 dont let these haters get you you! 20k subs should tell you that we love you man! not anyone else!","nm":"FUCK IT WHO CARES dip_7777 dont let these haters get you you 20k subs should tell you that we love you man not anyone else","b":"b"}
+{"t":1233858,"u":"anon30","e":"null","m":"My prime is broken","nm":"My prime is broken","b":"b"}
+{"t":1237918,"u":"anon31","e":"null","m":"idk what that sound was though LOL","nm":"idk what that sound was though LOL","b":"b"}
+{"t":1238934,"u":"anon32","e":"null","m":"WATS THIS SONG","nm":"WATS THIS SONG","b":"b"}
+{"t":1240725,"u":"anon70","e":"null","m":"@passi0net yes and everyone who is level 60 already has the white wolf and I don’t even have the first upgrade","nm":"passi0net yes and everyone who is level 60 already has the white wolf and I dont even have the first upgrade","b":"nb"}
+{"t":1244014,"u":"anon33","e":"null","m":"hysteriaPump","nm":"hysteriaPump","b":"b"}
+{"t":1248078,"u":"anon34","e":"null","m":"supreme rice and chicken gumbo","nm":"supreme rice and chicken gumbo","b":"b"}
+{"t":1251129,"u":"anon36","e":"null","m":"PRESS 3 IF dip_7777 A HANDSONE MAN","nm":"PRESS 3 IF dip_7777 A HANDSONE MAN","b":"b"}
+{"t":1253154,"u":"anon37","e":"null","m":"@aTTaX_kaiGODVL how","nm":"aTTaX_kaiGODVL how","b":"b"}
+{"t":1255183,"u":"anon38","e":"null","m":"Wtfff","nm":"Wtfff","b":"b"}
+{"t":1258236,"u":"anon39","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1259242,"u":"anon40","e":"null","m":"HIGHLIGHTS OUTRO","nm":"HIGHLIGHTS OUTRO","b":"b"}
+{"t":1263315,"u":"anon45","e":"null","m":"Get it get it yeah yeah","nm":"Get it get it yeah yeah","b":"b"}
+{"t":1267394,"u":"anon46","e":"null","m":"18 left","nm":"18 left","b":"b"}
+{"t":1272454,"u":"anon47","e":"null","m":"sodaC dont stop sucking","nm":"sodaC dont stop sucking","b":"b"}
+{"t":1274861,"u":"anon4","e":"null","m":"Imagine putting TTV in your Twitch username","nm":"Imagine putting TTV in your Twitch username","b":"nb"}
+{"t":1276514,"u":"anon48","e":"null","m":"@CraZyLamar9o about 500$","nm":"CraZyLamar9o about 500","b":"b"}
+{"t":1277527,"u":"anon49","e":"null","m":"Song??","nm":"Song","b":"b"}
+{"t":1280580,"u":"anon50","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":1284625,"u":"anon51","e":"null","m":"whats the record they tryna break","nm":"whats the record they tryna break","b":"b"}
+{"t":1288703,"u":"anon52","e":"null","m":"choke was looking bad","nm":"choke was looking bad","b":"b"}
+{"t":1289721,"u":"anon53","e":"null","m":"MUFFIN","nm":"MUFFIN","b":"b"}
+{"t":1293775,"u":"anon54","e":"null","m":"F*cking double pump c*nt","nm":"Fcking double pump cnt","b":"b"}
+{"t":1296814,"u":"anon55","e":"null","m":"on fornite","nm":"on fornite","b":"b"}
+{"t":1301056,"u":"anon56","e":"null","m":"Bbvb","nm":"Bbvb","b":"b"}
+{"t":1301904,"u":"anon57","e":"{"425618":["0-2","4-6"]}","m":"LUL LUL","nm":"LUL LUL","b":"b"}
+{"t":1305971,"u":"anon58","e":"null","m":"Whats the dubs record?","nm":"Whats the dubs record","b":"b"}
+{"t":1306791,"u":"anon10","e":"null","m":"@vizionttv dude i honesrtly dont know whats worng try un equping it closeing the game and the launcher even from the backround and start it all back up again","nm":"vizionttv dude i honesrtly dont know whats worng try un equping it closeing the game and the launcher even from the backround and start it all back up again","b":"nb"}
+{"t":1307998,"u":"anon59","e":"null","m":"DO U KNO DE WA? IF NOT U NEED EBOLA.","nm":"DO U KNO DE WA IF NOT U NEED EBOLA","b":"b"}
+{"t":1310109,"u":"anon6","e":"null","m":"EWWWW A PUMP","nm":"EWWWW A PUMP","b":"nb"}
+{"t":1313072,"u":"anon60","e":"null","m":"haha","nm":"haha","b":"b"}
+{"t":1314095,"u":"anon61","e":"null","m":"Cleann!","nm":"Cleann","b":"b"}
+{"t":1316126,"u":"anon62","e":"null","m":"the bath","nm":"the bath","b":"b"}
+{"t":1317142,"u":"anon63","e":"null","m":"lata","nm":"lata","b":"b"}
+{"t":1318142,"u":"anon64","e":"null","m":"hi dad @dip_7777","nm":"hi dad dip_7777","b":"b"}
+{"t":1322217,"u":"anon66","e":"null","m":"Do the thing win the points","nm":"Do the thing win the points","b":"b"}
+{"t":1324249,"u":"anon67","e":"null","m":"or build","nm":"or build","b":"b"}
+{"t":1328022,"u":"anon6","e":"null","m":"TACS FOR LIFE","nm":"TACS FOR LIFE","b":"nb"}
+{"t":1329330,"u":"anon68","e":"null","m":"Lol","nm":"Lol","b":"b"}
+{"t":1332375,"u":"anon69","e":"null","m":"she is erin","nm":"she is erin","b":"b"}
+{"t":1336439,"u":"anon71","e":"null","m":"The g502","nm":"The g502","b":"b"}
+{"t":1338472,"u":"anon72","e":"{"360":["25-32"]}","m":"hes not blaming him chat FailFish","nm":"hes not blaming him chat FailFish","b":"b"}
+{"t":1342116,"u":"anon10","e":"null","m":"@Hayden_rock35 14 dmg for life","nm":"Hayden_rock35 14 dmg for life","b":"nb"}
+{"t":1342532,"u":"anon73","e":"null","m":"sir...","nm":"sir","b":"b"}
+{"t":1343633,"u":"anon93","e":"null","m":"How old are you?","nm":"How old are you","b":"nb"}
+{"t":1346598,"u":"anon74","e":"null","m":"double gold pump at twisted","nm":"double gold pump at twisted","b":"b"}
+{"t":1348612,"u":"anon75","e":"null","m":"TwitchCop TwitchCop TwitchCop","nm":"TwitchCop TwitchCop TwitchCop","b":"b"}
+{"t":1349318,"u":"anon93","e":"null","m":"14","nm":"14","b":"nb"}
+{"t":1350656,"u":"anon76","e":"null","m":"TILTED","nm":"TILTED","b":"b"}
+{"t":1351834,"u":"anon93","e":"null","m":"GG","nm":"GG","b":"nb"}
+{"t":1351853,"u":"anon4","e":"null","m":"!followage","nm":"followage","b":"nb"}
+{"t":1352399,"u":"anon5","e":"null","m":"14 @balintvagyok_04","nm":"14 balintvagyok_04","b":"nb"}
+{"t":1352632,"u":"anon70","e":"null","m":"OSG_Charge someone already took Vizion so I had to improvise","nm":"OSG_Charge someone already took Vizion so I had to improvise","b":"nb"}
+{"t":1352811,"u":"anon3","e":"null","m":"QSG_Charge has been following fortnitedenzi for 3 weeks, 5 days, 22 hours, 37 minutes, 10 seconds","nm":"QSG_Charge has been following fortnitedenzi for 3 weeks 5 days 22 hours 37 minutes 10 seconds","b":"nb"}
+{"t":1355730,"u":"anon77","e":"null","m":"lmfao","nm":"lmfao","b":"b"}
+{"t":1356755,"u":"anon78","e":"null","m":"@mmDustA you are stating an opinion as if its the truth","nm":"mmDustA you are stating an opinion as if its the truth","b":"b"}
+{"t":1358774,"u":"anon79","e":"null","m":"Sub mode please now lol","nm":"Sub mode please now lol","b":"b"}
+{"t":1359802,"u":"anon80","e":"null","m":"OMG","nm":"OMG","b":"b"}
+{"t":1362610,"u":"anon6","e":"null","m":"Passi0net what did you say i refreshed","nm":"Passi0net what did you say i refreshed","b":"nb"}
+{"t":1364871,"u":"anon81","e":"null","m":"Wify","nm":"Wify","b":"b"}
+{"t":1366480,"u":"anon93","e":"null","m":"Me to Bro","nm":"Me to Bro","b":"nb"}
+{"t":1367924,"u":"anon82","e":"{"425618":["0-2","4-6","8-10","12-14","16-18","20-22"]}","m":"LUL LUL LUL LUL LUL LUL","nm":"LUL LUL LUL LUL LUL LUL","b":"b"}
+{"t":1373004,"u":"anon83","e":"null","m":"sum1g sum1g sum1g","nm":"sum1g sum1g sum1g","b":"b"}
+{"t":1373544,"u":"anon27","e":"null","m":"!followage","nm":"followage","b":"nb"}
+{"t":1373685,"u":"anon65","e":"null","m":"@lieshout0007 followge!","nm":"lieshout0007 followge","b":"nb"}
+{"t":1375030,"u":"anon84","e":"null","m":"That was some bs","nm":"That was some bs","b":"b"}
+{"t":1376053,"u":"anon85","e":"null","m":"@dip_7777 I love you","nm":"dip_7777 I love you","b":"b"}
+{"t":1381111,"u":"anon86","e":"null","m":"Howdy","nm":"Howdy","b":"b"}
+{"t":1382127,"u":"anon87","e":"null","m":"wtf is this pokemon music","nm":"wtf is this pokemon music","b":"b"}
+{"t":1383156,"u":"anon88","e":"null","m":"Lol I can't","nm":"Lol I cant","b":"b"}
+{"t":1383273,"u":"anon10","e":"null","m":"@Hayden_rock35 14 dmg for life","nm":"Hayden_rock35 14 dmg for life","b":"nb"}
+{"t":1386012,"u":"anon5","e":"null","m":"!followage @lieshout0007","nm":"followage lieshout0007","b":"nb"}
+{"t":1386204,"u":"anon89","e":"{"425618":["0-2","18-20"]}","m":"LUL L LuL U LuL L LUL","nm":"LUL L LuL U LuL L LUL","b":"b"}
+{"t":1387165,"u":"anon3","e":"null","m":"lieshout0007 has been following fortnitedenzi for 1 week, 6 days, 23 hours, 56 minutes, 33 seconds","nm":"lieshout0007 has been following fortnitedenzi for 1 week 6 days 23 hours 56 minutes 33 seconds","b":"nb"}
+{"t":1387204,"u":"anon90","e":"null","m":"@dip_7777 when are you planning on buying it out?","nm":"dip_7777 when are you planning on buying it out","b":"b"}
+{"t":1392295,"u":"anon91","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":1393307,"u":"anon2","e":"null","m":"blaaaaaake","nm":"blaaaaaake","b":"b"}
+{"t":1397356,"u":"anon2","e":"null","m":"rip","nm":"rip","b":"b"}
+{"t":1398067,"u":"anon28","e":"null","m":"bot","nm":"bot","b":"nb"}
+{"t":1398377,"u":"anon6","e":"null","m":"@Passi0net NO","nm":"Passi0net NO","b":"nb"}
+{"t":1400423,"u":"anon7","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1403178,"u":"anon92","e":"null","m":"!followage","nm":"followage","b":"nb"}
+{"t":1403460,"u":"anon11","e":"null","m":"Yoooo","nm":"Yoooo","b":"b"}
+{"t":1408543,"u":"anon12","e":"null","m":"I can't really hear the game","nm":"I cant really hear the game","b":"b"}
+{"t":1409416,"u":"anon65","e":"null","m":"thks","nm":"thks","b":"nb"}
+{"t":1410576,"u":"anon14","e":"null","m":"Maybe he doesn’t want it chat","nm":"Maybe he doesnt want it chat","b":"b"}
+{"t":1411594,"u":"anon15","e":"null","m":"when u use double pump too much","nm":"when u use double pump too much","b":"b"}
+{"t":1412608,"u":"anon16","e":"null","m":"30/45","nm":"3045","b":"b"}
+{"t":1415656,"u":"anon17","e":"{"8":["0-1"]}","m":":O","nm":"O","b":"b"}
+{"t":1416261,"u":"anon27","e":"null","m":"!followage @dixblopingboi","nm":"followage dixblopingboi","b":"nb"}
+{"t":1416528,"u":"anon10","e":"null","m":"@AGlobalForce ur ingnoreing me ree dw i would to","nm":"AGlobalForce ur ingnoreing me ree dw i would to","b":"nb"}
+{"t":1417272,"u":"anon3","e":"null","m":"dixblopingboi has been following fortnitedenzi for 2 weeks, 5 days, 22 hours, 19 minutes, 34 seconds","nm":"dixblopingboi has been following fortnitedenzi for 2 weeks 5 days 22 hours 19 minutes 34 seconds","b":"nb"}
+{"t":1417453,"u":"anon94","e":"null","m":"what time is skirmish I'm AUSTRALIAN","nm":"what time is skirmish Im AUSTRALIAN","b":"nb"}
+{"t":1417694,"u":"anon18","e":"null","m":"@dip_7777 Hey bro how do I use my 1st sub from amazon for you ?","nm":"dip_7777 Hey bro how do I use my 1st sub from amazon for you ","b":"b"}
+{"t":1419928,"u":"anon6","e":"null","m":"3,015 followers CONGRATS 3,000","nm":"3015 followers CONGRATS 3000","b":"nb"}
+{"t":1420731,"u":"anon19","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":1424794,"u":"anon20","e":"null","m":"The brofeed","nm":"The brofeed","b":"b"}
+{"t":1427175,"u":"anon5","e":"{"25":["11-15"]}","m":"@Passi0net Kappa","nm":"Passi0net Kappa","b":"nb"}
+{"t":1427841,"u":"anon21","e":"null","m":"ONE MORE","nm":"ONE MORE","b":"b"}
+{"t":1431402,"u":"anon5","e":"null","m":"No im not","nm":"No im not","b":"nb"}
+{"t":1432916,"u":"anon22","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1433448,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":1435548,"u":"anon92","e":"null","m":"@coles124 in abt 12 hours","nm":"coles124 in abt 12 hours","b":"nb"}
+{"t":1438001,"u":"anon23","e":"null","m":"i can chat without a sub?","nm":"i can chat without a sub","b":"b"}
+{"t":1443075,"u":"anon30","e":"null","m":"sometimes you remind me of Cartman from South Park @dip_7777","nm":"sometimes you remind me of Cartman from South Park dip_7777","b":"b"}
+{"t":1448160,"u":"anon31","e":"null","m":"rip","nm":"rip","b":"b"}
+{"t":1450184,"u":"anon32","e":"null","m":"Nice","nm":"Nice","b":"b"}
+{"t":1455250,"u":"anon33","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1457110,"u":"anon92","e":"null","m":"!followage","nm":"followage","b":"nb"}
+{"t":1458084,"u":"anon3","e":"null","m":"mx28 has been following fortnitedenzi for 3 weeks, 5 days, 20 hours, 41 minutes, 28 seconds","nm":"mx28 has been following fortnitedenzi for 3 weeks 5 days 20 hours 41 minutes 28 seconds","b":"nb"}
+{"t":1459310,"u":"anon34","e":"null","m":"Nope","nm":"Nope","b":"b"}
+{"t":1462361,"u":"anon36","e":"null","m":"@Lohpally2 trash","nm":"Lohpally2 trash","b":"b"}
+{"t":1464386,"u":"anon37","e":"null","m":"fucking christ","nm":"fucking christ","b":"b"}
+{"t":1464981,"u":"anon10","e":"null","m":"@AGlobalForce well..","nm":"AGlobalForce well","b":"nb"}
+{"t":1468086,"u":"anon5","e":"null","m":"!topdono","nm":"topdono","b":"nb"}
+{"t":1468290,"u":"anon3","e":"null","m":"@AGlobalForce 45 Gifted Subs, 3,345 Bits and $941.28.","nm":"AGlobalForce 45 Gifted Subs 3345 Bits and 94128","b":"nb"}
+{"t":1469461,"u":"anon38","e":"null","m":"wwoooooowwww","nm":"wwoooooowwww","b":"b"}
+{"t":1474549,"u":"anon39","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1479620,"u":"anon40","e":"null","m":"I think they would get 49 together before 40 separate","nm":"I think they would get 49 together before 40 separate","b":"b"}
+{"t":1484703,"u":"anon45","e":"null","m":"We need music","nm":"We need music","b":"b"}
+{"t":1489794,"u":"anon46","e":"null","m":"go shafts","nm":"go shafts","b":"b"}
+{"t":1491021,"u":"anon6","e":"null","m":"!stats","nm":"stats","b":"nb"}
+{"t":1491224,"u":"anon3","e":"null","m":"Account made october 11th (2 weeks into season 6) I use this account off stream where I actually try and my main account that I use on stream that I do not try on and just push everyone I see for entertainment https://fortnitetracker.com/profile/pc/denzii_","nm":"Account made october 11th 2 weeks into season 6 I use this account off stream where I actually try and my main account that I use on stream that I do not try on and just push everyone I see for entertainment httpsfortnitetrackercomprofilepcdenzii_","b":"nb"}
+{"t":1491815,"u":"anon47","e":"null","m":"PLEBS ARE NICE","nm":"PLEBS ARE NICE","b":"b"}
+{"t":1493300,"u":"anon65","e":"null","m":"hunting rifle","nm":"hunting rifle","b":"nb"}
+{"t":1493841,"u":"anon48","e":"null","m":"Shockingly GREAT","nm":"Shockingly GREAT","b":"b"}
+{"t":1498918,"u":"anon49","e":"null","m":"i will show you da we","nm":"i will show you da we","b":"b"}
+{"t":1501972,"u":"anon50","e":"null","m":"Woo","nm":"Woo","b":"b"}
+{"t":1506016,"u":"anon51","e":"null","m":"lata","nm":"lata","b":"b"}
+{"t":1508438,"u":"anon6","e":"null","m":"Denzi its my Birthday tommorow","nm":"Denzi its my Birthday tommorow","b":"nb"}
+{"t":1511113,"u":"anon52","e":"{"114836":["12-19"]}","m":"@JustGaBBoh Jebaited","nm":"JustGaBBoh Jebaited","b":"b"}
+{"t":1515173,"u":"anon53","e":"null","m":"@dip_7777 Did u see the clip of tthump talking about playing fortnite with you?","nm":"dip_7777 Did u see the clip of tthump talking about playing fortnite with you","b":"b"}
+{"t":1519227,"u":"anon54","e":"null","m":"*tea","nm":"tea","b":"b"}
+{"t":1522264,"u":"anon55","e":"{"36":["0-5","7-12","14-19"]}","m":"PJSalt PJSalt PJSalt","nm":"PJSalt PJSalt PJSalt","b":"b"}
+{"t":1522574,"u":"anon92","e":"null","m":"hayden you said that half an hour ago","nm":"hayden you said that half an hour ago","b":"nb"}
+{"t":1523294,"u":"anon56","e":"null","m":"15 MF KILLS","nm":"15 MF KILLS","b":"b"}
+{"t":1524313,"u":"anon57","e":"{"88":["15-22"]}","m":"oh shit monkaS PogChamp","nm":"oh shit monkaS PogChamp","b":"b"}
+{"t":1527362,"u":"anon58","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":1527806,"u":"anon5","e":"null","m":"lol","nm":"lol","b":"nb"}
+{"t":1527885,"u":"anon10","e":"null","m":"@fortnitedenzi hayden says its his b day tomorow","nm":"fortnitedenzi hayden says its his b day tomorow","b":"nb"}
+{"t":1532435,"u":"anon59","e":"null","m":"i can break these cuffs","nm":"i can break these cuffs","b":"b"}
+{"t":1536140,"u":"anon4","e":"null","m":"In chat on my phone the sun badges are showing up as the default purple star","nm":"In chat on my phone the sun badges are showing up as the default purple star","b":"nb"}
+{"t":1537507,"u":"anon60","e":"null","m":"what are friends FelsBadMan","nm":"what are friends FelsBadMan","b":"b"}
+{"t":1542596,"u":"anon61","e":"null","m":"I hate Donald trump and republicans and democrats","nm":"I hate Donald trump and republicans and democrats","b":"b"}
+{"t":1547672,"u":"anon62","e":"null","m":"weedVibes weedVibes weedLove weedLove","nm":"weedVibes weedVibes weedLove weedLove","b":"b"}
+{"t":1547939,"u":"anon92","e":"null","m":"oof qsg feelsbad","nm":"oof qsg feelsbad","b":"nb"}
+{"t":1548690,"u":"anon6","e":"null","m":"@QSG_Charge dms","nm":"QSG_Charge dms","b":"nb"}
+{"t":1549736,"u":"anon28","e":"null","m":"!followage aglobalforce","nm":"followage aglobalforce","b":"nb"}
+{"t":1550665,"u":"anon3","e":"null","m":"aglobalforce has been following fortnitedenzi for 1 month, 1 week, 1 day, 54 minutes, 55 seconds","nm":"aglobalforce has been following fortnitedenzi for 1 month 1 week 1 day 54 minutes 55 seconds","b":"nb"}
+{"t":1551332,"u":"anon10","e":"null","m":"@AGlobalForce ive never been beaned so hard lmao","nm":"AGlobalForce ive never been beaned so hard lmao","b":"nb"}
+{"t":1552753,"u":"anon63","e":"null","m":"OMEGALUL","nm":"OMEGALUL","b":"b"}
+{"t":1553181,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":1554766,"u":"anon64","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1558847,"u":"anon66","e":"{"25":["0-4"]}","m":"Kappa","nm":"Kappa","b":"b"}
+{"t":1561888,"u":"anon67","e":"{"33":["0-7"]}","m":"DansGame","nm":"DansGame","b":"b"}
+{"t":1563924,"u":"anon68","e":"null","m":"monkaS","nm":"monkaS","b":"b"}
+{"t":1564940,"u":"anon69","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1569371,"u":"anon65","e":"null","m":"sub","nm":"sub","b":"nb"}
+{"t":1570019,"u":"anon71","e":"null","m":"RICK AND MORTY IMPRESSION","nm":"RICK AND MORTY IMPRESSION","b":"b"}
+{"t":1571032,"u":"anon72","e":"null","m":"TableHere FlipThis","nm":"TableHere FlipThis","b":"b"}
+{"t":1576114,"u":"anon73","e":"null","m":"HAHAHAHAHA","nm":"HAHAHAHAHA","b":"b"}
+{"t":1579160,"u":"anon74","e":"null","m":"lmao","nm":"lmao","b":"b"}
+{"t":1581172,"u":"anon75","e":"null","m":"jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK","nm":"jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK","b":"b"}
+{"t":1583216,"u":"anon76","e":"null","m":"God like dip_7777","nm":"God like dip_7777","b":"b"}
+{"t":1587276,"u":"anon77","e":"null","m":"wappers thats rough!","nm":"wappers thats rough","b":"b"}
+{"t":1591346,"u":"anon78","e":"null","m":"how many does king have","nm":"how many does king have","b":"b"}
+{"t":1595399,"u":"anon79","e":"null","m":"hi everyone","nm":"hi everyone","b":"b"}
+{"t":1599470,"u":"anon80","e":"null","m":"day*","nm":"day","b":"b"}
+{"t":1604542,"u":"anon81","e":"null","m":"lirikRE lirikRE","nm":"lirikRE lirikRE","b":"b"}
+{"t":1607597,"u":"anon82","e":"null","m":"Shafty shifts man","nm":"Shafty shifts man","b":"b"}
+{"t":1612672,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":1612672,"u":"anon83","e":"null","m":"dat crouch","nm":"dat crouch","b":"b"}
+{"t":1616734,"u":"anon84","e":"null","m":"mais bon kenb bien ta reum zer","nm":"mais bon kenb bien ta reum zer","b":"b"}
+{"t":1619783,"u":"anon85","e":"null","m":"This guy doesn’t know thousands of people are watching him","nm":"This guy doesnt know thousands of people are watching him","b":"b"}
+{"t":1622450,"u":"anon10","e":"null","m":"@AGlobalForce ik u prolly will give me the money eventually but im just getting beaned atm lmao","nm":"AGlobalForce ik u prolly will give me the money eventually but im just getting beaned atm lmao","b":"nb"}
+{"t":1623830,"u":"anon86","e":"null","m":"My cat farted pteroThicc 💨","nm":"My cat farted pteroThicc ","b":"b"}
+{"t":1627892,"u":"anon87","e":"{"425618":["17-19"]}","m":"dip_7777 sucking LUL","nm":"dip_7777 sucking LUL","b":"b"}
+{"t":1632981,"u":"anon88","e":"null","m":"retarted","nm":"retarted","b":"b"}
+{"t":1633041,"u":"anon92","e":"null","m":"lul","nm":"lul","b":"nb"}
+{"t":1638068,"u":"anon89","e":"null","m":"21K SUBBED?","nm":"21K SUBBED","b":"b"}
+{"t":1640078,"u":"anon90","e":"null","m":"@dip_7777 what mouse do you use?","nm":"dip_7777 what mouse do you use","b":"b"}
+{"t":1642123,"u":"anon91","e":"null","m":"22k","nm":"22k","b":"b"}
+{"t":1646178,"u":"anon2","e":"null","m":"lo","nm":"lo","b":"b"}
+{"t":1651249,"u":"anon2","e":"null","m":"reverse mohawk","nm":"reverse mohawk","b":"b"}
+{"t":1655330,"u":"anon7","e":"null","m":"@uccstudio2D giving 2 wrong options not helping.","nm":"uccstudio2D giving 2 wrong options not helping","b":"b"}
+{"t":1660398,"u":"anon11","e":"null","m":"That was a stream sniperq","nm":"That was a stream sniperq","b":"b"}
+{"t":1665481,"u":"anon12","e":"{"1":["103-104"]}","m":"you should not use double shotgun.... it is like cheating in game and i am sure you dont like cheating :)","nm":"you should not use double shotgun it is like cheating in game and i am sure you dont like cheating ","b":"b"}
+{"t":1668497,"u":"anon28","e":"null","m":"i think he went pawn","nm":"i think he went pawn","b":"nb"}
+{"t":1668528,"u":"anon14","e":"null","m":"I'm back, have they hit 30 yet?","nm":"Im back have they hit 30 yet","b":"b"}
+{"t":1671581,"u":"anon15","e":"null","m":"@MattStaplesuT dude..... what?","nm":"MattStaplesuT dude what","b":"b"}
+{"t":1672591,"u":"anon16","e":"null","m":"Damn","nm":"Damn","b":"b"}
+{"t":1675645,"u":"anon17","e":"null","m":"hey dip_7777","nm":"hey dip_7777","b":"b"}
+{"t":1676659,"u":"anon18","e":"null","m":"sumW","nm":"sumW","b":"b"}
+{"t":1679702,"u":"anon19","e":"null","m":"blue ar?","nm":"blue ar","b":"b"}
+{"t":1682748,"u":"anon20","e":"null","m":"would you call yourself the best fortnite player in the world?","nm":"would you call yourself the best fortnite player in the world","b":"b"}
+{"t":1683766,"u":"anon21","e":"null","m":"@uccstudio2D lol","nm":"uccstudio2D lol","b":"b"}
+{"t":1685797,"u":"anon22","e":"null","m":"facecam","nm":"facecam","b":"b"}
+{"t":1689862,"u":"anon23","e":"{"90075":["0-5","7-12","14-19","21-26","28-33","35-40","42-47","49-54","56-61","63-68","70-75","77-82","84-89","91-96","98-103","105-110","112-117","119-124"]}","m":"NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom","nm":"NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom NomNom","b":"b"}
+{"t":1693921,"u":"anon30","e":"{"69":["0-9"]}","m":"BloodTrail","nm":"BloodTrail","b":"b"}
+{"t":1694933,"u":"anon31","e":"null","m":"Wow","nm":"Wow","b":"b"}
+{"t":1697980,"u":"anon32","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1700016,"u":"anon33","e":"null","m":"euretyum 🔥","nm":"euretyum ","b":"b"}
+{"t":1705091,"u":"anon34","e":"null","m":"Ayyeee","nm":"Ayyeee","b":"b"}
+{"t":1709157,"u":"anon36","e":"null","m":"what's up dip_7777","nm":"whats up dip_7777","b":"b"}
+{"t":1712210,"u":"anon37","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1715242,"u":"anon38","e":"null","m":"@tiraelreklama2eO i jnow its annoying lol","nm":"tiraelreklama2eO i jnow its annoying lol","b":"b"}
+{"t":1719314,"u":"anon39","e":"null","m":"He use quick builder ?","nm":"He use quick builder ","b":"b"}
+{"t":1722354,"u":"anon40","e":"null","m":"Just make mistakes and keep at it and play a shit ton","nm":"Just make mistakes and keep at it and play a shit ton","b":"b"}
+{"t":1727443,"u":"anon45","e":"null","m":"@dip_7777 shoot the air to draw attention","nm":"dip_7777 shoot the air to draw attention","b":"b"}
+{"t":1729477,"u":"anon46","e":"null","m":"GO TO SALTY OR FUCK FACTORIES","nm":"GO TO SALTY OR FUCK FACTORIES","b":"b"}
+{"t":1731499,"u":"anon47","e":"null","m":"I'm back, have they hit 30 yet?","nm":"Im back have they hit 30 yet","b":"b"}
+{"t":1731654,"u":"anon41","e":"{"1424198":["0-12"]}","m":"txryckDenziGG","nm":"txryckDenziGG","b":"nb"}
+{"t":1732514,"u":"anon48","e":"null","m":"GG dip_7777","nm":"GG dip_7777","b":"b"}
+{"t":1736576,"u":"anon49","e":"null","m":"@dip_7777 DOUBLE DARKNIGHT","nm":"dip_7777 DOUBLE DARKNIGHT","b":"b"}
+{"t":1741661,"u":"anon50","e":"{"425618":["6-8"]}","m":"OMEGA LUL","nm":"OMEGA LUL","b":"b"}
+{"t":1744638,"u":"anon28","e":"null","m":"rip","nm":"rip","b":"nb"}
+{"t":1744693,"u":"anon51","e":"null","m":"Great stream keep up the hard work cheer300","nm":"Great stream keep up the hard work cheer300","b":"b"}
+{"t":1745135,"u":"anon4","e":"null","m":"Denzi goes off atain","nm":"Denzi goes off atain","b":"nb"}
+{"t":1745724,"u":"anon52","e":"null","m":"monkaS uh","nm":"monkaS uh","b":"b"}
+{"t":1749782,"u":"anon53","e":"{"86":["0-9","11-20","22-31","33-42","44-53","55-64","66-75","77-86","88-97","99-108","110-119","121-130","132-141","143-152","154-163","165-174","176-185","187-196","198-207","209-218","220-229","231-240","242-251"]}","m":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","nm":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","b":"b"}
+{"t":1751804,"u":"anon54","e":"null","m":"this chat is getting canerous","nm":"this chat is getting canerous","b":"b"}
+{"t":1753827,"u":"anon55","e":"null","m":"@DeligracyA 12btwedgybtw","nm":"DeligracyA 12btwedgybtw","b":"b"}
+{"t":1754861,"u":"anon56","e":"null","m":"snipeOnemore","nm":"snipeOnemore","b":"b"}
+{"t":1756582,"u":"anon6","e":"null","m":"Denzi charge said he might give me a birthday presant tommorow in stream","nm":"Denzi charge said he might give me a birthday presant tommorow in stream","b":"nb"}
+{"t":1758919,"u":"anon57","e":"null","m":"oof","nm":"oof","b":"b"}
+{"t":1761972,"u":"anon58","e":"null","m":"mitM mitM mitOley","nm":"mitM mitM mitOley","b":"b"}
+{"t":1766031,"u":"anon59","e":"null","m":"ayyeeeee","nm":"ayyeeeee","b":"b"}
+{"t":1768053,"u":"anon60","e":"null","m":"run run","nm":"run run","b":"b"}
+{"t":1772127,"u":"anon61","e":"null","m":"dip_7777 RAIDZZZZZZZZ","nm":"dip_7777 RAIDZZZZZZZZ","b":"b"}
+{"t":1774158,"u":"anon62","e":"null","m":"@dip_7777 is your eye ok?","nm":"dip_7777 is your eye ok","b":"b"}
+{"t":1778222,"u":"anon63","e":"null","m":"gg guys","nm":"gg guys","b":"b"}
+{"t":1780235,"u":"anon64","e":"null","m":"show us all your outfits","nm":"show us all your outfits","b":"b"}
+{"t":1781263,"u":"anon66","e":"null","m":"@JustGaBBoh Lol what do you want a time stamp? I know what I heard relax fan boy","nm":"JustGaBBoh Lol what do you want a time stamp I know what I heard relax fan boy","b":"b"}
+{"t":1785326,"u":"anon67","e":"null","m":"holy","nm":"holy","b":"b"}
+{"t":1787361,"u":"anon68","e":"null","m":"Why would you get banned for stream sniping?","nm":"Why would you get banned for stream sniping","b":"b"}
+{"t":1792351,"u":"anon3","e":"null","m":"Follow Denzitv on insta or instagram.com/denzitv to see twitch highlights, when I go live and to be entered into giveaways I host.","nm":"Follow Denzitv on insta or instagramcomdenzitv to see twitch highlights when I go live and to be entered into giveaways I host","b":"nb"}
+{"t":1792443,"u":"anon69","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1793453,"u":"anon71","e":"{"114836":["0-7"]}","m":"Jebaited","nm":"Jebaited","b":"b"}
+{"t":1794553,"u":"anon10","e":"null","m":"@fortnitedenzi SHHHH","nm":"fortnitedenzi SHHHH","b":"nb"}
+{"t":1796506,"u":"anon72","e":"null","m":"What happened to the doc","nm":"What happened to the doc","b":"b"}
+{"t":1797440,"u":"anon6","e":"null","m":"@QSG_Charge I seen that clip of me saying your a legand","nm":"QSG_Charge I seen that clip of me saying your a legand","b":"nb"}
+{"t":1799547,"u":"anon73","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":1802596,"u":"anon74","e":"null","m":"I wanna see a victory","nm":"I wanna see a victory","b":"b"}
+{"t":1805625,"u":"anon75","e":"null","m":"omg nooooo","nm":"omg nooooo","b":"b"}
+{"t":1808686,"u":"anon76","e":"null","m":"shit on","nm":"shit on","b":"b"}
+{"t":1809696,"u":"anon77","e":"null","m":"team snapchat","nm":"team snapchat","b":"b"}
+{"t":1811735,"u":"anon78","e":"null","m":"@MaDQFroGcC yes","nm":"MaDQFroGcC yes","b":"b"}
+{"t":1812739,"u":"anon79","e":"null","m":"Scar","nm":"Scar","b":"b"}
+{"t":1814783,"u":"anon80","e":"null","m":"monkaS","nm":"monkaS","b":"b"}
+{"t":1819851,"u":"anon81","e":"null","m":"play like that","nm":"play like that","b":"b"}
+{"t":1821899,"u":"anon82","e":"null","m":"ohhsnaCStory my fav mode","nm":"ohhsnaCStory my fav mode","b":"b"}
+{"t":1821937,"u":"anon10","e":"null","m":"@fortnitedenzi shhhhhhhhhhhh jinx","nm":"fortnitedenzi shhhhhhhhhhhh jinx","b":"nb"}
+{"t":1822910,"u":"anon83","e":"null","m":"@dip_7777 Double pump is so nasty","nm":"dip_7777 Double pump is so nasty","b":"b"}
+{"t":1823918,"u":"anon84","e":"null","m":"greed is FEED","nm":"greed is FEED","b":"b"}
+{"t":1827987,"u":"anon85","e":"null","m":"the fraggers are finna get fragged","nm":"the fraggers are finna get fragged","b":"b"}
+{"t":1828888,"u":"anon5","e":"null","m":"NOOO","nm":"NOOO","b":"nb"}
+{"t":1830009,"u":"anon86","e":"null","m":"shield bro","nm":"shield bro","b":"b"}
+{"t":1835089,"u":"anon87","e":"null","m":"on the real tho that shit is insane homie your crazy at the game.","nm":"on the real tho that shit is insane homie your crazy at the game","b":"b"}
+{"t":1837121,"u":"anon88","e":"null","m":"@dip_7777 what is your full name","nm":"dip_7777 what is your full name","b":"b"}
+{"t":1839155,"u":"anon89","e":"null","m":"@comesomeall1H2 I like moobot better 😡","nm":"comesomeall1H2 I like moobot better ","b":"b"}
+{"t":1840166,"u":"anon90","e":"null","m":"swaggameplayyt you 6 months in? its when he goes live and the first win of the stream hes doing the pwn porn","nm":"swaggameplayyt you 6 months in its when he goes live and the first win of the stream hes doing the pwn porn","b":"b"}
+{"t":1842206,"u":"anon91","e":"null","m":"hahaha","nm":"hahaha","b":"b"}
+{"t":1846249,"u":"anon2","e":"null","m":"C’mon!","nm":"Cmon","b":"b"}
+{"t":1849297,"u":"anon2","e":"null","m":"@dip_7777 this is the one","nm":"dip_7777 this is the one","b":"b"}
+{"t":1850329,"u":"anon7","e":"null","m":"RIP","nm":"RIP","b":"b"}
+{"t":1853369,"u":"anon11","e":"{"64138":["40-48"],"112291":["0-6","8-14","16-22","24-30","32-38"]}","m":"GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ SeemsGood","nm":"GivePLZ GivePLZ GivePLZ GivePLZ GivePLZ SeemsGood","b":"b"}
+{"t":1854283,"u":"anon4","e":"null","m":"These dumbasses killing each other","nm":"These dumbasses killing each other","b":"nb"}
+{"t":1856421,"u":"anon12","e":"null","m":"I got 5 kills once","nm":"I got 5 kills once","b":"b"}
+{"t":1857434,"u":"anon14","e":"{"25":["38-42"]}","m":"drops purple sniper for purple sniper Kappa","nm":"drops purple sniper for purple sniper Kappa","b":"b"}
+{"t":1859471,"u":"anon15","e":"null","m":"@shurzGMY there’s nothing there to hop on lol stupid khed","nm":"shurzGMY theres nothing there to hop on lol stupid khed","b":"b"}
+{"t":1863529,"u":"anon16","e":"null","m":"i think you gotta play your life sometimes like run away and then re chall","nm":"i think you gotta play your life sometimes like run away and then re chall","b":"b"}
+{"t":1865859,"u":"anon6","e":"null","m":"Only if i got into your game","nm":"Only if i got into your game","b":"nb"}
+{"t":1866576,"u":"anon17","e":"null","m":"GGGG","nm":"GGGG","b":"b"}
+{"t":1869630,"u":"anon18","e":"null","m":"weee ohhh weee ohhh","nm":"weee ohhh weee ohhh","b":"b"}
+{"t":1871654,"u":"anon19","e":"null","m":"outplayed you","nm":"outplayed you","b":"b"}
+{"t":1872663,"u":"anon4","e":"null","m":"Full Rambo Mode","nm":"Full Rambo Mode","b":"nb"}
+{"t":1876734,"u":"anon20","e":"null","m":"is that supposed to be a new emote travis FeelsThinkingMan","nm":"is that supposed to be a new emote travis FeelsThinkingMan","b":"b"}
+{"t":1879781,"u":"anon21","e":"null","m":"yo take your time and don't rush to get the kills","nm":"yo take your time and dont rush to get the kills","b":"b"}
+{"t":1880794,"u":"anon22","e":"null","m":"its froze","nm":"its froze","b":"b"}
+{"t":1881816,"u":"anon23","e":"null","m":"music name pls","nm":"music name pls","b":"b"}
+{"t":1884498,"u":"anon10","e":"null","m":"@QSG_Charge Lmao","nm":"QSG_Charge Lmao","b":"nb"}
+{"t":1884862,"u":"anon30","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":1885868,"u":"anon31","e":"null","m":"peta","nm":"peta","b":"b"}
+{"t":1888917,"u":"anon32","e":"{"191313":["0-8"]}","m":"CrreamAwk","nm":"CrreamAwk","b":"b"}
+{"t":1890951,"u":"anon33","e":"null","m":"He sounds like king Julian with that knuckles thing","nm":"He sounds like king Julian with that knuckles thing","b":"b"}
+{"t":1891965,"u":"anon34","e":"null","m":"nvm I'm dumb 4HEad","nm":"nvm Im dumb 4HEad","b":"b"}
+{"t":1897051,"u":"anon36","e":"null","m":"hii niinja","nm":"hii niinja","b":"b"}
+{"t":1902120,"u":"anon37","e":"null","m":"@JacobRLk if only lupoRIP lupoRIP lupoRIP","nm":"JacobRLk if only lupoRIP lupoRIP lupoRIP","b":"b"}
+{"t":1904152,"u":"anon38","e":"null","m":"how hard would it be in this game to do a no build challenge (im new to this game)?","nm":"how hard would it be in this game to do a no build challenge im new to this game","b":"b"}
+{"t":1907206,"u":"anon39","e":"null","m":"lets go","nm":"lets go","b":"b"}
+{"t":1910242,"u":"anon40","e":"null","m":"Hi","nm":"Hi","b":"b"}
+{"t":1912283,"u":"anon45","e":"{"1902":["14-18"]}","m":"@Lohpally2 69 Keepo","nm":"Lohpally2 69 Keepo","b":"b"}
+{"t":1915776,"u":"anon92","e":"null","m":"full on mad","nm":"full on mad","b":"nb"}
+{"t":1916350,"u":"anon46","e":"null","m":"grill","nm":"grill","b":"b"}
+{"t":1918601,"u":"anon92","e":"null","m":"feelsbad","nm":"feelsbad","b":"nb"}
+{"t":1919391,"u":"anon47","e":"null","m":"OOOOOOOOOOOOOOOF","nm":"OOOOOOOOOOOOOOOF","b":"b"}
+{"t":1921421,"u":"anon48","e":"null","m":"Yeet","nm":"Yeet","b":"b"}
+{"t":1923450,"u":"anon49","e":"null","m":"@GameJ06aH top o' the morning!","nm":"GameJ06aH top o the morning","b":"b"}
+{"t":1927515,"u":"anon50","e":"null","m":"I love being here","nm":"I love being here","b":"b"}
+{"t":1930260,"u":"anon4","e":"null","m":"We need to kil everyone left","nm":"We need to kil everyone left","b":"nb"}
+{"t":1930562,"u":"anon51","e":"null","m":"@FunGoose_aB fuck you say sumW","nm":"FunGoose_aB fuck you say sumW","b":"b"}
+{"t":1932597,"u":"anon52","e":"{"47":["0-9","11-20","22-31","33-42"],"64138":["59-67"],"68856":["51-57"],"81274":["44-49"],"112288":["69-76"]}","m":"PunchTrees PunchTrees PunchTrees PunchTrees VoHiYo MingLee SeemsGood copyThis","nm":"PunchTrees PunchTrees PunchTrees PunchTrees VoHiYo MingLee SeemsGood copyThis","b":"b"}
+{"t":1935646,"u":"anon53","e":"{"2":["28-29"]}","m":"Those factories let us down :(","nm":"Those factories let us down ","b":"b"}
+{"t":1937663,"u":"anon54","e":"null","m":"Holy fuck","nm":"Holy fuck","b":"b"}
+{"t":1937980,"u":"anon4","e":"null","m":"But they’re all camping","nm":"But theyre all camping","b":"nb"}
+{"t":1938683,"u":"anon55","e":"null","m":"hi","nm":"hi","b":"b"}
+{"t":1940721,"u":"anon56","e":"null","m":"It’s not an Indian accent LMAO","nm":"Its not an Indian accent LMAO","b":"b"}
+{"t":1945803,"u":"anon57","e":"null","m":"some people got gifts @deadlyopticsns , this is his","nm":"some people got gifts deadlyopticsns  this is his","b":"b"}
+{"t":1948929,"u":"anon92","e":"null","m":"everyone line up for denzi to kill you in game","nm":"everyone line up for denzi to kill you in game","b":"nb"}
+{"t":1950878,"u":"anon58","e":"null","m":"@GameJ06aH as he should, summit is too cynical and rude to watch","nm":"GameJ06aH as he should summit is too cynical and rude to watch","b":"b"}
+{"t":1953927,"u":"anon59","e":"null","m":"We motherFUCKIG got this shit","nm":"We motherFUCKIG got this shit","b":"b"}
+{"t":1958988,"u":"anon60","e":"null","m":"weed1 weed2","nm":"weed1 weed2","b":"b"}
+{"t":1960663,"u":"anon10","e":"null","m":"@fortnitedenzi maybe coz u running around like rambo","nm":"fortnitedenzi maybe coz u running around like rambo","b":"nb"}
+{"t":1963064,"u":"anon61","e":"null","m":"dip_7777 not being subbed FeelsBadMan","nm":"dip_7777 not being subbed FeelsBadMan","b":"b"}
+{"t":1967127,"u":"anon62","e":"{"25":["0-4"]}","m":"Kappa","nm":"Kappa","b":"b"}
+{"t":1972208,"u":"anon63","e":"null","m":"You should try the new factories next to flush dude, find that highly populatedb","nm":"You should try the new factories next to flush dude find that highly populatedb","b":"b"}
+{"t":1972432,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":1976260,"u":"anon64","e":"{"425671":["14-21"],"425688":["0-7"],"446979":["9-12"]}","m":"PowerUpL HSWP PowerUpR","nm":"PowerUpL HSWP PowerUpR","b":"b"}
+{"t":1978504,"u":"anon66","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":1982356,"u":"anon67","e":"null","m":"god damn hit your shots","nm":"god damn hit your shots","b":"b"}
+{"t":1983375,"u":"anon68","e":"null","m":"D:","nm":"D","b":"b"}
+{"t":1986425,"u":"anon69","e":"null","m":"Where is dip_7777 from?","nm":"Where is dip_7777 from","b":"b"}
+{"t":1991501,"u":"anon71","e":"{"16":["0-12","14-26","28-40","42-54","56-68","70-82","84-96","98-110","112-124"]}","m":"OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime","nm":"OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime OptimizePrime","b":"b"}
+{"t":1996144,"u":"anon6","e":"null","m":"CMON","nm":"CMON","b":"nb"}
+{"t":1996583,"u":"anon72","e":"null","m":"song?","nm":"song","b":"b"}
+{"t":2001658,"u":"anon73","e":"null","m":"That guy was randomly no scope spraying his scoped AR","nm":"That guy was randomly no scope spraying his scoped AR","b":"b"}
+{"t":2002677,"u":"anon74","e":"null","m":"@HALtvca Is that POKEMON","nm":"HALtvca Is that POKEMON","b":"b"}
+{"t":2007238,"u":"anon10","e":"null","m":"TENSE","nm":"TENSE","b":"nb"}
+{"t":2007726,"u":"anon75","e":"{"160402":["0-7"],"160403":["9-17"]}","m":"SabaPing TearGlove","nm":"SabaPing TearGlove","b":"b"}
+{"t":2009764,"u":"anon76","e":"null","m":"alright bet so whens the next game?","nm":"alright bet so whens the next game","b":"b"}
+{"t":2013820,"u":"anon77","e":"null","m":"You need your red headed bae","nm":"You need your red headed bae","b":"b"}
+{"t":2014851,"u":"anon78","e":"null","m":"bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC","nm":"bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC bobiswC","b":"b"}
+{"t":2017877,"u":"anon79","e":"{"81103":["26-32"]}","m":"grimG1 grimG2 grim3 grim4 OhMyDog grimBlood","nm":"grimG1 grimG2 grim3 grim4 OhMyDog grimBlood","b":"b"}
+{"t":2017969,"u":"anon6","e":"null","m":"Everone els are bots hopefurly","nm":"Everone els are bots hopefurly","b":"nb"}
+{"t":2018907,"u":"anon80","e":"null","m":"omg dip_7777 please they have families","nm":"omg dip_7777 please they have families","b":"b"}
+{"t":2020930,"u":"anon81","e":"null","m":"@dip_7777 just retagged","nm":"dip_7777 just retagged","b":"b"}
+{"t":2023986,"u":"anon82","e":"null","m":"Lul stop raging guys","nm":"Lul stop raging guys","b":"b"}
+{"t":2028048,"u":"anon83","e":"null","m":"lol it’s gold","nm":"lol its gold","b":"b"}
+{"t":2031091,"u":"anon84","e":"null","m":"does anyone even try","nm":"does anyone even try","b":"b"}
+{"t":2032111,"u":"anon85","e":"null","m":"i stay for the sexy dip_7777 memes and skills haha","nm":"i stay for the sexy dip_7777 memes and skills haha","b":"b"}
+{"t":2037182,"u":"anon86","e":"null","m":"rip","nm":"rip","b":"b"}
+{"t":2041243,"u":"anon87","e":"null","m":"because all of chat is better than dip_7777","nm":"because all of chat is better than dip_7777","b":"b"}
+{"t":2045227,"u":"anon94","e":"null","m":"what time is skirmish I'm AUSTRALIAN","nm":"what time is skirmish Im AUSTRALIAN","b":"nb"}
+{"t":2045309,"u":"anon88","e":"{"25":["14-18"]}","m":"Streamer loot Kappa","nm":"Streamer loot Kappa","b":"b"}
+{"t":2047415,"u":"anon6","e":"null","m":"2 more","nm":"2 more","b":"nb"}
+{"t":2050389,"u":"anon89","e":"null","m":"@dip_7777 DOUBLE DARKNIGHT","nm":"dip_7777 DOUBLE DARKNIGHT","b":"b"}
+{"t":2054445,"u":"anon90","e":"null","m":"Gotta check your corners and ceilings @dip_7777","nm":"Gotta check your corners and ceilings dip_7777","b":"b"}
+{"t":2055468,"u":"anon91","e":"null","m":"KKona","nm":"KKona","b":"b"}
+{"t":2056468,"u":"anon2","e":"null","m":"crinjaPride","nm":"crinjaPride","b":"b"}
+{"t":2057480,"u":"anon2","e":"null","m":"hes salty but it does make snese","nm":"hes salty but it does make snese","b":"b"}
+{"t":2061565,"u":"anon7","e":"null","m":"FeelsThinkingMan","nm":"FeelsThinkingMan","b":"b"}
+{"t":2061657,"u":"anon92","e":"null","m":"coles in 11 hours","nm":"coles in 11 hours","b":"nb"}
+{"t":2065609,"u":"anon11","e":"null","m":"aww","nm":"aww","b":"b"}
+{"t":2067654,"u":"anon12","e":"null","m":"wait you put your dogs down dip_7777","nm":"wait you put your dogs down dip_7777","b":"b"}
+{"t":2069688,"u":"anon14","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":2071722,"u":"anon15","e":"null","m":"@Hefinex2 go suck summits d since you sweat him so much","nm":"Hefinex2 go suck summits d since you sweat him so much","b":"b"}
+{"t":2074763,"u":"anon16","e":"null","m":"The OxfordDictionaries.com definition for finger is as follows: ‘each of the four slender jointed parts attached to either hand (or five, if the thumb is included)’. This wording implies that, while the thumb isn’t typically regarded as a finger, there is enough evidence of this use to include it in the definition","nm":"The OxfordDictionariescom definition for finger is as follows each of the four slender jointed parts attached to either hand or five if the thumb is included This wording implies that while the thumb isnt typically regarded as a finger there is enough evidence of this use to include it in the definition","b":"b"}
+{"t":2079842,"u":"anon17","e":"null","m":"M U F F I N","nm":"M U F F I N","b":"b"}
+{"t":2080862,"u":"anon18","e":"null","m":"Any tips on removing back hair without help? Asking for a friend","nm":"Any tips on removing back hair without help Asking for a friend","b":"b"}
+{"t":2083905,"u":"anon19","e":"null","m":"he was probs healing","nm":"he was probs healing","b":"b"}
+{"t":2087967,"u":"anon20","e":"null","m":"what if we dont have 200iq","nm":"what if we dont have 200iq","b":"b"}
+{"t":2093044,"u":"anon21","e":"null","m":"SAD.....","nm":"SAD","b":"b"}
+{"t":2096097,"u":"anon22","e":"null","m":"Ohhh","nm":"Ohhh","b":"b"}
+{"t":2099144,"u":"anon23","e":"null","m":"17 kills","nm":"17 kills","b":"b"}
+{"t":2103203,"u":"anon30","e":"null","m":"is everyone gods now?","nm":"is everyone gods now","b":"b"}
+{"t":2104881,"u":"anon94","e":"null","m":"what time is that I'm no good at math","nm":"what time is that Im no good at math","b":"nb"}
+{"t":2105221,"u":"anon31","e":"null","m":"You got this!","nm":"You got this","b":"b"}
+{"t":2107237,"u":"anon10","e":"null","m":"my heart!","nm":"my heart","b":"nb"}
+{"t":2108278,"u":"anon32","e":"null","m":"sheesh","nm":"sheesh","b":"b"}
+{"t":2109293,"u":"anon33","e":"null","m":"Rip Mr Respectful","nm":"Rip Mr Respectful","b":"b"}
+{"t":2112339,"u":"anon34","e":"null","m":"bobs + vegana","nm":"bobs  vegana","b":"b"}
+{"t":2117426,"u":"anon36","e":"null","m":"nop","nm":"nop","b":"b"}
+{"t":2122501,"u":"anon37","e":"null","m":"Lol KR is cool","nm":"Lol KR is cool","b":"b"}
+{"t":2126554,"u":"anon38","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2130634,"u":"anon39","e":"null","m":"it depends on the game","nm":"it depends on the game","b":"b"}
+{"t":2131625,"u":"anon40","e":"null","m":"what is the duo record right now?","nm":"what is the duo record right now","b":"b"}
+{"t":2132660,"u":"anon45","e":"null","m":"are they going for hight kill games again??","nm":"are they going for hight kill games again","b":"b"}
+{"t":2133677,"u":"anon46","e":"null","m":"yo","nm":"yo","b":"b"}
+{"t":2134861,"u":"anon95","e":"null","m":"hi","nm":"hi","b":"nb"}
+{"t":2136718,"u":"anon47","e":"null","m":"laserd","nm":"laserd","b":"b"}
+{"t":2139328,"u":"anon92","e":"null","m":"coles it should be abt 6.29am for you","nm":"coles it should be abt 629am for you","b":"nb"}
+{"t":2141797,"u":"anon48","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2146872,"u":"anon49","e":"null","m":"POGGERS","nm":"POGGERS","b":"b"}
+{"t":2150940,"u":"anon50","e":"null","m":"Lol","nm":"Lol","b":"b"}
+{"t":2154363,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":2154599,"u":"anon94","e":"null","m":"thanks","nm":"thanks","b":"nb"}
+{"t":2154983,"u":"anon51","e":"null","m":"What’s up Chat","nm":"Whats up Chat","b":"b"}
+{"t":2157033,"u":"anon52","e":"{"1902":["37-41"]}","m":"ok nightbot just one up me like that Keepo","nm":"ok nightbot just one up me like that Keepo","b":"b"}
+{"t":2158842,"u":"anon95","e":"null","m":"freind me plz 360HQ","nm":"freind me plz 360HQ","b":"nb"}
+{"t":2160082,"u":"anon53","e":"null","m":"Go","nm":"Go","b":"b"}
+{"t":2162430,"u":"anon92","e":"null","m":"welcome","nm":"welcome","b":"nb"}
+{"t":2165149,"u":"anon54","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":2169212,"u":"anon55","e":"null","m":"stream sniper ROFL","nm":"stream sniper ROFL","b":"b"}
+{"t":2171251,"u":"anon56","e":"null","m":"monkaS","nm":"monkaS","b":"b"}
+{"t":2173280,"u":"anon57","e":"null","m":"Smoke and Drive - Blackbear is the current song","nm":"Smoke and Drive  Blackbear is the current song","b":"b"}
+{"t":2175853,"u":"anon92","e":"null","m":"stark he only friends subs","nm":"stark he only friends subs","b":"nb"}
+{"t":2175919,"u":"anon10","e":"null","m":"TEESMSE","nm":"TEESMSE","b":"nb"}
+{"t":2177344,"u":"anon58","e":"null","m":"27000??? @JenaUrfq","nm":"27000 JenaUrfq","b":"b"}
+{"t":2178357,"u":"anon59","e":"{"425618":["0-2","4-6","8-10"]}","m":"LUL LUL LUL","nm":"LUL LUL LUL","b":"b"}
+{"t":2181399,"u":"anon60","e":"null","m":"@TweetyExpertn My thoughts exactly.","nm":"TweetyExpertn My thoughts exactly","b":"b"}
+{"t":2185473,"u":"anon61","e":"null","m":"5","nm":"5","b":"b"}
+{"t":2187279,"u":"anon4","e":"null","m":"He is toxic","nm":"He is toxic","b":"nb"}
+{"t":2189532,"u":"anon62","e":"null","m":"Sleep time, Good luck with the rest of your runs fellas, goodnight chat","nm":"Sleep time Good luck with the rest of your runs fellas goodnight chat","b":"b"}
+{"t":2190549,"u":"anon63","e":"{"50":["48-58"],"65":["0-7","28-35","60-67"],"66":["69-75"],"69":["9-18","37-46","88-97","99-108","110-119","121-130"],"73":["20-26"],"86":["77-86"]}","m":"FrankerZ BloodTrail DBstyle FrankerZ BloodTrail ArsonNoSexy FrankerZ OneHand BibleThump BloodTrail BloodTrail BloodTrail BloodTrail","nm":"FrankerZ BloodTrail DBstyle FrankerZ BloodTrail ArsonNoSexy FrankerZ OneHand BibleThump BloodTrail BloodTrail BloodTrail BloodTrail","b":"b"}
+{"t":2190925,"u":"anon92","e":"null","m":"cmon cmon","nm":"cmon cmon","b":"nb"}
+{"t":2194602,"u":"anon64","e":"{"86":["0-9","11-20","22-31","33-42","44-53","55-64","66-75","77-86","88-97","99-108","110-119"]}","m":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","nm":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","b":"b"}
+{"t":2199685,"u":"anon66","e":"{"46881":["0-9"]}","m":"HumbleLife","nm":"HumbleLife","b":"b"}
+{"t":2204770,"u":"anon67","e":"null","m":"wow","nm":"wow","b":"b"}
+{"t":2209370,"u":"anon10","e":"null","m":"comon","nm":"comon","b":"nb"}
+{"t":2209845,"u":"anon68","e":"null","m":"haha i didnt plan on it either","nm":"haha i didnt plan on it either","b":"b"}
+{"t":2213856,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":2213907,"u":"anon69","e":"null","m":"@Konti13375i Logictech G502","nm":"Konti13375i Logictech G502","b":"b"}
+{"t":2214713,"u":"anon10","e":"null","m":"synergy","nm":"synergy","b":"nb"}
+{"t":2214924,"u":"anon71","e":"null","m":"sumThump","nm":"sumThump","b":"b"}
+{"t":2217970,"u":"anon72","e":"null","m":"Clap Clap Clap Clap Clap Clap","nm":"Clap Clap Clap Clap Clap Clap","b":"b"}
+{"t":2218986,"u":"anon73","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":2223048,"u":"anon74","e":"null","m":"ezpz","nm":"ezpz","b":"b"}
+{"t":2223123,"u":"anon6","e":"null","m":"GOOD","nm":"GOOD","b":"nb"}
+{"t":2224048,"u":"anon75","e":"null","m":"Same guy","nm":"Same guy","b":"b"}
+{"t":2225075,"u":"anon76","e":"null","m":"LMAO barely into the match","nm":"LMAO barely into the match","b":"b"}
+{"t":2225082,"u":"anon6","e":"null","m":"1 more","nm":"1 more","b":"nb"}
+{"t":2225971,"u":"anon41","e":"{"1424198":["0-12"]}","m":"txryckDenziGG","nm":"txryckDenziGG","b":"nb"}
+{"t":2226089,"u":"anon77","e":"null","m":"JINXED IT","nm":"JINXED IT","b":"b"}
+{"t":2228127,"u":"anon78","e":"null","m":"@dip_7777 brah, u average 7.55 Kills/Game! Thats actually insane!","nm":"dip_7777 brah u average 755 KillsGame Thats actually insane","b":"b"}
+{"t":2233196,"u":"anon79","e":"null","m":"Voice crack","nm":"Voice crack","b":"b"}
+{"t":2237266,"u":"anon80","e":"null","m":"i support ass eating i reckon","nm":"i support ass eating i reckon","b":"b"}
+{"t":2238276,"u":"anon81","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":2238542,"u":"anon10","e":"null","m":"com on","nm":"com on","b":"nb"}
+{"t":2239297,"u":"anon82","e":"null","m":"A pleb is a subscriber who spams emotes.","nm":"A pleb is a subscriber who spams emotes","b":"b"}
+{"t":2242711,"u":"anon10","e":"null","m":"com on","nm":"com on","b":"nb"}
+{"t":2243361,"u":"anon83","e":"null","m":"traps should deal 90% of current health, so you'll have to combine 2 to make a kill, making traps placement more obvious","nm":"traps should deal 90 of current health so youll have to combine 2 to make a kill making traps placement more obvious","b":"b"}
+{"t":2246404,"u":"anon84","e":"null","m":"Permaban LMAO","nm":"Permaban LMAO","b":"b"}
+{"t":2246593,"u":"anon10","e":"null","m":"woooooooo","nm":"woooooooo","b":"nb"}
+{"t":2247270,"u":"anon92","e":"null","m":"cmon you got this","nm":"cmon you got this","b":"nb"}
+{"t":2247493,"u":"anon6","e":"null","m":"Com on","nm":"Com on","b":"nb"}
+{"t":2249669,"u":"anon41","e":"null","m":"campfire?","nm":"campfire","b":"nb"}
+{"t":2250773,"u":"anon4","e":"null","m":"First try too","nm":"First try too","b":"nb"}
+{"t":2251488,"u":"anon85","e":"null","m":"My twitch prime sub ends on Jan 30th. Set a reminder resub because f*** the people that hate on you.","nm":"My twitch prime sub ends on Jan 30th Set a reminder resub because f the people that hate on you","b":"b"}
+{"t":2253511,"u":"anon86","e":"null","m":"Bruh","nm":"Bruh","b":"b"}
+{"t":2255565,"u":"anon42","e":"null","m":"You got this xx","nm":"You got this xx","b":"nb"}
+{"t":2258591,"u":"anon87","e":"null","m":"OMFG","nm":"OMFG","b":"b"}
+{"t":2260625,"u":"anon88","e":"null","m":"SO CO HANDICAP","nm":"SO CO HANDICAP","b":"b"}
+{"t":2261416,"u":"anon10","e":"null","m":"my heart to","nm":"my heart to","b":"nb"}
+{"t":2263670,"u":"anon89","e":"null","m":"love you ninj","nm":"love you ninj","b":"b"}
+{"t":2266375,"u":"anon6","e":"null","m":"Same","nm":"Same","b":"nb"}
+{"t":2267729,"u":"anon90","e":"null","m":"The first non sub to guess the number im thinking of between 1 and 20 gets a gifted sub","nm":"The first non sub to guess the number im thinking of between 1 and 20 gets a gifted sub","b":"b"}
+{"t":2269601,"u":"anon95","e":"null","m":"cmon you can do it","nm":"cmon you can do it","b":"nb"}
+{"t":2269959,"u":"anon96","e":"null","m":"you got this","nm":"you got this","b":"nb"}
+{"t":2271793,"u":"anon91","e":"null","m":"@RaizQT4I he did it already","nm":"RaizQT4I he did it already","b":"b"}
+{"t":2274827,"u":"anon2","e":"null","m":"sick","nm":"sick","b":"b"}
+{"t":2279923,"u":"anon7","e":"null","m":"they wont nerf it because everyone can do it","nm":"they wont nerf it because everyone can do it","b":"b"}
+{"t":2280934,"u":"anon11","e":"null","m":"dirty","nm":"dirty","b":"b"}
+{"t":2281950,"u":"anon12","e":"null","m":"@dip_7777 do you like the new update or u wish the old map back","nm":"dip_7777 do you like the new update or u wish the old map back","b":"b"}
+{"t":2283984,"u":"anon14","e":"null","m":"Banger elixGasm elixGasm elixGasm","nm":"Banger elixGasm elixGasm elixGasm","b":"b"}
+{"t":2286017,"u":"anon15","e":"null","m":"I mean yea you did get lucky for blowing up and people noticing you. There’s a lot of small time guys that are amazing but haven’t been noticed @dip_7777","nm":"I mean yea you did get lucky for blowing up and people noticing you Theres a lot of small time guys that are amazing but havent been noticed dip_7777","b":"b"}
+{"t":2290079,"u":"anon16","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2295155,"u":"anon17","e":"null","m":"whats up my guy","nm":"whats up my guy","b":"b"}
+{"t":2296178,"u":"anon18","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":2298202,"u":"anon19","e":"null","m":"SSJets_STC nobody ever copy pastas when i do it FeelsBadMan i need to stop being so nice","nm":"SSJets_STC nobody ever copy pastas when i do it FeelsBadMan i need to stop being so nice","b":"b"}
+{"t":2300234,"u":"anon20","e":"null","m":"Hello","nm":"Hello","b":"b"}
+{"t":2305309,"u":"anon21","e":"null","m":"WHATTTTT","nm":"WHATTTTT","b":"b"}
+{"t":2310389,"u":"anon22","e":"null","m":"Double pump is lame af","nm":"Double pump is lame af","b":"b"}
+{"t":2313442,"u":"anon23","e":"null","m":"jgoEw jgoEw jgoEw","nm":"jgoEw jgoEw jgoEw","b":"b"}
+{"t":2316481,"u":"anon30","e":"null","m":"yeaaa","nm":"yeaaa","b":"b"}
+{"t":2321558,"u":"anon31","e":"null","m":"@dip_7777 Go to Pochinki","nm":"dip_7777 Go to Pochinki","b":"b"}
+{"t":2322576,"u":"anon32","e":"null","m":"36 is the record","nm":"36 is the record","b":"b"}
+{"t":2324445,"u":"anon92","e":"null","m":"cmon","nm":"cmon","b":"nb"}
+{"t":2324607,"u":"anon33","e":"null","m":"Can u zoo wee mama","nm":"Can u zoo wee mama","b":"b"}
+{"t":2328669,"u":"anon34","e":"{"55338":["0-9"]}","m":"KappaPride","nm":"KappaPride","b":"b"}
+{"t":2330709,"u":"anon36","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":2332732,"u":"anon37","e":"null","m":"wow i can spell","nm":"wow i can spell","b":"b"}
+{"t":2336792,"u":"anon38","e":"{"55338":["0-9"]}","m":"KappaPride 123","nm":"KappaPride 123","b":"b"}
+{"t":2340080,"u":"anon6","e":"null","m":"YUSSSS","nm":"YUSSSS","b":"nb"}
+{"t":2340534,"u":"anon10","e":"null","m":"yessssssssssssss","nm":"yessssssssssssss","b":"nb"}
+{"t":2340863,"u":"anon39","e":"{"49106":["0-8","10-18","20-28"]}","m":"CorgiDerp CorgiDerp CorgiDerp","nm":"CorgiDerp CorgiDerp CorgiDerp","b":"b"}
+{"t":2341740,"u":"anon92","e":"{"1424198":["0-12","14-26","28-40","42-54","56-68"]}","m":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":2343309,"u":"anon92","e":"null","m":"EY","nm":"EY","b":"nb"}
+{"t":2344109,"u":"anon10","e":"null","m":"YESSSSS","nm":"YESSSSS","b":"nb"}
+{"t":2344987,"u":"anon10","e":"null","m":"adad","nm":"adad","b":"nb"}
+{"t":2345118,"u":"anon10","e":"null","m":"d","nm":"d","b":"nb"}
+{"t":2345571,"u":"anon10","e":"null","m":"dd","nm":"dd","b":"nb"}
+{"t":2345700,"u":"anon10","e":"null","m":"d","nm":"d","b":"nb"}
+{"t":2345847,"u":"anon10","e":"null","m":"dd","nm":"dd","b":"nb"}
+{"t":2345931,"u":"anon40","e":"null","m":"whats up people","nm":"whats up people","b":"b"}
+{"t":2346994,"u":"anon41","e":"null","m":"dj9wq0aop]qwapjm]dqa ';","nm":"dj9wq0aopqwapjmdqa ","b":"nb"}
+{"t":2349185,"u":"anon6","e":"null","m":"MY FUCKING HEART","nm":"MY FUCKING HEART","b":"nb"}
+{"t":2349540,"u":"anon10","e":"null","m":"dubbssss","nm":"dubbssss","b":"nb"}
+{"t":2350437,"u":"anon27","e":"null","m":"denzi you god","nm":"denzi you god","b":"nb"}
+{"t":2351016,"u":"anon45","e":"null","m":"@SuperBestFriendsPlayj Oh I dunno, I love the times he gets outraged and pretends to box at nothing and attack his bedroom walls lol","nm":"SuperBestFriendsPlayj Oh I dunno I love the times he gets outraged and pretends to box at nothing and attack his bedroom walls lol","b":"b"}
+{"t":2351172,"u":"anon92","e":"null","m":"woohoo","nm":"woohoo","b":"nb"}
+{"t":2352038,"u":"anon46","e":"null","m":"past it @Poulien1","nm":"past it Poulien1","b":"b"}
+{"t":2353054,"u":"anon65","e":"null","m":"yeeyeyyyessssss","nm":"yeeyeyyyessssss","b":"nb"}
+{"t":2354014,"u":"anon92","e":"{"1424198":["0-12","14-26","28-40"]}","m":"txryckDenziGG txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":2356096,"u":"anon47","e":"{"425618":["13-15"]}","m":"@ThreedoggBc LUL","nm":"ThreedoggBc LUL","b":"b"}
+{"t":2357687,"u":"anon92","e":"{"1303438":["0-11","13-24","26-37","39-50","52-63"]}","m":"svennoMonkas svennoMonkas svennoMonkas svennoMonkas svennoMonkas","nm":"svennoMonkas svennoMonkas svennoMonkas svennoMonkas svennoMonkas","b":"nb"}
+{"t":2359823,"u":"anon4","e":"{"1424198":["0-12","14-26","28-40","42-54","56-68","70-82"]}","m":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":2360155,"u":"anon48","e":"null","m":"VLUE AR","nm":"VLUE AR","b":"b"}
+{"t":2360871,"u":"anon10","e":"null","m":"150 BPM","nm":"150 BPM","b":"nb"}
+{"t":2361126,"u":"anon97","e":"null","m":"whats this for?","nm":"whats this for","b":"nb"}
+{"t":2362565,"u":"anon13","e":"{"1424198":["0-12","14-26"]}","m":"txryckDenziGG txryckDenziGG","nm":"txryckDenziGG txryckDenziGG","b":"nb"}
+{"t":2365237,"u":"anon49","e":"null","m":"(ditto) (ditto) (ditto)","nm":"ditto ditto ditto","b":"b"}
+{"t":2368289,"u":"anon50","e":"null","m":"EZ Clap","nm":"EZ Clap","b":"b"}
+{"t":2370010,"u":"anon28","e":"null","m":"gg","nm":"gg","b":"nb"}
+{"t":2370298,"u":"anon51","e":"null","m":"POGGERS","nm":"POGGERS","b":"b"}
+{"t":2372343,"u":"anon52","e":"null","m":"under the ramp idiot","nm":"under the ramp idiot","b":"b"}
+{"t":2373176,"u":"anon6","e":"null","m":"MY FUCKING HEART.","nm":"MY FUCKING HEART","b":"nb"}
+{"t":2374109,"u":"anon4","e":"null","m":"The $350 game","nm":"The 350 game","b":"nb"}
+{"t":2377427,"u":"anon53","e":"{"86":["14-23"]}","m":"RIP GLHF bade BibleThump","nm":"RIP GLHF bade BibleThump","b":"b"}
+{"t":2379867,"u":"anon92","e":"null","m":"gg","nm":"gg","b":"nb"}
+{"t":2380460,"u":"anon54","e":"null","m":"@dip_7777 how good is Myth's building??","nm":"dip_7777 how good is Myths building","b":"b"}
+{"t":2380891,"u":"anon42","e":"null","m":"Yayyyyy xxx","nm":"Yayyyyy xxx","b":"nb"}
+{"t":2382195,"u":"anon97","e":"null","m":"from who??","nm":"from who","b":"nb"}
+{"t":2382234,"u":"anon4","e":"null","m":"It’s beating","nm":"Its beating","b":"nb"}
+{"t":2382498,"u":"anon55","e":"{"12":["66-67"]}","m":"@GameJ06aH Still, this game was his life if he had that much wins :P","nm":"GameJ06aH Still this game was his life if he had that much wins P","b":"b"}
+{"t":2385545,"u":"anon56","e":"{"1902":["12-16"]}","m":"i like cats Keepo","nm":"i like cats Keepo","b":"b"}
+{"t":2387943,"u":"anon10","e":"null","m":"plus 15 per kill","nm":"plus 15 per kill","b":"nb"}
+{"t":2389779,"u":"anon98","e":"null","m":"Gg","nm":"Gg","b":"nb"}
+{"t":2390627,"u":"anon58","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":2391732,"u":"anon57","e":"{"425618":["12-14"]}","m":"double pump LUL","nm":"double pump LUL","b":"b"}
+{"t":2392155,"u":"anon13","e":"{"1418629":["14-21","37-44","60-67"],"1424198":["0-12","23-35","46-58"]}","m":"txryckDenziGG deadsqGG txryckDenziGG deadsqGG txryckDenziGG deadsqGG","nm":"txryckDenziGG deadsqGG txryckDenziGG deadsqGG txryckDenziGG deadsqGG","b":"nb"}
+{"t":2395703,"u":"anon59","e":"null","m":"Is this a replay?","nm":"Is this a replay","b":"b"}
+{"t":2400775,"u":"anon60","e":"null","m":"i smell what you're stepping in","nm":"i smell what youre stepping in","b":"b"}
+{"t":2401639,"u":"anon28","e":"null","m":"buy skull trooper","nm":"buy skull trooper","b":"nb"}
+{"t":2404845,"u":"anon61","e":"null","m":"free footlong sub","nm":"free footlong sub","b":"b"}
+{"t":2405860,"u":"anon62","e":"null","m":"CLUTCH","nm":"CLUTCH","b":"b"}
+{"t":2405884,"u":"anon65","e":"null","m":"you rule","nm":"you rule","b":"nb"}
+{"t":2408907,"u":"anon63","e":"null","m":"helo im brasil","nm":"helo im brasil","b":"b"}
+{"t":2410664,"u":"anon92","e":"null","m":"15x9=$135","nm":"15x9135","b":"nb"}
+{"t":2411274,"u":"anon4","e":"null","m":"Global you still there","nm":"Global you still there","b":"nb"}
+{"t":2412865,"u":"anon10","e":"null","m":"@fortnitedenzi u play better when ur stressed lmao","nm":"fortnitedenzi u play better when ur stressed lmao","b":"nb"}
+{"t":2412963,"u":"anon64","e":"null","m":"Take on tilted together then separate from there","nm":"Take on tilted together then separate from there","b":"b"}
+{"t":2417368,"u":"anon42","e":"null","m":"Congratssssss xxxxx","nm":"Congratssssss xxxxx","b":"nb"}
+{"t":2418044,"u":"anon66","e":"null","m":"thats not fair, with aim like yours, u shouldn't be abusing young noobs like that @dip_7777","nm":"thats not fair with aim like yours u shouldnt be abusing young noobs like that dip_7777","b":"b"}
+{"t":2419273,"u":"anon97","e":"null","m":"whos giving u the money","nm":"whos giving u the money","b":"nb"}
+{"t":2422104,"u":"anon67","e":"null","m":"Dude what a bully","nm":"Dude what a bully","b":"b"}
+{"t":2425159,"u":"anon68","e":"null","m":"WHAT! how hes still alive!","nm":"WHAT how hes still alive","b":"b"}
+{"t":2427044,"u":"anon42","e":"null","m":"Global is","nm":"Global is","b":"nb"}
+{"t":2427515,"u":"anon92","e":"null","m":"isok","nm":"isok","b":"nb"}
+{"t":2428204,"u":"anon69","e":"null","m":"NA is stronk","nm":"NA is stronk","b":"b"}
+{"t":2432266,"u":"anon71","e":"null","m":"Oi","nm":"Oi","b":"b"}
+{"t":2437344,"u":"anon72","e":"{"25":["0-4"]}","m":"Kappa","nm":"Kappa","b":"b"}
+{"t":2438189,"u":"anon92","e":"null","m":"congrats","nm":"congrats","b":"nb"}
+{"t":2438360,"u":"anon73","e":"null","m":"LuL","nm":"LuL","b":"b"}
+{"t":2439379,"u":"anon74","e":"null","m":"Dr Lupo is MY doctor","nm":"Dr Lupo is MY doctor","b":"b"}
+{"t":2440876,"u":"anon27","e":"null","m":"and 9 ikills","nm":"and 9 ikills","b":"nb"}
+{"t":2441303,"u":"anon6","e":"null","m":"He calling kook","nm":"He calling kook","b":"nb"}
+{"t":2441385,"u":"anon95","e":"null","m":"yeah boyyyyyyyyyyyyyyyyyyyyyyyyyy","nm":"yeah boyyyyyyyyyyyyyyyyyyyyyyyyyy","b":"nb"}
+{"t":2444443,"u":"anon75","e":"null","m":"shield in miens tyler!","nm":"shield in miens tyler","b":"b"}
+{"t":2445801,"u":"anon6","e":"null","m":"Hes on discord","nm":"Hes on discord","b":"nb"}
+{"t":2446385,"u":"anon92","e":"{"1246551":["0-13"]}","m":"svennoLauncher","nm":"svennoLauncher","b":"nb"}
+{"t":2446849,"u":"anon10","e":"null","m":"@AGlobalForce this boi","nm":"AGlobalForce this boi","b":"nb"}
+{"t":2447501,"u":"anon76","e":"{"41":["14-21"]}","m":"Fortnite life Kreygasm","nm":"Fortnite life Kreygasm","b":"b"}
+{"t":2449527,"u":"anon77","e":"null","m":"?","nm":"","b":"b"}
+{"t":2451564,"u":"anon78","e":"null","m":"Howdy","nm":"Howdy","b":"b"}
+{"t":2452575,"u":"anon79","e":"null","m":"Monkas","nm":"Monkas","b":"b"}
+{"t":2453001,"u":"anon6","e":"null","m":"NVm","nm":"NVm","b":"nb"}
+{"t":2453684,"u":"anon65","e":"null","m":"how much","nm":"how much","b":"nb"}
+{"t":2454611,"u":"anon80","e":"null","m":"GO TO SALTY OR FUCK FACTORIES","nm":"GO TO SALTY OR FUCK FACTORIES","b":"b"}
+{"t":2455614,"u":"anon4","e":"null","m":"Look at this dude","nm":"Look at this dude","b":"nb"}
+{"t":2456635,"u":"anon81","e":"{"425618":["0-2","4-6"]}","m":"LUL LUL","nm":"LUL LUL","b":"b"}
+{"t":2457414,"u":"anon98","e":"null","m":"Gg","nm":"Gg","b":"nb"}
+{"t":2457657,"u":"anon82","e":"null","m":"last one","nm":"last one","b":"b"}
+{"t":2460706,"u":"anon83","e":"{"191762":["0-5"],"191763":["7-12"],"191764":["14-19"],"191767":["21-26"]}","m":"Squid1 Squid2 Squid3 Squid4","nm":"Squid1 Squid2 Squid3 Squid4","b":"b"}
+{"t":2461717,"u":"anon84","e":"null","m":"This is it","nm":"This is it","b":"b"}
+{"t":2462737,"u":"anon85","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":2464896,"u":"anon92","e":"{"1247280":["0-9","11-20"]}","m":"svennoDown svennoDown","nm":"svennoDown svennoDown","b":"nb"}
+{"t":2466782,"u":"anon86","e":"null","m":"fell","nm":"fell","b":"b"}
+{"t":2467799,"u":"anon87","e":"null","m":"SOLO VS SQUADS SWHO ME DA WAE","nm":"SOLO VS SQUADS SWHO ME DA WAE","b":"b"}
+{"t":2472888,"u":"anon88","e":"null","m":"extra slot..","nm":"extra slot","b":"b"}
+{"t":2473905,"u":"anon89","e":"null","m":"It’s pc he doesn’t have controller settings","nm":"Its pc he doesnt have controller settings","b":"b"}
+{"t":2475924,"u":"anon90","e":"null","m":"anyone who says that wasn't a stream sniper was an idiot. Why would he have the dip_7777 emote ready?","nm":"anyone who says that wasnt a stream sniper was an idiot Why would he have the dip_7777 emote ready","b":"b"}
+{"t":2476949,"u":"anon91","e":"null","m":"Lmao","nm":"Lmao","b":"b"}
+{"t":2477955,"u":"anon2","e":"null","m":"MONSTA HUNTA BOIIIISSSSSS","nm":"MONSTA HUNTA BOIIIISSSSSS","b":"b"}
+{"t":2478334,"u":"anon97","e":"null","m":"when is he giving money?","nm":"when is he giving money","b":"nb"}
+{"t":2479984,"u":"anon2","e":"null","m":"jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK","nm":"jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK jgoAFK","b":"b"}
+{"t":2481018,"u":"anon7","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2484047,"u":"anon11","e":"{"425618":["0-2","4-6","8-10"]}","m":"LUL LUL LUL","nm":"LUL LUL LUL","b":"b"}
+{"t":2488127,"u":"anon12","e":"null","m":"@","nm":"","b":"b"}
+{"t":2492188,"u":"anon14","e":"null","m":"that doc video is weird af","nm":"that doc video is weird af","b":"b"}
+{"t":2494227,"u":"anon15","e":"{"41":["29-36"]}","m":"dip_7777 loves the new smell Kreygasm","nm":"dip_7777 loves the new smell Kreygasm","b":"b"}
+{"t":2495231,"u":"anon16","e":"null","m":"EZ","nm":"EZ","b":"b"}
+{"t":2497282,"u":"anon65","e":"null","m":"GLOBAL is a legand","nm":"GLOBAL is a legand","b":"nb"}
+{"t":2500311,"u":"anon17","e":"null","m":"🙄🔥","nm":"","b":"b"}
+{"t":2504426,"u":"anon92","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"nb"}
+{"t":2505396,"u":"anon18","e":"null","m":"little does this guy know, 23k people are watching him lmao","nm":"little does this guy know 23k people are watching him lmao","b":"b"}
+{"t":2506407,"u":"anon19","e":"null","m":"@dip_7777 why do you have the TV on and the radio on at the same time?","nm":"dip_7777 why do you have the TV on and the radio on at the same time","b":"b"}
+{"t":2508973,"u":"anon4","e":"null","m":"How do you see viewer list","nm":"How do you see viewer list","b":"nb"}
+{"t":2509452,"u":"anon20","e":"null","m":"Lmao bravo","nm":"Lmao bravo","b":"b"}
+{"t":2509522,"u":"anon42","e":"null","m":"Who u talking too xxx","nm":"Who u talking too xxx","b":"nb"}
+{"t":2510470,"u":"anon21","e":"null","m":"most people talk trash to try and gain relevancy because they themselves have a pathetic life","nm":"most people talk trash to try and gain relevancy because they themselves have a pathetic life","b":"b"}
+{"t":2513464,"u":"anon3","e":"null","m":"Follow Denzitv on insta or instagram.com/denzitv to see twitch highlights, when I go live and to be entered into giveaways I host.","nm":"Follow Denzitv on insta or instagramcomdenzitv to see twitch highlights when I go live and to be entered into giveaways I host","b":"nb"}
+{"t":2515544,"u":"anon22","e":"null","m":"@GrimmmznN the truth brother","nm":"GrimmmznN the truth brother","b":"b"}
+{"t":2520628,"u":"anon23","e":"null","m":"Quad pump or gtfo","nm":"Quad pump or gtfo","b":"b"}
+{"t":2523671,"u":"anon30","e":"null","m":"Y'all backseat 2kill gamers kill me😂","nm":"Yall backseat 2kill gamers kill me","b":"b"}
+{"t":2524683,"u":"anon31","e":"{"86":["0-9"]}","m":"BibleThump","nm":"BibleThump","b":"b"}
+{"t":2526716,"u":"anon32","e":"null","m":"i enjoy both streams","nm":"i enjoy both streams","b":"b"}
+{"t":2527003,"u":"anon98","e":"null","m":"If he dosent come ..","nm":"If he dosent come ","b":"nb"}
+{"t":2528752,"u":"anon33","e":"null","m":"what is happening","nm":"what is happening","b":"b"}
+{"t":2530786,"u":"anon34","e":"null","m":"these emotes though","nm":"these emotes though","b":"b"}
+{"t":2535861,"u":"anon36","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":2537891,"u":"anon37","e":"null","m":"Hey @dip_7777 I watched your BudLight All stars video on Machinima. Truly such an inspiring vid. Much love","nm":"Hey dip_7777 I watched your BudLight All stars video on Machinima Truly such an inspiring vid Much love","b":"b"}
+{"t":2539916,"u":"anon38","e":"{"86":["0-9"]}","m":"BibleThump","nm":"BibleThump","b":"b"}
+{"t":2544854,"u":"anon6","e":"null","m":"@AGlobalForce DENZI COMPLETED THE CHALLENGE","nm":"AGlobalForce DENZI COMPLETED THE CHALLENGE","b":"nb"}
+{"t":2545000,"u":"anon39","e":"null","m":"WHO PAYED WITH EBT WTF","nm":"WHO PAYED WITH EBT WTF","b":"b"}
+{"t":2549056,"u":"anon40","e":"null","m":"@dip_7777 What songs are you playing?","nm":"dip_7777 What songs are you playing","b":"b"}
+{"t":2549212,"u":"anon92","e":"null","m":"processor first @fortnitedenzi","nm":"processor first fortnitedenzi","b":"nb"}
+{"t":2550704,"u":"anon4","e":"null","m":"Caps","nm":"Caps","b":"nb"}
+{"t":2551094,"u":"anon45","e":"{"114836":["0-7"]}","m":"Jebaited","nm":"Jebaited","b":"b"}
+{"t":2552687,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2554187,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2554809,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2555162,"u":"anon46","e":"null","m":"omg","nm":"omg","b":"b"}
+{"t":2555898,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2556419,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2557332,"u":"anon5","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2557901,"u":"anon10","e":"null","m":"@mx28 is right","nm":"mx28 is right","b":"nb"}
+{"t":2559067,"u":"anon92","e":"null","m":"ey","nm":"ey","b":"nb"}
+{"t":2560233,"u":"anon47","e":"null","m":"@AKAWonderN alright thanks","nm":"AKAWonderN alright thanks","b":"b"}
+{"t":2561783,"u":"anon27","e":"null","m":"denzi so good man","nm":"denzi so good man","b":"nb"}
+{"t":2562333,"u":"anon4","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2565138,"u":"anon6","e":"null","m":"<","nm":"","b":"nb"}
+{"t":2565313,"u":"anon48","e":"null","m":"one more","nm":"one more","b":"b"}
+{"t":2567163,"u":"anon6","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2569376,"u":"anon49","e":"null","m":"@TweetyExpertn every 1st win","nm":"TweetyExpertn every 1st win","b":"b"}
+{"t":2569397,"u":"anon10","e":"{"445":["0-1","3-4","6-7","9-10","12-13","15-16","18-19","21-22"]}","m":"<3 <3 <3 <3 <3 <3 <3 <3","nm":"3 3 3 3 3 3 3 3","b":"nb"}
+{"t":2569814,"u":"anon92","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2570859,"u":"anon4","e":"null","m":"<3￼","nm":"3","b":"nb"}
+{"t":2572919,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":2574454,"u":"anon50","e":"null","m":"double Pump is going god for Multi team situation 1v1 u can just Use 1 pump or 1 Tac.","nm":"double Pump is going god for Multi team situation 1v1 u can just Use 1 pump or 1 Tac","b":"b"}
+{"t":2577496,"u":"anon51","e":"null","m":"hi","nm":"hi","b":"b"}
+{"t":2578061,"u":"anon13","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"nb"}
+{"t":2579532,"u":"anon52","e":"null","m":"20iq","nm":"20iq","b":"b"}
+{"t":2581568,"u":"anon53","e":"{"191762":["0-5"],"191763":["7-12"],"191764":["14-19"],"191767":["21-26"]}","m":"Squid1 Squid2 Squid3 Squid4","nm":"Squid1 Squid2 Squid3 Squid4","b":"b"}
+{"t":2581985,"u":"anon65","e":"{"9":["0-1","3-4","6-7","9-10"]}","m":"<3 <3 <3 <3","nm":"3 3 3 3","b":"nb"}
+{"t":2584002,"u":"anon92","e":"{"9":["0-1","3-4","6-7","9-10","12-13","15-16"]}","m":"<3 <3 <3 <3 <3 <3","nm":"3 3 3 3 3 3","b":"nb"}
+{"t":2585618,"u":"anon54","e":"null","m":"rooBooli","nm":"rooBooli","b":"b"}
+{"t":2589682,"u":"anon55","e":"null","m":"1 tapped","nm":"1 tapped","b":"b"}
+{"t":2590702,"u":"anon56","e":"null","m":"op","nm":"op","b":"b"}
+{"t":2594763,"u":"anon57","e":"null","m":"Fortnite has blown up too","nm":"Fortnite has blown up too","b":"b"}
+{"t":2596809,"u":"anon58","e":"{"86":["0-9"]}","m":"BibleThump","nm":"BibleThump","b":"b"}
+{"t":2601778,"u":"anon10","e":"{"445":["0-1","3-4","6-7","9-10","12-13","15-16","18-19","21-22","24-25","27-28"]}","m":"<3 <3 <3 <3 <3 <3 <3 <3 <3 <3","nm":"3 3 3 3 3 3 3 3 3 3","b":"nb"}
+{"t":2601874,"u":"anon59","e":"{"86":["10-19"]}","m":"that dono BibleThump","nm":"that dono BibleThump","b":"b"}
+{"t":2602886,"u":"anon60","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":2604919,"u":"anon61","e":"{"425618":["10-12"]}","m":"that name LUL","nm":"that name LUL","b":"b"}
+{"t":2605939,"u":"anon62","e":"null","m":"h1z1?","nm":"h1z1","b":"b"}
+{"t":2607117,"u":"anon42","e":"null","m":"Facecam taryck xxx","nm":"Facecam taryck xxx","b":"nb"}
+{"t":2607969,"u":"anon63","e":"null","m":"ayyeeeee","nm":"ayyeeeee","b":"b"}
+{"t":2609374,"u":"anon64","e":"{"153556":["0-7"]}","m":"BlessRNG potqueStcough potqueStcough potqueStcough potqueStcough potqueStcough potqueStcough","nm":"BlessRNG potqueStcough potqueStcough potqueStcough potqueStcough potqueStcough potqueStcough","b":"b"}
+{"t":2610190,"u":"anon4","e":"null","m":"Face cam please it would be 20x better for the clips","nm":"Face cam please it would be 20x better for the clips","b":"nb"}
+{"t":2612029,"u":"anon66","e":"null","m":"where we going?","nm":"where we going","b":"b"}
+{"t":2612413,"u":"anon10","e":"{"445":["0-1","3-4","6-7","9-10","12-13","15-16","18-19","21-22"]}","m":"<3 <3 <3 <3 <3 <3 <3 <3","nm":"3 3 3 3 3 3 3 3","b":"nb"}
+{"t":2613961,"u":"anon42","e":"null","m":"I wanna see yo face rn","nm":"I wanna see yo face rn","b":"nb"}
+{"t":2615075,"u":"anon67","e":"{"425618":["9-11"]}","m":"One more LUL","nm":"One more LUL","b":"b"}
+{"t":2616094,"u":"anon68","e":"null","m":"legendary at broken","nm":"legendary at broken","b":"b"}
+{"t":2618126,"u":"anon69","e":"null","m":"Where does dip_7777 live?","nm":"Where does dip_7777 live","b":"b"}
+{"t":2619143,"u":"anon71","e":"null","m":"Thanks for the tips ninj, suck a dick","nm":"Thanks for the tips ninj suck a dick","b":"b"}
+{"t":2624220,"u":"anon72","e":"null","m":"k","nm":"k","b":"b"}
+{"t":2628285,"u":"anon73","e":"null","m":"hey","nm":"hey","b":"b"}
+{"t":2632353,"u":"anon74","e":"null","m":"Omg hahahahaha","nm":"Omg hahahahaha","b":"b"}
+{"t":2633354,"u":"anon75","e":"null","m":"When did he start streaming","nm":"When did he start streaming","b":"b"}
+{"t":2634374,"u":"anon76","e":"null","m":"Nice","nm":"Nice","b":"b"}
+{"t":2638433,"u":"anon77","e":"null","m":"Do you play dead by daylight","nm":"Do you play dead by daylight","b":"b"}
+{"t":2643519,"u":"anon78","e":"null","m":"pump #1","nm":"pump 1","b":"b"}
+{"t":2644521,"u":"anon79","e":"null","m":"that guy had a family!","nm":"that guy had a family","b":"b"}
+{"t":2644650,"u":"anon10","e":"{"445":["36-37","39-40","42-43","45-46","48-49","51-52"]}","m":"@fortnitedenzi face cam man com man <3 <3 <3 <3 <3 <3","nm":"fortnitedenzi face cam man com man 3 3 3 3 3 3","b":"nb"}
+{"t":2646212,"u":"anon98","e":"null","m":"FACE CAM!","nm":"FACE CAM","b":"nb"}
+{"t":2647918,"u":"anon4","e":"null","m":"That’s what I said Freeqe thank you","nm":"Thats what I said Freeqe thank you","b":"nb"}
+{"t":2649609,"u":"anon80","e":"null","m":"5","nm":"5","b":"b"}
+{"t":2651235,"u":"anon99","e":"null","m":"SUP GAEMER","nm":"SUP GAEMER","b":"nb"}
+{"t":2652650,"u":"anon81","e":"null","m":"kidding","nm":"kidding","b":"b"}
+{"t":2655728,"u":"anon4","e":"null","m":"We need it for the clips","nm":"We need it for the clips","b":"nb"}
+{"t":2657736,"u":"anon82","e":"null","m":"2 good","nm":"2 good","b":"b"}
+{"t":2659772,"u":"anon83","e":"{"425618":["51-53"]}","m":"@comesomeall1H2 Lol that’s pretty apparent, fanboy LUL","nm":"comesomeall1H2 Lol thats pretty apparent fanboy LUL","b":"b"}
+{"t":2660779,"u":"anon84","e":"null","m":"clutch","nm":"clutch","b":"b"}
+{"t":2661029,"u":"anon10","e":"null","m":"1 for face cam","nm":"1 for face cam","b":"nb"}
+{"t":2662815,"u":"anon85","e":"null","m":"@MaDQFroGcC no he wins games unlike summit","nm":"MaDQFroGcC no he wins games unlike summit","b":"b"}
+{"t":2663212,"u":"anon10","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2664588,"u":"anon92","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2665877,"u":"anon6","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2667882,"u":"anon86","e":"null","m":"it depends on the game","nm":"it depends on the game","b":"b"}
+{"t":2669493,"u":"anon13","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2670931,"u":"anon87","e":"null","m":"@GrimmmznN its the law lol","nm":"GrimmmznN its the law lol","b":"b"}
+{"t":2672010,"u":"anon4","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2672028,"u":"anon65","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2672968,"u":"anon88","e":"null","m":"Kkona","nm":"Kkona","b":"b"}
+{"t":2673081,"u":"anon42","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2673584,"u":"anon27","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2675595,"u":"anon4","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2677033,"u":"anon89","e":"null","m":"10","nm":"10","b":"b"}
+{"t":2679054,"u":"anon90","e":"null","m":"this is tough to watch a little ..","nm":"this is tough to watch a little ","b":"b"}
+{"t":2679117,"u":"anon4","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2680075,"u":"anon91","e":"null","m":"jesus christ","nm":"jesus christ","b":"b"}
+{"t":2682108,"u":"anon2","e":"null","m":"ready up","nm":"ready up","b":"b"}
+{"t":2685147,"u":"anon2","e":"null","m":"ding kangalang","nm":"ding kangalang","b":"b"}
+{"t":2686172,"u":"anon7","e":"null","m":"I love dip_7777 the fortnite god","nm":"I love dip_7777 the fortnite god","b":"b"}
+{"t":2689215,"u":"anon11","e":"null","m":"im not a ceez sub (love the guy) but can we get some ceezP in the chat for my boy dip_7777","nm":"im not a ceez sub love the guy but can we get some ceezP in the chat for my boy dip_7777","b":"b"}
+{"t":2691248,"u":"anon12","e":"null","m":"lupo","nm":"lupo","b":"b"}
+{"t":2691437,"u":"anon95","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2695240,"u":"anon10","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2695314,"u":"anon14","e":"null","m":"3 inch GANG","nm":"3 inch GANG","b":"b"}
+{"t":2695742,"u":"anon10","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2697353,"u":"anon15","e":"null","m":"He's another sniper","nm":"Hes another sniper","b":"b"}
+{"t":2698557,"u":"anon6","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2702419,"u":"anon16","e":"null","m":"okokokokokok","nm":"okokokokokok","b":"b"}
+{"t":2703471,"u":"anon65","e":"null","m":"111","nm":"111","b":"nb"}
+{"t":2704477,"u":"anon98","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":2706481,"u":"anon17","e":"null","m":"yeeeeeah I've bene waiting for your stream to start bro","nm":"yeeeeeah Ive bene waiting for your stream to start bro","b":"b"}
+{"t":2707501,"u":"anon18","e":"null","m":"Lol all the butthurt people","nm":"Lol all the butthurt people","b":"b"}
+{"t":2708929,"u":"anon100","e":"null","m":"Should i get skull ranger or recon specialist","nm":"Should i get skull ranger or recon specialist","b":"nb"}
+{"t":2712574,"u":"anon19","e":"null","m":"8","nm":"8","b":"b"}
+{"t":2713223,"u":"anon94","e":"null","m":"what time is skirmish I'm AUSTRALIAN","nm":"what time is skirmish Im AUSTRALIAN","b":"nb"}
+{"t":2715622,"u":"anon20","e":"null","m":"ceezGU","nm":"ceezGU","b":"b"}
+{"t":2717921,"u":"anon5","e":"null","m":"Taryck","nm":"Taryck","b":"nb"}
+{"t":2719686,"u":"anon21","e":"null","m":"Lmaooooo","nm":"Lmaooooo","b":"b"}
+{"t":2720137,"u":"anon92","e":"null","m":"coles omh","nm":"coles omh","b":"nb"}
+{"t":2723747,"u":"anon22","e":"null","m":"https://clips.twitch.tv/DoubtfulShortAsteriskUnSane","nm":"httpsclipstwitchtvDoubtfulShortAsteriskUnSane","b":"b"}
+{"t":2725684,"u":"anon4","e":"null","m":"What’s up","nm":"Whats up","b":"nb"}
+{"t":2726024,"u":"anon98","e":"null","m":"5:00 am","nm":"500 am","b":"nb"}
+{"t":2727815,"u":"anon23","e":"null","m":"got scared there","nm":"got scared there","b":"b"}
+{"t":2729841,"u":"anon30","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2732369,"u":"anon95","e":"null","m":"PLZ PUTON FACECAM","nm":"PLZ PUTON FACECAM","b":"nb"}
+{"t":2734491,"u":"anon94","e":"null","m":"for na","nm":"for na","b":"nb"}
+{"t":2734917,"u":"anon31","e":"null","m":"wtf","nm":"wtf","b":"b"}
+{"t":2735934,"u":"anon32","e":"null","m":"chair stream?","nm":"chair stream","b":"b"}
+{"t":2736832,"u":"anon5","e":"null","m":"No, no face cam","nm":"No no face cam","b":"nb"}
+{"t":2737969,"u":"anon33","e":"null","m":"Lourd","nm":"Lourd","b":"b"}
+{"t":2741880,"u":"anon10","e":"null","m":"^","nm":"","b":"nb"}
+{"t":2743045,"u":"anon34","e":"null","m":"my","nm":"my","b":"b"}
+{"t":2747112,"u":"anon36","e":"null","m":"bro dip_7777 I wanna see try to play PS4 Fortnite","nm":"bro dip_7777 I wanna see try to play PS4 Fortnite","b":"b"}
+{"t":2752185,"u":"anon37","e":"null","m":"was just testing","nm":"was just testing","b":"b"}
+{"t":2752280,"u":"anon95","e":"null","m":"NO NO FACE CAM","nm":"NO NO FACE CAM","b":"nb"}
+{"t":2753983,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":2757095,"u":"anon5","e":"null","m":"Challenge is competed, HOWEVER","nm":"Challenge is competed HOWEVER","b":"nb"}
+{"t":2757263,"u":"anon38","e":"null","m":"Pop","nm":"Pop","b":"b"}
+{"t":2758221,"u":"anon92","e":"null","m":"no facecam","nm":"no facecam","b":"nb"}
+{"t":2760889,"u":"anon65","e":"null","m":"two for no face cam","nm":"two for no face cam","b":"nb"}
+{"t":2761333,"u":"anon39","e":"null","m":"sub only chat?","nm":"sub only chat","b":"b"}
+{"t":2763411,"u":"anon4","e":"null","m":"Ok Global Respect","nm":"Ok Global Respect","b":"nb"}
+{"t":2766399,"u":"anon40","e":"null","m":"ninj, i have the same mouse and keyboard as u","nm":"ninj i have the same mouse and keyboard as u","b":"b"}
+{"t":2771488,"u":"anon45","e":"null","m":"WOW WHAT A NICE GUY","nm":"WOW WHAT A NICE GUY","b":"b"}
+{"t":2772507,"u":"anon46","e":"null","m":"lmao","nm":"lmao","b":"b"}
+{"t":2773124,"u":"anon101","e":"null","m":"!sens","nm":"sens","b":"nb"}
+{"t":2773338,"u":"anon3","e":"null","m":"1200 dpi 12 X 8 Y","nm":"1200 dpi 12 X 8 Y","b":"nb"}
+{"t":2776561,"u":"anon47","e":"null","m":"Lmao","nm":"Lmao","b":"b"}
+{"t":2779093,"u":"anon101","e":"null","m":"!res","nm":"res","b":"nb"}
+{"t":2779337,"u":"anon3","e":"null","m":"1440 x 900","nm":"1440 x 900","b":"nb"}
+{"t":2779606,"u":"anon48","e":"null","m":"@TweetyExpertn it's your time to shine 🐐 i believe in you","nm":"TweetyExpertn its your time to shine  i believe in you","b":"b"}
+{"t":2779677,"u":"anon4","e":"null","m":"Emote “Globe” says Global Hype","nm":"Emote Globe says Global Hype","b":"nb"}
+{"t":2782196,"u":"anon65","e":"null","m":"2","nm":"2","b":"nb"}
+{"t":2782655,"u":"anon49","e":"null","m":"guys fortnite settings ?","nm":"guys fortnite settings ","b":"b"}
+{"t":2783672,"u":"anon50","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":2787729,"u":"anon51","e":"{"191763":["0-5"],"191764":["7-12"],"191767":["14-19"]}","m":"Squid2 Squid3 Squid4","nm":"Squid2 Squid3 Squid4","b":"b"}
+{"t":2792814,"u":"anon52","e":"null","m":"moon2L moon2L moon2L moon2L moon2L moon2L moon2L","nm":"moon2L moon2L moon2L moon2L moon2L moon2L moon2L","b":"b"}
+{"t":2793259,"u":"anon92","e":"{"959018":["0-7","9-16"]}","m":"EarthDay EarthDay","nm":"EarthDay EarthDay","b":"nb"}
+{"t":2793830,"u":"anon53","e":"null","m":"@GameJ06aH You a ginger?","nm":"GameJ06aH You a ginger","b":"b"}
+{"t":2798901,"u":"anon54","e":"null","m":"Gg","nm":"Gg","b":"b"}
+{"t":2801816,"u":"anon92","e":"null","m":"kind of a global emote","nm":"kind of a global emote","b":"nb"}
+{"t":2801946,"u":"anon55","e":"null","m":"200 IQ Pogchamp","nm":"200 IQ Pogchamp","b":"b"}
+{"t":2802744,"u":"anon10","e":"null","m":"hes uncomfortable tho so no facecam","nm":"hes uncomfortable tho so no facecam","b":"nb"}
+{"t":2804996,"u":"anon56","e":"null","m":"@Nili_AoEk they currently hold the kill record with 36 kills","nm":"Nili_AoEk they currently hold the kill record with 36 kills","b":"b"}
+{"t":2807028,"u":"anon57","e":"null","m":"Me too","nm":"Me too","b":"b"}
+{"t":2807786,"u":"anon95","e":"null","m":"no facecam","nm":"no facecam","b":"nb"}
+{"t":2808565,"u":"anon92","e":"{"959018":["0-7"]}","m":"EarthDay","nm":"EarthDay","b":"nb"}
+{"t":2812112,"u":"anon58","e":"null","m":"and I've jumped to dip_7777","nm":"and Ive jumped to dip_7777","b":"b"}
+{"t":2814382,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":2815155,"u":"anon59","e":"null","m":"@KleanWq going for high kill games, so less wins","nm":"KleanWq going for high kill games so less wins","b":"b"}
+{"t":2818200,"u":"anon60","e":"null","m":"@dip_7777 do you ever listen to boosie badass","nm":"dip_7777 do you ever listen to boosie badass","b":"b"}
+{"t":2819221,"u":"anon61","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2821250,"u":"anon62","e":"null","m":"disco disco","nm":"disco disco","b":"b"}
+{"t":2825318,"u":"anon63","e":"null","m":"bye","nm":"bye","b":"b"}
+{"t":2826133,"u":"anon42","e":"null","m":"Now all of a sudden everyone changes","nm":"Now all of a sudden everyone changes","b":"nb"}
+{"t":2828359,"u":"anon64","e":"{"47":["0-9","11-20","22-31","33-42"],"64138":["59-67"],"68856":["51-57"],"81274":["44-49"],"112288":["69-76"]}","m":"PunchTrees PunchTrees PunchTrees PunchTrees VoHiYo MingLee SeemsGood copyThis","nm":"PunchTrees PunchTrees PunchTrees PunchTrees VoHiYo MingLee SeemsGood copyThis","b":"b"}
+{"t":2829743,"u":"anon27","e":"null","m":"put mask on and then show facecam","nm":"put mask on and then show facecam","b":"nb"}
+{"t":2830109,"u":"anon4","e":"{"959018":["0-7","9-16","18-25"]}","m":"EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2830388,"u":"anon66","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":2833434,"u":"anon67","e":"null","m":"is this squads","nm":"is this squads","b":"b"}
+{"t":2834747,"u":"anon10","e":"{"959018":["0-7","9-16","18-25","27-34","36-43","45-52","54-61","63-70","72-79","81-88","90-97","99-106"]}","m":"EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2836490,"u":"anon68","e":"null","m":"T H I C C A S F","nm":"T H I C C A S F","b":"b"}
+{"t":2840552,"u":"anon69","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2842314,"u":"anon65","e":"null","m":"if denzi dosnt like doing face cam he dosnt have to","nm":"if denzi dosnt like doing face cam he dosnt have to","b":"nb"}
+{"t":2843703,"u":"anon10","e":"null","m":"global","nm":"global","b":"nb"}
+{"t":2844600,"u":"anon71","e":"null","m":"how do i sub?","nm":"how do i sub","b":"b"}
+{"t":2845690,"u":"anon13","e":"{"959018":["0-7","9-16","18-25"]}","m":"EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2848657,"u":"anon72","e":"null","m":"LMAO","nm":"LMAO","b":"b"}
+{"t":2849069,"u":"anon6","e":"null","m":"Read fortnite dms","nm":"Read fortnite dms","b":"nb"}
+{"t":2850688,"u":"anon73","e":"null","m":"hihihi","nm":"hihihi","b":"b"}
+{"t":2853734,"u":"anon74","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":2855689,"u":"anon4","e":"null","m":"Everybody riding the bandwagon","nm":"Everybody riding the bandwagon","b":"nb"}
+{"t":2855758,"u":"anon75","e":"null","m":"check dr lupo he goin through some ish","nm":"check dr lupo he goin through some ish","b":"b"}
+{"t":2858810,"u":"anon76","e":"null","m":"dip_7777 actually a really cool and nice guy ceezGT ceezGT ceezGT","nm":"dip_7777 actually a really cool and nice guy ceezGT ceezGT ceezGT","b":"b"}
+{"t":2858878,"u":"anon92","e":"{"959018":["0-7","9-16","18-25"]}","m":"EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2860841,"u":"anon77","e":"null","m":"slurp lol","nm":"slurp lol","b":"b"}
+{"t":2864909,"u":"anon78","e":"null","m":"the fact that 5k people watch a blank screen haha u the best","nm":"the fact that 5k people watch a blank screen haha u the best","b":"b"}
+{"t":2866928,"u":"anon79","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2867676,"u":"anon10","e":"{"959018":["22-29"]}","m":"@everyone can i get a EarthDay in chat for global","nm":"everyone can i get a EarthDay in chat for global","b":"nb"}
+{"t":2869984,"u":"anon80","e":"null","m":"i thought i saw somebody","nm":"i thought i saw somebody","b":"b"}
+{"t":2873025,"u":"anon81","e":"null","m":"AIDAN MCDEVITT","nm":"AIDAN MCDEVITT","b":"b"}
+{"t":2875877,"u":"anon4","e":"{"959018":["0-7"]}","m":"EarthDay","nm":"EarthDay","b":"nb"}
+{"t":2876083,"u":"anon82","e":"null","m":"Hello","nm":"Hello","b":"b"}
+{"t":2877839,"u":"anon95","e":"null","m":"can you play playgroung fill","nm":"can you play playgroung fill","b":"nb"}
+{"t":2879130,"u":"anon83","e":"null","m":"throw the godness at me","nm":"throw the godness at me","b":"b"}
+{"t":2879786,"u":"anon13","e":"{"959018":["0-7","9-16","18-25","27-34"]}","m":"EarthDay EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2882166,"u":"anon84","e":"null","m":"jesus","nm":"jesus","b":"b"}
+{"t":2883191,"u":"anon85","e":"null","m":"is 10kbits 10k dollars?","nm":"is 10kbits 10k dollars","b":"b"}
+{"t":2888256,"u":"anon86","e":"null","m":"What did Doc play?","nm":"What did Doc play","b":"b"}
+{"t":2890145,"u":"anon10","e":"{"959018":["0-7"]}","m":"EarthDay","nm":"EarthDay","b":"nb"}
+{"t":2890288,"u":"anon87","e":"{"425618":["18-20"]}","m":"@Last_Grey_Wolfuo LUL","nm":"Last_Grey_Wolfuo LUL","b":"b"}
+{"t":2894358,"u":"anon88","e":"null","m":"Addy rage","nm":"Addy rage","b":"b"}
+{"t":2898421,"u":"anon89","e":"null","m":"Blake Stream sniper","nm":"Blake Stream sniper","b":"b"}
+{"t":2903494,"u":"anon90","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":2905533,"u":"anon91","e":"null","m":"mode","nm":"mode","b":"b"}
+{"t":2905554,"u":"anon8","e":"{"959018":["0-7"]}","m":"EarthDay","nm":"EarthDay","b":"nb"}
+{"t":2909080,"u":"anon4","e":"{"959018":["31-38"]}","m":"@fortnitedenzi make one of the EarthDay emotes but make it say “GLOBAL HYPE” or AGlobalForce","nm":"fortnitedenzi make one of the EarthDay emotes but make it say GLOBAL HYPE or AGlobalForce","b":"nb"}
+{"t":2909165,"u":"anon65","e":"{"959018":["0-7","9-16","18-25","27-34","36-43"]}","m":"EarthDay EarthDay EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2910604,"u":"anon2","e":"null","m":"@dip_7777 do you think there will ever be a legendary shotgun? Like a full auto one maybe?","nm":"dip_7777 do you think there will ever be a legendary shotgun Like a full auto one maybe","b":"b"}
+{"t":2913647,"u":"anon2","e":"{"88":["4-11","13-20","22-29"],"425618":["0-2"]}","m":"LUL PogChamp PogChamp PogChamp","nm":"LUL PogChamp PogChamp PogChamp","b":"b"}
+{"t":2915688,"u":"anon7","e":"null","m":"@dip_7777 how good is Myth's building?","nm":"dip_7777 how good is Myths building","b":"b"}
+{"t":2920750,"u":"anon11","e":"null","m":"holy","nm":"holy","b":"b"}
+{"t":2921298,"u":"anon92","e":"null","m":"i started the global emote","nm":"i started the global emote","b":"nb"}
+{"t":2923808,"u":"anon12","e":"null","m":"streamer loot","nm":"streamer loot","b":"b"}
+{"t":2924255,"u":"anon42","e":"null","m":"@🌏🌏🌏","nm":"","b":"nb"}
+{"t":2927871,"u":"anon14","e":"null","m":"lol dip_7777 start saying "you can have that..." when you die","nm":"lol dip_7777 start saying you can have that when you die","b":"b"}
+{"t":2929075,"u":"anon95","e":"null","m":"can you freind 360HQ","nm":"can you freind 360HQ","b":"nb"}
+{"t":2930921,"u":"anon15","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":2931937,"u":"anon16","e":"null","m":"Bsbsh","nm":"Bsbsh","b":"b"}
+{"t":2933967,"u":"anon17","e":"null","m":"monkaS","nm":"monkaS","b":"b"}
+{"t":2937019,"u":"anon18","e":"null","m":"cold one with the boys","nm":"cold one with the boys","b":"b"}
+{"t":2938318,"u":"anon4","e":"{"959018":["22-29"]}","m":"@mx28 you started the EarthDay emote","nm":"mx28 you started the EarthDay emote","b":"nb"}
+{"t":2939044,"u":"anon19","e":"null","m":"powerful showing here","nm":"powerful showing here","b":"b"}
+{"t":2939499,"u":"anon101","e":"null","m":"!mouse","nm":"mouse","b":"nb"}
+{"t":2939663,"u":"anon3","e":"null","m":"Logitech g402","nm":"Logitech g402","b":"nb"}
+{"t":2943110,"u":"anon20","e":"null","m":"how lo0ng the stearming for?","nm":"how lo0ng the stearming for","b":"b"}
+{"t":2944122,"u":"anon21","e":"null","m":"Hell yeah @BasarCos2U","nm":"Hell yeah BasarCos2U","b":"b"}
+{"t":2945650,"u":"anon92","e":"null","m":"yea","nm":"yea","b":"nb"}
+{"t":2948187,"u":"anon22","e":"null","m":"hello from germany","nm":"hello from germany","b":"b"}
+{"t":2949458,"u":"anon92","e":"null","m":"i got proof","nm":"i got proof","b":"nb"}
+{"t":2951722,"u":"anon10","e":"{"959018":["0-7","9-16","18-25"]}","m":"EarthDay EarthDay EarthDay","nm":"EarthDay EarthDay EarthDay","b":"nb"}
+{"t":2953267,"u":"anon23","e":"null","m":"dip_7777 what is your keyboard","nm":"dip_7777 what is your keyboard","b":"b"}
+{"t":2953814,"u":"anon92","e":"null","m":"hehe","nm":"hehe","b":"nb"}
+{"t":2958342,"u":"anon30","e":"null","m":"shroud","nm":"shroud","b":"b"}
+{"t":2959315,"u":"anon92","e":"{"959018":["0-7","9-16"]}","m":"EarthDay EarthDay","nm":"EarthDay EarthDay","b":"nb"}
+{"t":2959352,"u":"anon31","e":"null","m":"espicers isnt that how to cheer?","nm":"espicers isnt that how to cheer","b":"b"}
+{"t":2959614,"u":"anon42","e":"null","m":"Where’s global","nm":"Wheres global","b":"nb"}
+{"t":2961784,"u":"anon4","e":"null","m":"Toxicity level 1000","nm":"Toxicity level 1000","b":"nb"}
+{"t":2962410,"u":"anon32","e":"null","m":"Thanks for a great first stream","nm":"Thanks for a great first stream","b":"b"}
+{"t":2966470,"u":"anon33","e":"null","m":"fkn brutal","nm":"fkn brutal","b":"b"}
+{"t":2967964,"u":"anon10","e":"null","m":"no","nm":"no","b":"nb"}
+{"t":2969512,"u":"anon34","e":"null","m":"the fraggers are finna get fragged","nm":"the fraggers are finna get fragged","b":"b"}
+{"t":2969569,"u":"anon65","e":"null","m":"yes","nm":"yes","b":"nb"}
+{"t":2973361,"u":"anon92","e":"null","m":"yes","nm":"yes","b":"nb"}
+{"t":2973581,"u":"anon36","e":"null","m":"anyone know his total games played","nm":"anyone know his total games played","b":"b"}
+{"t":2974592,"u":"anon37","e":"null","m":"ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS","nm":"ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS ceezPS","b":"b"}
+{"t":2976191,"u":"anon95","e":"null","m":"DO NOT TELL","nm":"DO NOT TELL","b":"nb"}
+{"t":2979655,"u":"anon38","e":"null","m":"holy shit","nm":"holy shit","b":"b"}
+{"t":2981173,"u":"anon95","e":"null","m":"PLZ","nm":"PLZ","b":"nb"}
+{"t":2982037,"u":"anon10","e":"{"106294":["0-6"]}","m":"VoteNay","nm":"VoteNay","b":"nb"}
+{"t":2982718,"u":"anon39","e":"null","m":"lupoHEY","nm":"lupoHEY","b":"b"}
+{"t":2987791,"u":"anon40","e":"null","m":"boiiii","nm":"boiiii","b":"b"}
+{"t":2992862,"u":"anon45","e":"null","m":"maybe up your stream delay?","nm":"maybe up your stream delay","b":"b"}
+{"t":2995912,"u":"anon46","e":"null","m":"hi","nm":"hi","b":"b"}
+{"t":2997936,"u":"anon47","e":"null","m":"can anyone tell me what keyboard and hetset dip_7777 uses?","nm":"can anyone tell me what keyboard and hetset dip_7777 uses","b":"b"}
+{"t":2997995,"u":"anon41","e":"null","m":"@AGlobalForce where r u senpai","nm":"AGlobalForce where r u senpai","b":"nb"}
+{"t":3000104,"u":"anon92","e":"null","m":"lul","nm":"lul","b":"nb"}
+{"t":3001533,"u":"anon4","e":"null","m":"Spank him first then tell him","nm":"Spank him first then tell him","b":"nb"}
+{"t":3001999,"u":"anon48","e":"null","m":"5 mo","nm":"5 mo","b":"b"}
+{"t":3004037,"u":"anon49","e":"null","m":"cizz","nm":"cizz","b":"b"}
+{"t":3004085,"u":"anon65","e":"null","m":"type one for yes two for no","nm":"type one for yes two for no","b":"nb"}
+{"t":3004474,"u":"anon26","e":"null","m":"sup denzi","nm":"sup denzi","b":"nb"}
+{"t":3007069,"u":"anon50","e":"null","m":"@aTTaX_kaiGODVL what should I search","nm":"aTTaX_kaiGODVL what should I search","b":"b"}
+{"t":3009083,"u":"anon65","e":"null","m":"111","nm":"111","b":"nb"}
+{"t":3012122,"u":"anon51","e":"null","m":"YEAHHHH BBOYYYY","nm":"YEAHHHH BBOYYYY","b":"b"}
+{"t":3015189,"u":"anon52","e":"null","m":"B","nm":"B","b":"b"}
+{"t":3017221,"u":"anon53","e":"{"3":["211-212"]}","m":"@dip_7777 i played a duo earlier and vikkstar and typical gamer ended up being in the same game. with 10 ppl left me and my duo killed them and so he quickly opened up their stream and he called us good players :D i felt special","nm":"dip_7777 i played a duo earlier and vikkstar and typical gamer ended up being in the same game with 10 ppl left me and my duo killed them and so he quickly opened up their stream and he called us good players D i felt special","b":"b"}
+{"t":3022293,"u":"anon54","e":"null","m":"no","nm":"no","b":"b"}
+{"t":3024325,"u":"anon55","e":"null","m":"@aTTaX_kaiGODX u aint even subbed","nm":"aTTaX_kaiGODX u aint even subbed","b":"b"}
+{"t":3029403,"u":"anon56","e":"null","m":"they gonna puish him with double pump","nm":"they gonna puish him with double pump","b":"b"}
+{"t":3033469,"u":"anon57","e":"null","m":"LMAO","nm":"LMAO","b":"b"}
+{"t":3036800,"u":"anon10","e":"null","m":"poor kid","nm":"poor kid","b":"nb"}
+{"t":3037531,"u":"anon58","e":"null","m":"Disco god","nm":"Disco god","b":"b"}
+{"t":3042607,"u":"anon59","e":"null","m":"22k!","nm":"22k","b":"b"}
+{"t":3047681,"u":"anon60","e":"{"58765":["0-10"]}","m":"NotLikeThis","nm":"NotLikeThis","b":"b"}
+{"t":3050736,"u":"anon61","e":"null","m":"Doc sucks at fortnite","nm":"Doc sucks at fortnite","b":"b"}
+{"t":3051751,"u":"anon62","e":"null","m":"sskSwitch","nm":"sskSwitch","b":"b"}
+{"t":3053629,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":3054132,"u":"anon41","e":"null","m":"omg me and hyaden in same playground","nm":"omg me and hyaden in same playground","b":"nb"}
+{"t":3056828,"u":"anon63","e":"null","m":"SPLAT EMOTE#","nm":"SPLAT EMOTE","b":"b"}
+{"t":3057337,"u":"anon41","e":"null","m":"ayy lmao","nm":"ayy lmao","b":"nb"}
+{"t":3057839,"u":"anon64","e":"null","m":"Get it boy get it","nm":"Get it boy get it","b":"b"}
+{"t":3058344,"u":"anon42","e":"null","m":"Oi where’s global at","nm":"Oi wheres global at","b":"nb"}
+{"t":3062919,"u":"anon66","e":"null","m":"Left","nm":"Left","b":"b"}
+{"t":3064959,"u":"anon67","e":"null","m":"coe rapaziada","nm":"coe rapaziada","b":"b"}
+{"t":3069018,"u":"anon68","e":"null","m":"@OgamingLoLes I ask myself this a million times a day","nm":"OgamingLoLes I ask myself this a million times a day","b":"b"}
+{"t":3070078,"u":"anon102","e":"null","m":"😎🚬","nm":"","b":"nb"}
+{"t":3071048,"u":"anon69","e":"null","m":"*3 hours later* “Alright one more”","nm":"3 hours later Alright one more","b":"b"}
+{"t":3072064,"u":"anon71","e":"null","m":"ILL BE THERE ALL NIGHT BABY","nm":"ILL BE THERE ALL NIGHT BABY","b":"b"}
+{"t":3073079,"u":"anon72","e":"null","m":"POGGERS","nm":"POGGERS","b":"b"}
+{"t":3073535,"u":"anon4","e":"null","m":"His name is toxic soldier lol","nm":"His name is toxic soldier lol","b":"nb"}
+{"t":3075112,"u":"anon73","e":"null","m":"What is kings twitch?","nm":"What is kings twitch","b":"b"}
+{"t":3076125,"u":"anon74","e":"null","m":"jesus christ","nm":"jesus christ","b":"b"}
+{"t":3079168,"u":"anon75","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3082216,"u":"anon76","e":"null","m":"Yoooooooo","nm":"Yoooooooo","b":"b"}
+{"t":3085282,"u":"anon6","e":"null","m":"@kingraidennn my game chat wasent working","nm":"kingraidennn my game chat wasent working","b":"nb"}
+{"t":3086277,"u":"anon77","e":"null","m":"5shotgun best","nm":"5shotgun best","b":"b"}
+{"t":3086388,"u":"anon5","e":"null","m":"I wont donate the money right now, however you have my word that i will donate it VERY soon. Okay? Hahah","nm":"I wont donate the money right now however you have my word that i will donate it VERY soon Okay Hahah","b":"nb"}
+{"t":3087281,"u":"anon41","e":"null","m":"me and hayden were in same playground omegolul","nm":"me and hayden were in same playground omegolul","b":"nb"}
+{"t":3089330,"u":"anon78","e":"null","m":"NotLikeTHis","nm":"NotLikeTHis","b":"b"}
+{"t":3091099,"u":"anon92","e":"null","m":"yay","nm":"yay","b":"nb"}
+{"t":3094397,"u":"anon79","e":"null","m":"that was freakin stupid u didn't react at all when u were getting pushed","nm":"that was freakin stupid u didnt react at all when u were getting pushed","b":"b"}
+{"t":3095423,"u":"anon80","e":"null","m":"i hate when summit gets off and im forced to watch this shit. lets pretend","nm":"i hate when summit gets off and im forced to watch this shit lets pretend","b":"b"}
+{"t":3096455,"u":"anon4","e":"null","m":"Wait what about suckmeoff","nm":"Wait what about suckmeoff","b":"nb"}
+{"t":3098465,"u":"anon81","e":"null","m":"300 hrs do you shower lul","nm":"300 hrs do you shower lul","b":"b"}
+{"t":3099484,"u":"anon82","e":"null","m":"Thank u whale","nm":"Thank u whale","b":"b"}
+{"t":3100338,"u":"anon5","e":"null","m":"He's gonna be PISSED","nm":"Hes gonna be PISSED","b":"nb"}
+{"t":3101519,"u":"anon83","e":"null","m":"You calling me not normal? #cyberbully","nm":"You calling me not normal cyberbully","b":"b"}
+{"t":3104559,"u":"anon84","e":"null","m":"Cause it's fun moon2LUL","nm":"Cause its fun moon2LUL","b":"b"}
+{"t":3105580,"u":"anon85","e":"null","m":"worth it?? arclightz LOLOLOL","nm":"worth it arclightz LOLOLOL","b":"b"}
+{"t":3105995,"u":"anon42","e":"null","m":"@aglobalforce good good","nm":"aglobalforce good good","b":"nb"}
+{"t":3110650,"u":"anon86","e":"null","m":"Fuck","nm":"Fuck","b":"b"}
+{"t":3113698,"u":"anon87","e":"null","m":"how do you build so damn fast my god","nm":"how do you build so damn fast my god","b":"b"}
+{"t":3114717,"u":"anon88","e":"null","m":"Bedoo bedoo","nm":"Bedoo bedoo","b":"b"}
+{"t":3119794,"u":"anon89","e":"null","m":"orbDEL orbDEL orbDEL orbDEL orbDEL orbDEL","nm":"orbDEL orbDEL orbDEL orbDEL orbDEL orbDEL","b":"b"}
+{"t":3124411,"u":"anon6","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3124868,"u":"anon90","e":"null","m":"HEEERRROOOOO","nm":"HEEERRROOOOO","b":"b"}
+{"t":3126311,"u":"anon92","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3127661,"u":"anon95","e":"null","m":"2","nm":"2","b":"nb"}
+{"t":3127794,"u":"anon65","e":"null","m":"111","nm":"111","b":"nb"}
+{"t":3128948,"u":"anon91","e":"null","m":"sparkwAww","nm":"sparkwAww","b":"b"}
+{"t":3130633,"u":"anon5","e":"null","m":"But i need sleep, can i go to sleep?","nm":"But i need sleep can i go to sleep","b":"nb"}
+{"t":3132377,"u":"anon27","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3133569,"u":"anon26","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3134010,"u":"anon2","e":"null","m":"how have they not gottewn rid of the double pump","nm":"how have they not gottewn rid of the double pump","b":"b"}
+{"t":3136037,"u":"anon2","e":"null","m":"darkzdPikaMONK","nm":"darkzdPikaMONK","b":"b"}
+{"t":3140111,"u":"anon7","e":"null","m":"thats how youll get the win","nm":"thats how youll get the win","b":"b"}
+{"t":3142055,"u":"anon6","e":"null","m":"1.","nm":"1","b":"nb"}
+{"t":3142407,"u":"anon4","e":"null","m":"Stream lagging for anybody else","nm":"Stream lagging for anybody else","b":"nb"}
+{"t":3143233,"u":"anon10","e":"null","m":"@AGlobalForce hey man ik ive been askin alot but will i get my challenge money that i did? the orange challenge?","nm":"AGlobalForce hey man ik ive been askin alot but will i get my challenge money that i did the orange challenge","b":"nb"}
+{"t":3144166,"u":"anon11","e":"null","m":"Damnnnnn","nm":"Damnnnnn","b":"b"}
+{"t":3145110,"u":"anon13","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3145841,"u":"anon92","e":"null","m":"gn senpai ly","nm":"gn senpai ly","b":"nb"}
+{"t":3146584,"u":"anon5","e":"null","m":"Congratulations again btw","nm":"Congratulations again btw","b":"nb"}
+{"t":3146734,"u":"anon42","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3148233,"u":"anon12","e":"null","m":"@dip_7777 what is your highest kill solo game","nm":"dip_7777 what is your highest kill solo game","b":"b"}
+{"t":3150263,"u":"anon14","e":"null","m":"Gtfo no way","nm":"Gtfo no way","b":"b"}
+{"t":3151278,"u":"anon15","e":"null","m":"ez","nm":"ez","b":"b"}
+{"t":3153504,"u":"anon103","e":"null","m":"1","nm":"1","b":"nb"}
+{"t":3155675,"u":"anon92","e":"null","m":"@AGlobalForce gn ly","nm":"AGlobalForce gn ly","b":"nb"}
+{"t":3156360,"u":"anon16","e":"null","m":"@D1rtyD3vil5T not that I know of </3","nm":"D1rtyD3vil5T not that I know of 3","b":"b"}
+{"t":3158390,"u":"anon17","e":"null","m":"yo chat wat happened to lupo","nm":"yo chat wat happened to lupo","b":"b"}
+{"t":3163472,"u":"anon18","e":"null","m":"where the duos at","nm":"where the duos at","b":"b"}
+{"t":3164980,"u":"anon5","e":"{"25":["25-29"]}","m":"@Passi0net did you? haha Kappa","nm":"Passi0net did you haha Kappa","b":"nb"}
+{"t":3167527,"u":"anon19","e":"null","m":"@D1rtyD3vil5T no racism","nm":"D1rtyD3vil5T no racism","b":"b"}
+{"t":3172608,"u":"anon20","e":"null","m":"do you have your keybinds posted anywhere?","nm":"do you have your keybinds posted anywhere","b":"b"}
+{"t":3177684,"u":"anon21","e":"null","m":"Can u zoo wee mama","nm":"Can u zoo wee mama","b":"b"}
+{"t":3181752,"u":"anon22","e":"null","m":"21*","nm":"21","b":"b"}
+{"t":3182766,"u":"anon23","e":"{"118772":["0-10","12-22","24-34","36-46","48-58","60-70","72-82","84-94","96-106","108-118","120-130","132-142","144-154","156-166","168-178","180-190","192-202","204-214","216-226","228-238"]}","m":"SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin","nm":"SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin SuperVinlin","b":"b"}
+{"t":3183181,"u":"anon104","e":"null","m":"why is it so laggy?","nm":"why is it so laggy","b":"nb"}
+{"t":3184794,"u":"anon30","e":"null","m":"Hi","nm":"Hi","b":"b"}
+{"t":3187030,"u":"anon42","e":"null","m":"HAHAHAH","nm":"HAHAHAH","b":"nb"}
+{"t":3188560,"u":"anon10","e":"null","m":"@AGlobalForce aaa stop teasing me lmao u know i did lmao","nm":"AGlobalForce aaa stop teasing me lmao u know i did lmao","b":"nb"}
+{"t":3188853,"u":"anon31","e":"null","m":"brooo i wanted you to play that safe so baaaad i knew that would happen noooooooo ;(","nm":"brooo i wanted you to play that safe so baaaad i knew that would happen noooooooo ","b":"b"}
+{"t":3189884,"u":"anon32","e":"null","m":"all stream snipers r there for the fame.never give them the satisfaction","nm":"all stream snipers r there for the famenever give them the satisfaction","b":"b"}
+{"t":3193936,"u":"anon33","e":"{"25":["0-4"]}","m":"Kappa","nm":"Kappa","b":"b"}
+{"t":3194952,"u":"anon34","e":"null","m":"Lata","nm":"Lata","b":"b"}
+{"t":3199017,"u":"anon36","e":"null","m":"Hey @dip_7777 just dropping bye to say hele313r1rr1-3rrrrrrrra---wko---------------","nm":"Hey dip_7777 just dropping bye to say hele313r1rr13rrrrrrrrawko","b":"b"}
+{"t":3200033,"u":"anon37","e":"null","m":"Thank you","nm":"Thank you","b":"b"}
+{"t":3204089,"u":"anon38","e":"null","m":"still double pumping i see @dip_7777","nm":"still double pumping i see dip_7777","b":"b"}
+{"t":3205070,"u":"anon4","e":"null","m":"Frame rate dropping","nm":"Frame rate dropping","b":"nb"}
+{"t":3206129,"u":"anon39","e":"null","m":"lol","nm":"lol","b":"b"}
+{"t":3210183,"u":"anon40","e":"null","m":"Pretty sure left","nm":"Pretty sure left","b":"b"}
+{"t":3212287,"u":"anon92","e":"null","m":"lag","nm":"lag","b":"nb"}
+{"t":3213235,"u":"anon45","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"b"}
+{"t":3218318,"u":"anon46","e":"null","m":"my god","nm":"my god","b":"b"}
+{"t":3219326,"u":"anon47","e":"null","m":"Get an emoticon of a soul leaving dip_7777.Every time he gets a kill/killed by double pump user","nm":"Get an emoticon of a soul leaving dip_7777Every time he gets a killkilled by double pump user","b":"b"}
+{"t":3224404,"u":"anon48","e":"null","m":"ON MY MOTHER","nm":"ON MY MOTHER","b":"b"}
+{"t":3225739,"u":"anon95","e":"null","m":"glitching leave plz'","nm":"glitching leave plz","b":"nb"}
+{"t":3227158,"u":"anon65","e":"null","m":"lag\","nm":"lag","b":"nb"}
+{"t":3227450,"u":"anon49","e":"null","m":"TIDE PODS HAAHHAHAAHAHAHHAHAHAHHHA","nm":"TIDE PODS HAAHHAHAAHAHAHHAHAHAHHHA","b":"b"}
+{"t":3231514,"u":"anon50","e":"{"25":["0-4"]}","m":"Kappa 123","nm":"Kappa 123","b":"b"}
+{"t":3232792,"u":"anon3","e":"null","m":"Follow Denzitv on insta or instagram.com/denzitv to see twitch highlights, when I go live and to be entered into giveaways I host.","nm":"Follow Denzitv on insta or instagramcomdenzitv to see twitch highlights when I go live and to be entered into giveaways I host","b":"nb"}
+{"t":3234545,"u":"anon51","e":"null","m":"Please double pump","nm":"Please double pump","b":"b"}
+{"t":3238625,"u":"anon52","e":"null","m":"The chest sound reminds me of Spyro","nm":"The chest sound reminds me of Spyro","b":"b"}
+{"t":3242689,"u":"anon53","e":"null","m":"Pop","nm":"Pop","b":"b"}
+{"t":3243696,"u":"anon54","e":"null","m":"ya summits stream is done here now","nm":"ya summits stream is done here now","b":"b"}
+{"t":3247759,"u":"anon55","e":"null","m":"My snipe","nm":"My snipe","b":"b"}
+{"t":3250816,"u":"anon56","e":"null","m":"ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU","nm":"ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU ceezGU","b":"b"}
+{"t":3252149,"u":"anon6","e":"null","m":"Leave and do sub games","nm":"Leave and do sub games","b":"nb"}
+{"t":3252844,"u":"anon57","e":"{"123171":["0-11","13-24","26-37"]}","m":"CoolStoryBob CoolStoryBob CoolStoryBob","nm":"CoolStoryBob CoolStoryBob CoolStoryBob","b":"b"}
+{"t":3256893,"u":"anon58","e":"null","m":"@dip_7777 matt patricia baby!","nm":"dip_7777 matt patricia baby","b":"b"}
+{"t":3257663,"u":"anon26","e":"null","m":"!snapchat","nm":"snapchat","b":"nb"}
+{"t":3257880,"u":"anon95","e":"null","m":"leave game plz","nm":"leave game plz","b":"nb"}
+{"t":3257905,"u":"anon59","e":"null","m":"move face cam want to c kills","nm":"move face cam want to c kills","b":"b"}
+{"t":3260947,"u":"anon60","e":"null","m":"-4°","nm":"4","b":"b"}
+{"t":3262372,"u":"anon42","e":"null","m":"Goodnight have a good game xxx","nm":"Goodnight have a good game xxx","b":"nb"}
+{"t":3264174,"u":"anon102","e":"null","m":"Downloading too much porn","nm":"Downloading too much porn","b":"nb"}
+{"t":3265015,"u":"anon61","e":"null","m":"?","nm":"","b":"b"}
+{"t":3268066,"u":"anon62","e":"{"86":["38-47"]}","m":"Ate Buffalo Wings my MOUTH IS ON FIRE BibleThump","nm":"Ate Buffalo Wings my MOUTH IS ON FIRE BibleThump","b":"b"}
+{"t":3269079,"u":"anon63","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3270443,"u":"anon26","e":"null","m":"lag still","nm":"lag still","b":"nb"}
+{"t":3274150,"u":"anon64","e":"null","m":"who want a free sub","nm":"who want a free sub","b":"b"}
+{"t":3275170,"u":"anon66","e":"null","m":"Squad or solo?","nm":"Squad or solo","b":"b"}
+{"t":3275313,"u":"anon95","e":"null","m":"glitching bad still","nm":"glitching bad still","b":"nb"}
+{"t":3278214,"u":"anon67","e":"null","m":"That was close monkaS","nm":"That was close monkaS","b":"b"}
+{"t":3282283,"u":"anon68","e":"null","m":"@uccstudio2D still amazing","nm":"uccstudio2D still amazing","b":"b"}
+{"t":3285695,"u":"anon4","e":"null","m":"Lagging still","nm":"Lagging still","b":"nb"}
+{"t":3287360,"u":"anon69","e":"null","m":"AHHAHAHAHAHAHAHHAHA","nm":"AHHAHAHAHAHAHAHHAHA","b":"b"}
+{"t":3290395,"u":"anon92","e":"null","m":"it aint discord that is the problem","nm":"it aint discord that is the problem","b":"nb"}
+{"t":3291427,"u":"anon71","e":"null","m":"@dip_7777 ban him","nm":"dip_7777 ban him","b":"b"}
+{"t":3295486,"u":"anon72","e":"{"9":["0-1"]}","m":"<3","nm":"3","b":"b"}
+{"t":3296504,"u":"anon73","e":"null","m":"I never lost faith monkaS Clap","nm":"I never lost faith monkaS Clap","b":"b"}
+{"t":3297515,"u":"anon74","e":"null","m":"@dip_7777 how do you get your skin","nm":"dip_7777 how do you get your skin","b":"b"}
+{"t":3300676,"u":"anon4","e":"null","m":"Aimbotting on 9 year olds in playground mode","nm":"Aimbotting on 9 year olds in playground mode","b":"nb"}
+{"t":3302579,"u":"anon75","e":"{"5":["19-20"],"6":["22-24"],"7":["16-17"],"18":["0-8"],"25":["10-14"]}","m":"TheRinger Kappa B) :Z O_o","nm":"TheRinger Kappa B Z O_o","b":"b"}
+{"t":3307674,"u":"anon76","e":"{"25":["0-4"]}","m":"Kappa","nm":"Kappa","b":"b"}
+{"t":3311328,"u":"anon42","e":"null","m":"Night Taryck xx","nm":"Night Taryck xx","b":"nb"}
+{"t":3312748,"u":"anon77","e":"{"86":["0-9","11-20","22-31"]}","m":"BibleThump BibleThump BibleThump","nm":"BibleThump BibleThump BibleThump","b":"b"}
+{"t":3316814,"u":"anon78","e":"null","m":"@bell4trixxA gang","nm":"bell4trixxA gang","b":"b"}
+{"t":3319847,"u":"anon79","e":"null","m":"GOD","nm":"GOD","b":"b"}
+{"t":3324939,"u":"anon80","e":"null","m":"SHIT THE FUCK ON","nm":"SHIT THE FUCK ON","b":"b"}
+{"t":3326154,"u":"anon95","e":"null","m":"lagging bad still plz leave","nm":"lagging bad still plz leave","b":"nb"}
+{"t":3326962,"u":"anon81","e":"null","m":"Blue ar","nm":"Blue ar","b":"b"}
+{"t":3329004,"u":"anon82","e":"null","m":"@rekvizit8bit9 free with your twitch prime!","nm":"rekvizit8bit9 free with your twitch prime","b":"b"}
+{"t":3330018,"u":"anon83","e":"null","m":"whats dip_7777 highest Solo kills?","nm":"whats dip_7777 highest Solo kills","b":"b"}
+{"t":3331032,"u":"anon84","e":"null","m":"Holy crap the golden spam was nutty","nm":"Holy crap the golden spam was nutty","b":"b"}
+{"t":3336113,"u":"anon85","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3337108,"u":"anon86","e":"null","m":"Omg","nm":"Omg","b":"b"}
+{"t":3338126,"u":"anon87","e":"null","m":"1 big = 1¢","nm":"1 big  1","b":"b"}
+{"t":3339153,"u":"anon88","e":"null","m":"Who banned him epic games or twitch","nm":"Who banned him epic games or twitch","b":"b"}
+{"t":3341186,"u":"anon89","e":"null","m":"Shut up and break some records, viewers, kills, momentum mentum mentum","nm":"Shut up and break some records viewers kills momentum mentum mentum","b":"b"}
+{"t":3344221,"u":"anon90","e":"null","m":"😅😅","nm":"","b":"b"}
+{"t":3346261,"u":"anon91","e":"null","m":"I’m so bad at this game but I really enjoy learning it","nm":"Im so bad at this game but I really enjoy learning it","b":"b"}
+{"t":3349545,"u":"anon42","e":"null","m":"Thanks u too xxx","nm":"Thanks u too xxx","b":"nb"}
+{"t":3351329,"u":"anon2","e":"null","m":"Are dip_7777 and doc okay? Whisper me","nm":"Are dip_7777 and doc okay Whisper me","b":"b"}
+{"t":3354372,"u":"anon2","e":"null","m":"@D1rtyD3vil5T smh","nm":"D1rtyD3vil5T smh","b":"b"}
+{"t":3354586,"u":"anon10","e":"null","m":"i gtg denzi have fun aye","nm":"i gtg denzi have fun aye","b":"nb"}
+{"t":3354225,"u":"anon3","e":"{"499":["53-54"]}","m":"Join my discord server at https://discord.gg/bm8YdFC :)","nm":"Join my discord server at httpsdiscordggbm8YdFC ","b":"nb"}
+{"t":3355896,"u":"anon26","e":"null","m":"it is lagging","nm":"it is lagging","b":"nb"}
+{"t":3356421,"u":"anon7","e":"null","m":"anyone else fartin a lot rn","nm":"anyone else fartin a lot rn","b":"b"}
+{"t":3359979,"u":"anon95","e":"null","m":"bit better","nm":"bit better","b":"nb"}
+{"t":3360481,"u":"anon11","e":"null","m":"@dip_7777 Did you see the clip of tthump talking about playing fortnite with you?","nm":"dip_7777 Did you see the clip of tthump talking about playing fortnite with you","b":"b"}
+{"t":3363528,"u":"anon12","e":"{"41":["41-48"]}","m":"i feel like he is Bhoping across the map Kreygasm","nm":"i feel like he is Bhoping across the map Kreygasm","b":"b"}
+{"t":3364545,"u":"anon14","e":"null","m":"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ tyler1R1 tyler1R2 tyler1Beta tyler1H1 tyler1H2 tyler1T1 tyler1NA tyler1R2 tyler1BB tyler1XD tyler1Champ tyler1B1 tyler1H3 tyler1H4 tyler1B2 tyler1M tyler1XD","nm":" tyler1R1 tyler1R2 tyler1Beta tyler1H1 tyler1H2 tyler1T1 tyler1NA tyler1R2 tyler1BB tyler1XD tyler1Champ tyler1B1 tyler1H3 tyler1H4 tyler1B2 tyler1M tyler1XD","b":"b"}
+{"t":3366205,"u":"anon92","e":"null","m":"a little bit of lag","nm":"a little bit of lag","b":"nb"}
+{"t":3367537,"u":"anon4","e":"null","m":"Fuckin love you no homo","nm":"Fuckin love you no homo","b":"nb"}
+{"t":3367595,"u":"anon15","e":"null","m":"Alright forreal 1 more","nm":"Alright forreal 1 more","b":"b"}
+{"t":3371656,"u":"anon16","e":"{"88":["12-19"]}","m":"@Trikslyrus PogChamp","nm":"Trikslyrus PogChamp","b":"b"}
+{"t":3374707,"u":"anon17","e":"null","m":"one more","nm":"one more","b":"b"}
+{"t":3378765,"u":"anon18","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":3379779,"u":"anon19","e":"null","m":"Coomon I was about to nut","nm":"Coomon I was about to nut","b":"b"}
+{"t":3381814,"u":"anon20","e":"null","m":"reee","nm":"reee","b":"b"}
+{"t":3382825,"u":"anon21","e":"null","m":"@comesomeall1H2 you must be 12","nm":"comesomeall1H2 you must be 12","b":"b"}
+{"t":3384859,"u":"anon22","e":"null","m":"@BluddshedXU it will come back in fall, Octoberish. It’s a seasonal item","nm":"BluddshedXU it will come back in fall Octoberish Its a seasonal item","b":"b"}
+{"t":3388907,"u":"anon23","e":"null","m":"“I’m going to feel you inside me and you’re going to feel me inside you” -dip_7777 2018","nm":"Im going to feel you inside me and youre going to feel me inside you dip_7777 2018","b":"b"}
+{"t":3392974,"u":"anon30","e":"null","m":"so he wouldnt die to a body from a bolt","nm":"so he wouldnt die to a body from a bolt","b":"b"}
+{"t":3395443,"u":"anon95","e":"null","m":"your a king at this game","nm":"your a king at this game","b":"nb"}
+{"t":3396011,"u":"anon31","e":"null","m":"Use minis","nm":"Use minis","b":"b"}
+{"t":3401092,"u":"anon37","e":"null","m":"NOOOOOO","nm":"NOOOOOO","b":"b"}
+{"t":3405161,"u":"anon39","e":"null","m":"scar","nm":"scar","b":"b"}
+{"t":3407182,"u":"anon40","e":"null","m":"its fair","nm":"its fair","b":"b"}
+{"t":3407360,"u":"anon8","e":"null","m":"love you denzi i got to go to school see ya bro","nm":"love you denzi i got to go to school see ya bro","b":"nb"}
+{"t":3408205,"u":"anon45","e":"null","m":"Scar","nm":"Scar","b":"b"}
+{"t":3412632,"u":"anon3","e":"null","m":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways. Also be sure to turn notifications on so you know whenever Denzi goes live!! Thanks","nm":"Following would help Denzi and his channel out so much and will also allow you to enter his giveaways Also be sure to turn notifications on so you know whenever Denzi goes live Thanks","b":"nb"}
+{"t":3413070,"u":"anon95","e":"null","m":"i am not cokkie","nm":"i am not cokkie","b":"nb"}
+{"t":3413286,"u":"anon46","e":"null","m":"Cause he’s trigger trash","nm":"Cause hes trigger trash","b":"b"}
+{"t":3415311,"u":"anon48","e":"null","m":"no the guy you died to died","nm":"no the guy you died to died","b":"b"}
+{"t":3418357,"u":"anon49","e":"null","m":"he came up","nm":"he came up","b":"b"}
+{"t":3423437,"u":"anon50","e":"null","m":"just cos they teambagged him doesnt mean he sniped him","nm":"just cos they teambagged him doesnt mean he sniped him","b":"b"}
+{"t":3424349,"u":"anon92","e":"null","m":"denzi i gtg now im not feeling well see you tmr","nm":"denzi i gtg now im not feeling well see you tmr","b":"nb"}
+{"t":3426486,"u":"anon52","e":"{"90076":["0-11","13-24","26-37"]}","m":"StinkyCheese StinkyCheese StinkyCheese","nm":"StinkyCheese StinkyCheese StinkyCheese","b":"b"}
+{"t":3429534,"u":"anon53","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3433588,"u":"anon54","e":"null","m":"biggest mistakes players make is being victim to skill gap lmao","nm":"biggest mistakes players make is being victim to skill gap lmao","b":"b"}
+{"t":3437217,"u":"anon4","e":"null","m":"!peensize","nm":"peensize","b":"nb"}
+{"t":3438667,"u":"anon55","e":"null","m":"murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip","nm":"murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip murdaRip","b":"b"}
+{"t":3443748,"u":"anon57","e":"null","m":"going for kill record?","nm":"going for kill record","b":"b"}
+{"t":3444767,"u":"anon58","e":"null","m":"lol get fucked","nm":"lol get fucked","b":"b"}
+{"t":3445786,"u":"anon61","e":"null","m":"They’re going for at least 40","nm":"Theyre going for at least 40","b":"b"}
+{"t":3446800,"u":"anon63","e":"null","m":"gg","nm":"gg","b":"b"}
+{"t":3450856,"u":"anon66","e":"null","m":"@BluddshedXU thats what im wondering","nm":"BluddshedXU thats what im wondering","b":"b"}
+{"t":3454923,"u":"anon71","e":"{"10":["0-1"]}","m":":/","nm":"","b":"b"}
+{"t":3456953,"u":"anon72","e":"null","m":"1 more game","nm":"1 more game","b":"b"}
+{"t":3461018,"u":"anon74","e":"null","m":"Lag?","nm":"Lag","b":"b"}
+{"t":3463043,"u":"anon75","e":"null","m":"LOL","nm":"LOL","b":"b"}
+{"t":3465074,"u":"anon77","e":"null","m":"@BruceGreeneIM do i have to?","nm":"BruceGreeneIM do i have to","b":"b"}
+{"t":3470158,"u":"anon78","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3472180,"u":"anon79","e":"{"86":["0-9","11-20","22-31","33-42","44-53","55-64"]}","m":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","nm":"BibleThump BibleThump BibleThump BibleThump BibleThump BibleThump","b":"b"}
+{"t":3473203,"u":"anon80","e":"null","m":"LMAOOOO","nm":"LMAOOOO","b":"b"}
+{"t":3474209,"u":"anon81","e":"null","m":"Oh ok ty","nm":"Oh ok ty","b":"b"}
+{"t":3476259,"u":"anon82","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3477267,"u":"anon83","e":"null","m":"snipeOnemore snipeOnemore snipeOnemore snipeOnemore snipeOnemore snipeOnemore","nm":"snipeOnemore snipeOnemore snipeOnemore snipeOnemore snipeOnemore snipeOnemore","b":"b"}
+{"t":3478281,"u":"anon85","e":"null","m":"hes just going for win","nm":"hes just going for win","b":"b"}
+{"t":3479280,"u":"anon86","e":"null","m":"hi dip_7777","nm":"hi dip_7777","b":"b"}
+{"t":3483356,"u":"anon89","e":"{"22639":["0-7","9-16","18-25","27-34","36-43","45-52"]}","m":"BabyRage BabyRage BabyRage BabyRage BabyRage BabyRage","nm":"BabyRage BabyRage BabyRage BabyRage BabyRage BabyRage","b":"b"}
+{"t":3483858,"u":"anon4","e":"null","m":"Feel better mx cya","nm":"Feel better mx cya","b":"nb"}
+{"t":3484358,"u":"anon90","e":"null","m":"Anarchy is officially the emptiest city","nm":"Anarchy is officially the emptiest city","b":"b"}
+{"t":3487420,"u":"anon91","e":"null","m":"how do you stay in shape????","nm":"how do you stay in shape","b":"b"}
+{"t":3490456,"u":"anon2","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":3491236,"u":"anon92","e":"null","m":"thx","nm":"thx","b":"nb"}
+{"t":3494533,"u":"anon7","e":"null","m":"So impressive holy shit u beast","nm":"So impressive holy shit u beast","b":"b"}
+{"t":3496558,"u":"anon11","e":"{"88":["4-11"]}","m":"OMG PogChamp","nm":"OMG PogChamp","b":"b"}
+{"t":3497578,"u":"anon14","e":"null","m":"what are bits?","nm":"what are bits","b":"b"}
+{"t":3501572,"u":"anon92","e":"null","m":"ly denzi","nm":"ly denzi","b":"nb"}
+{"t":3502659,"u":"anon15","e":"null","m":"dip_7777 is just starting the stream wooo","nm":"dip_7777 is just starting the stream wooo","b":"b"}
+{"t":3504691,"u":"anon17","e":"{"88":["0-7"]}","m":"PogChamp","nm":"PogChamp","b":"b"}
+{"t":3509768,"u":"anon18","e":"null","m":"@SwiftorNW thats despicable","nm":"SwiftorNW thats despicable","b":"b"}
+{"t":3513823,"u":"anon19","e":"null","m":"K","nm":"K","b":"b"}
+{"t":3514839,"u":"anon20","e":"null","m":"@jvtvf7 ily","nm":"jvtvf7 ily","b":"b"}
+{"t":3517887,"u":"anon21","e":"null","m":"I remember I used to think tactical was better than Pimp lmao","nm":"I remember I used to think tactical was better than Pimp lmao","b":"b"}
+{"t":3522637,"u":"anon95","e":"null","m":"can you plz leave and freind me plz 360HQ","nm":"can you plz leave and freind me plz 360HQ","b":"nb"}
+{"t":3522967,"u":"anon22","e":"null","m":"saiolo","nm":"saiolo","b":"b"}
+{"t":3527033,"u":"anon23","e":"null","m":"WOOO URIEL","nm":"WOOO URIEL","b":"b"}
+{"t":3530077,"u":"anon30","e":"null","m":"oh boy","nm":"oh boy","b":"b"}
+{"t":3533124,"u":"anon31","e":"null","m":"fuckers","nm":"fuckers","b":"b"}
+{"t":3538199,"u":"anon32","e":"null","m":"200iq","nm":"200iq","b":"b"}
+{"t":3539219,"u":"anon33","e":"null","m":"thanks for not leaving dip_7777","nm":"thanks for not leaving dip_7777","b":"b"}
+{"t":3541246,"u":"anon37","e":"null","m":"finally I can be heard","nm":"finally I can be heard","b":"b"}
+{"t":3545323,"u":"anon39","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3548353,"u":"anon40","e":"null","m":"That’s dope, I didn’t think he would get banned on both","nm":"Thats dope I didnt think he would get banned on both","b":"b"}
+{"t":3549375,"u":"anon45","e":"{"354":["0-4","6-10","12-16"]}","m":"4Head 4Head 4Head","nm":"4Head 4Head 4Head","b":"b"}
+{"t":3550396,"u":"anon46","e":"null","m":"@dip_7777 waddup","nm":"dip_7777 waddup","b":"b"}
+{"t":3554451,"u":"anon48","e":"null","m":"that was super nasty OMG....","nm":"that was super nasty OMG","b":"b"}
+{"t":3558515,"u":"anon49","e":"null","m":"@dip_7777 doc has nothing over you. dip_7777 gang forever. Put the hater blockers on 😎👎🏻👎🏻","nm":"dip_7777 doc has nothing over you dip_7777 gang forever Put the hater blockers on ","b":"b"}
+{"t":3558722,"u":"anon4","e":"null","m":"Ttv by the way","nm":"Ttv by the way","b":"nb"}
+{"t":3559069,"u":"anon65","e":"null","m":"get the new gun","nm":"get the new gun","b":"nb"}
+{"t":3562064,"u":"anon4","e":"null","m":"Shameless plug","nm":"Shameless plug","b":"nb"}
+{"t":3563599,"u":"anon50","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3564610,"u":"anon52","e":"null","m":"😢😢","nm":"","b":"b"}
+{"t":3565016,"u":"anon105","e":"null","m":"hi ked","nm":"hi ked","b":"nb"}
+{"t":3569691,"u":"anon53","e":"null","m":"WHATARE THEY GOING FOR????","nm":"WHATARE THEY GOING FOR","b":"b"}
+{"t":3573902,"u":"anon105","e":"null","m":"kid*","nm":"kid","b":"nb"}
+{"t":3574760,"u":"anon54","e":"{"245":["48-62"]}","m":"@Lohpally2 nickmercs is so trash talk, negative ResidentSleeper","nm":"Lohpally2 nickmercs is so trash talk negative ResidentSleeper","b":"b"}
+{"t":3576782,"u":"anon55","e":"{"28087":["0-6"]}","m":"WutFace","nm":"WutFace","b":"b"}
+{"t":3580857,"u":"anon57","e":"null","m":"wow","nm":"wow","b":"b"}
+{"t":3583908,"u":"anon58","e":"{"360":["0-7","9-16","18-25","27-34","36-43","45-52","54-61"]}","m":"FailFish FailFish FailFish FailFish FailFish FailFish FailFish","nm":"FailFish FailFish FailFish FailFish FailFish FailFish FailFish","b":"b"}
+{"t":3587970,"u":"anon61","e":"{"25":["12-16"]}","m":"land moisty Kappa","nm":"land moisty Kappa","b":"b"}
+{"t":3592032,"u":"anon63","e":"null","m":"noooooooooooooo","nm":"noooooooooooooo","b":"b"}
+{"t":3592505,"u":"anon3","e":"{"483":["90-91"]}","m":"Every donation means the world to me and will help out the stream so much. I love you all <3 https://streamlabs.com/fortnitedenzi","nm":"Every donation means the world to me and will help out the stream so much I love you all 3 httpsstreamlabscomfortnitedenzi","b":"nb"}
+{"t":3595074,"u":"anon66","e":"null","m":"Lmao","nm":"Lmao","b":"b"}
+{"t":3597114,"u":"anon71","e":"null","m":"@Konti13375i yes","nm":"Konti13375i yes","b":"b"}
+{"t":3601396,"u":"anon4","e":"null","m":"Updating BO4 so hype","nm":"Updating BO4 so hype","b":"nb"}
+{"t":3602188,"u":"anon72","e":"null","m":"ONE....MORE.....GAME!","nm":"ONEMOREGAME","b":"b"}
+{"t":3606253,"u":"anon74","e":"null","m":"10k bits is actually $140 because 1 but = $0.014","nm":"10k bits is actually 140 because 1 but  0014","b":"b"}
+{"t":3611321,"u":"anon75","e":"null","m":"reep","nm":"reep","b":"b"}
+{"t":3614372,"u":"anon77","e":"null","m":"uuuuhhhhhhhhhh","nm":"uuuuhhhhhhhhhh","b":"b"}
+{"t":3618437,"u":"anon78","e":"null","m":"double pump is the meta","nm":"double pump is the meta","b":"b"}
+{"t":3619442,"u":"anon79","e":"null","m":"AHHH","nm":"AHHH","b":"b"}
+{"t":3623519,"u":"anon80","e":"null","m":"994","nm":"994","b":"b"}
+{"t":3627576,"u":"anon81","e":"null","m":"Im confuesed","nm":"Im confuesed","b":"b"}
+{"t":3629610,"u":"anon82","e":"{"25":["22-26"]}","m":"i heard that dip_7777 Kappa","nm":"i heard that dip_7777 Kappa","b":"b"}
+{"t":3632660,"u":"anon83","e":"null","m":"dm me for clip of trap kill","nm":"dm me for clip of trap kill","b":"b"}
+{"t":3635705,"u":"anon85","e":"{"34":["0-8"]}","m":"SwiftRage","nm":"SwiftRage","b":"b"}
+{"t":3637729,"u":"anon86","e":"null","m":"nickmercsS nickmercsS nickmercsS","nm":"nickmercsS nickmercsS nickmercsS","b":"b"}
+{"t":3639599,"u":"anon95","e":"null","m":"lagg","nm":"lagg","b":"nb"}
+{"t":3639874,"u":"anon65","e":"null","m":"why hazent global donated","nm":"why hazent global donated","b":"nb"}
+{"t":3640780,"u":"anon89","e":"null","m":"Going for 40 ??","nm":"Going for 40 ","b":"b"}
+{"t":3645838,"u":"anon90","e":"null","m":"whats up!","nm":"whats up","b":"b"}
+{"t":3647871,"u":"anon91","e":"null","m":"I don’t know how many 1 mores I can take","nm":"I dont know how many 1 mores I can take","b":"b"}
+{"t":3648885,"u":"anon2","e":"null","m":"Hacks","nm":"Hacks","b":"b"}
+{"t":3652943,"u":"anon2","e":"null","m":"missed sub feelsbadman","nm":"missed sub feelsbadman","b":"b"}
+{"t":3653968,"u":"anon7","e":"null","m":"SEEE","nm":"SEEE","b":"b"}
+{"t":3656053,"u":"anon4","e":"null","m":"Global said he can’t right now","nm":"Global said he cant right now","b":"nb"}
+{"t":3658023,"u":"anon11","e":"null","m":"@dip_7777 how good is the Corsair keyboard I have the headset and mouse just dont know about the keyboard?","nm":"dip_7777 how good is the Corsair keyboard I have the headset and mouse just dont know about the keyboard","b":"b"}
+{"t":3660059,"u":"anon14","e":"null","m":"I think dip_7777 is hungry after duos with opsect #disappointed","nm":"I think dip_7777 is hungry after duos with opsect disappointed","b":"b"}
+{"t":3662094,"u":"anon15","e":"null","m":"Lol tk vs og game is over and now @dip_7777 is #1 on twitch","nm":"Lol tk vs og game is over and now dip_7777 is 1 on twitch","b":"b"}
+{"t":3665140,"u":"anon17","e":"null","m":"nightbot noob","nm":"nightbot noob","b":"b"}
+{"t":3669202,"u":"anon18","e":"null","m":"they just need to learn to build haHAA","nm":"they just need to learn to build haHAA","b":"b"}
+{"t":3670938,"u":"anon65","e":"null","m":"le shout","nm":"le shout","b":"nb"}
+{"t":3672187,"u":"anon95","e":"null","m":"can plz leave","nm":"can plz leave","b":"nb"}
+{"t":3672247,"u":"anon19","e":"null","m":"HAHAHAHA","nm":"HAHAHAHA","b":"b"}
+{"t":3673264,"u":"anon20","e":"null","m":"ahhaha lmfao","nm":"ahhaha lmfao","b":"b"}
+{"t":3674280,"u":"anon21","e":"null","m":"whats the record","nm":"whats the record","b":"b"}
+{"t":3676311,"u":"anon22","e":"null","m":"we got pranked","nm":"we got pranked","b":"b"}
+{"t":3679361,"u":"anon23","e":"null","m":"@dip_7777 how do you beat someone who keeps building when you rocket their fort","nm":"dip_7777 how do you beat someone who keeps building when you rocket their fort","b":"b"}
+{"t":3680386,"u":"anon30","e":"null","m":"stream snipe","nm":"stream snipe","b":"b"}
+{"t":3683416,"u":"anon31","e":"{"425618":["9-11"]}","m":"BALANCED LUL","nm":"BALANCED LUL","b":"b"}
+{"t":3687268,"u":"anon65","e":"null","m":"get the new gun","nm":"get the new gun","b":"nb"}
+{"t":3687483,"u":"anon32","e":"{"3":["0-1"]}","m":":D","nm":"D","b":"b"}
+{"t":3689517,"u":"anon33","e":"null","m":"LMFAO","nm":"LMFAO","b":"b"}
+{"t":3691542,"u":"anon37","e":"null","m":"@DeligracyA Probs not mate, iunless you buy some tiers","nm":"DeligracyA Probs not mate iunless you buy some tiers","b":"b"}
+{"t":3693580,"u":"anon39","e":"null","m":"@GEICOGaming6 thanks","nm":"GEICOGaming6 thanks","b":"b"}
+{"t":3696616,"u":"anon40","e":"null","m":"@FunGoose_aB 🤔😑","nm":"FunGoose_aB ","b":"b"}
+{"t":3698657,"u":"anon45","e":"null","m":"any thing to do in cali? im going next month","nm":"any thing to do in cali im going next month","b":"b"}
+{"t":3699677,"u":"anon46","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3703732,"u":"anon48","e":"{"245":["12-26"]}","m":"double pump ResidentSleeper","nm":"double pump ResidentSleeper","b":"b"}
+{"t":3708809,"u":"anon49","e":"{"58765":["3-13"]}","m":"KR NotLikeThis","nm":"KR NotLikeThis","b":"b"}
+{"t":3710842,"u":"anon50","e":"null","m":"@ThreedoggBc","nm":"ThreedoggBc","b":"b"}
+{"t":3712882,"u":"anon52","e":"null","m":"how many of yall are jerkin to all these rare dip_7777 tutorial tips?","nm":"how many of yall are jerkin to all these rare dip_7777 tutorial tips","b":"b"}
+{"t":3715924,"u":"anon53","e":"null","m":"hey guys what suit is he wearing","nm":"hey guys what suit is he wearing","b":"b"}
+{"t":3717947,"u":"anon54","e":"{"425618":["0-2"]}","m":"LUL","nm":"LUL","b":"b"}
+{"t":3719969,"u":"anon55","e":"null","m":"9+6=22","nm":"9622","b":"b"}
+{"t":3723033,"u":"anon57","e":"null","m":"dip_7777 could prob break the record on his own lol","nm":"dip_7777 could prob break the record on his own lol","b":"b"}
+{"t":3727095,"u":"anon58","e":"null","m":"I thought Ninj said he wasn't gonna do double pump in solo...is he doing some challenge or something for this match?","nm":"I thought Ninj said he wasnt gonna do double pump in solois he doing some challenge or something for this match","b":"b"}
+{"t":3728642,"u":"anon95","e":"null","m":"noooo","nm":"noooo","b":"nb"}
+{"t":3730139,"u":"anon61","e":"null","m":"Capozza","nm":"Capozza","b":"b"}
+{"t":3735218,"u":"anon63","e":"{"3":["0-1"]}","m":":D","nm":"D","b":"b"}
+{"t":3736231,"u":"anon66","e":"null","m":"@Nili_AoEk Did you change your name or who are you?","nm":"Nili_AoEk Did you change your name or who are you","b":"b"}
+{"t":3736316,"u":"anon65","e":"null","m":"bye","nm":"bye","b":"nb"}
+{"t":3739283,"u":"anon71","e":"null","m":"hitbox is BAD","nm":"hitbox is BAD","b":"b"}
+{"t":3741354,"u":"anon27","e":"null","m":"good job denzi","nm":"good job denzi","b":"nb"}
+{"t":3743345,"u":"anon72","e":"null","m":"OMG","nm":"OMG","b":"b"}
+{"t":3746390,"u":"anon74","e":"{"69":["0-9","11-20"]}","m":"BloodTrail BloodTrail","nm":"BloodTrail BloodTrail","b":"b"}
+{"t":3748062,"u":"anon27","e":"null","m":"have good night man","nm":"have good night man","b":"nb"}
+{"t":3748537,"u":"anon65","e":"null","m":"are you streaming tomoz","nm":"are you streaming tomoz","b":"nb"}

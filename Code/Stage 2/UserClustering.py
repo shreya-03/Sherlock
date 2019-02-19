@@ -10,10 +10,9 @@ from os.path import isfile,join,isdir
 from XMeans import *
 
 plt.rcParams['figure.figsize'] = (16,9)
-#plt.style.use('ggplot')
 plt.rcParams['axes.facecolor'] = 'white'
 
-#---------Function stores the imds between each message made by a user and return the dictionary----------
+#---------Function stores the IMDs between each message made by a user and returns the dictionary----------
 
 def getUserIMDMessages(filename):
 	users = OrderedDict()
@@ -44,12 +43,9 @@ def get_chats_features(users):
 			user_chats_ft.append(users[user]['m'])
 	return user_chats_ft
 
-#----------Function returns the set of users in a stream and the list of tuples (username , timestamp)---------	
+#----------Function returns the set of users in a stream and a list of tuples (message, timestamp)---------	
 
 def ts_sim(filename):
-	# path = os.getcwd()+filename
-	# filename = path
-	# print(filename)
 	user_msgs = []
 	users = OrderedDict()
 	with open(filename,'r') as f:
@@ -63,7 +59,7 @@ def ts_sim(filename):
 	f.close()
 	return users, user_msgs
 
-#----------Function returns dictionary of users present in a window of timestamp 15s---------- 
+#----------Function returns dictionary of users present in a window of size sz = 15s---------- 
 
 def user_windows(filename):
 	users, user_msgs = ts_sim(filename)
@@ -91,7 +87,7 @@ def user_windows(filename):
 	user_dict = {i[0]:i[1] for i in sorted(user_dict.items(), key = lambda kv: kv[1],reverse=True)}
 	return user_dict
 
-#----------Function returns a dictionary of users with the list of their respective intermediate time delays---------- 
+#----------Function returns a dictionary of users with the list of their respective intermessage time delays---------- 
 
 def user_intermessage_delay(users):
 	user_imd = OrderedDict()
@@ -134,7 +130,7 @@ def get_user_names(filename):
 def eucleadian_dist(a,b,ax=1):
 	return np.linalg.norm(a-b,axis=ax)
 
-#----------
+#----------Plots a few graphs related to clustering----------
 
 def plot_graph(X,real_X,real_Y,bot_X,bot_Y,labels):
 	#fig,(ax1,ax2) = plt.subplots(1,2,sharey=True)
@@ -172,6 +168,7 @@ def plot_graph(X,real_X,real_Y,bot_X,bot_Y,labels):
 	#plt.axhline(y=avg_f2,c='green')
 	plt.show()	
 
+#----------Function returns initial labels for users in First Quadrant after performing XMeans clustering----------
 
 def labeling_data(filename,realfile,botfile):
 	
@@ -244,7 +241,7 @@ def labeling_data(filename,realfile,botfile):
 	#plt.title('Original label distribution',fontsize='large',fontweight='bold')
 	plt.show()
 
-	
+	# XMeans clustering
 	f1 = new_bot_user_features.iloc[:,0].values
 	f2 = new_bot_user_features.iloc[:,1].values
 	gt_X = np.array(list(zip(f1,f2)))
@@ -305,3 +302,89 @@ def labeling_data(filename,realfile,botfile):
 		real_users_index.append(selected_real_user_index_map[index])
 
 	return real_users_index,bot_users_index,real_users,bot_users
+
+# Function similar to labeling_data(), but works on unlabelled data
+def unlabelled_data(filename):
+	users = getUserIMDMessages(filename)
+	users_list = users.keys()
+	user_chats_ft= get_chats_features(users)
+	user_chats_ft = pd.DataFrame(user_chats_ft)
+
+	user_imd_bins = pd.DataFrame(get_IMD_features(users))
+	user_features = pd.concat([user_chats_ft,user_imd_bins],axis=1)
+	list_user_fts = user_features.values.tolist()
+	
+	print(list_user_fts)
+	plt.scatter([list_user_fts[i][0] for i in range(len(list_user_fts))],[list_user_fts[i][1] for i in range(len(list_user_fts))],c='red',s=7,label='real')
+	plt.show()
+
+	initavg_f1 = floor(mean([ft[0] for ft in list_user_fts]))
+	initavg_f2 = floor(mean([ft[1] for ft in list_user_fts]))
+
+	five0 = len([1 for ft in list_user_fts if ft[0] > initavg_f1])
+	list_user_fts1 = sorted(list_user_fts,key=lambda x:x[0])
+	list_user_fts1 = list_user_fts1[:len(list_user_fts1)-five0]
+	list_user_fts1 = sorted(list_user_fts1,key=lambda x:x[1])
+	five1 = len([1 for ft in list_user_fts1 if ft[1] > initavg_f2])
+	list_user_fts1 = list_user_fts1[:len(list_user_fts1)-five1]
+	
+ 	avg_f1 = floor(mean([ft[0] for ft in list_user_fts1]))
+	avg_f2 = floor(mean([ft[1] for ft in list_user_fts1]))
+	
+	selected_bot_user_fts = []
+	selected_bot_user_index_map = []
+	for i in range(len(list_user_fts)):
+		if list_user_fts[i][0] >= avg_f1 and list_user_fts[i][1] >= avg_f2:
+			selected_bot_user_fts.append(list_user_fts[i])
+			selected_bot_user_index_map.append((len(selected_bot_user_fts)-1,users.keys().index(users_list[i])))
+	selected_bot_user_index_map = dict(selected_bot_user_index_map)
+	new_bot_user_features = pd.DataFrame(selected_bot_user_fts)
+	
+	f1 = new_bot_user_features.iloc[:,0].values
+	f2 = new_bot_user_features.iloc[:,1].values
+	gt_X = np.array(list(zip(f1,f2)))
+	kmax = 0
+	if len(f1) > 80:
+		kmax = 8
+	else:
+		kmax = 4
+	print(kmax)
+	Xmeans = XMeans(kmax=kmax)
+	Xmeans.fit(list(gt_X))
+	labels = Xmeans.labels_
+
+	fig,(ax1,ax2) = plt.subplots(1,2,sharey=True)
+	ax1.scatter(gt_X[:,0], gt_X[:,1],c='red',s=7,label='all users')
+	ax1.legend(loc='upper right')
+	ax2.scatter(gt_X[:,0], gt_X[:,1], c=labels, cmap=plt.cm.Paired,s=7)
+	plt.show()	
+	
+	## Getting index of botted users
+	bot_user_cluster_dict = {}
+	for i in range(Xmeans.n_clusters):
+		bot_user_cluster_dict[i] = []
+	gt_labels = Xmeans.labels_
+	for i in range(len(gt_labels)):
+		bot_user_cluster_dict[gt_labels[i]].append(i)
+	max_user_cluster_cnt = 0
+	for i in bot_user_cluster_dict.keys():
+		cnt_user = len(bot_user_cluster_dict[i])
+		if max_user_cluster_cnt < cnt_user:
+			max_user_cluster_cnt = cnt_user
+			gt_max_cluster_index = i 
+	bot_users_index = []
+	for index in bot_user_cluster_dict[gt_max_cluster_index]:
+		bot_users_index.append(selected_bot_user_index_map[index])
+
+	selected_real_user_fts = []
+	selected_real_user_index_map = []
+	for i in range(len(list_user_fts)):
+		if list_user_fts[i][0] < avg_f1 and list_user_fts[i][1] < avg_f2:
+			selected_real_user_fts.append(list_user_fts[i])
+			selected_real_user_index_map.append((len(selected_real_user_fts)-1,users.keys().index(users_list[i])))
+	selected_real_user_index_map = dict(selected_real_user_index_map)
+	real_users_index = []
+	for index in selected_real_user_index_map.keys():
+		real_users_index.append(selected_real_user_index_map[index])
+
+	return real_users_index,bot_users_index

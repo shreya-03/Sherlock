@@ -4,7 +4,7 @@ import math
 from sklearn.feature_extraction.text import TfidfVectorizer,TfidfTransformer,CountVectorizer
 import re,sys
 from ipy_table import *
-#from spectral_clustering import *
+#from SpectralClustering import *
 import matplotlib.pyplot as plt
 import networkx as nx
 from collections import OrderedDict
