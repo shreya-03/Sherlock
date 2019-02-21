@@ -246,12 +246,14 @@ def main():
 	df2_train = pd.DataFrame({'cce_msgLengths':train_features['cce_ml']})
 	df3_train = pd.DataFrame({'labels':train_features['labels']})
 	X_train = pd.concat([df1_train,df2_train,df3_train],axis=1)
+	'''
 	X_train.to_csv('train_features.csv')
 	'''
 	#test_features = {'cce_imds':[],'cce_ml':[]}
 	#train_features = pd.read_csv('train_features.csv',delimiter=',')
 	#X_train = train_features.iloc[:,1:3]
 	#Y_train = train_features.iloc[:,3:4]
+	'''
 	filename = '../Sample Data/sample_chatlog_chatbotted.txt'
 	print filename
 	users = cluster_test_user_timestamps_msgs(filename)
