@@ -247,7 +247,7 @@ def main():
 	df3_train = pd.DataFrame({'labels':train_features['labels']})
 	X_train = pd.concat([df1_train,df2_train,df3_train],axis=1)
 	'''
-	X_train.to_csv('train_features.csv')
+	X_train.read_csv('./train_features.csv')
 	'''
 	#test_features = {'cce_imds':[],'cce_ml':[]}
 	#train_features = pd.read_csv('train_features.csv',delimiter=',')
