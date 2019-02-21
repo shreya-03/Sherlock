@@ -14,4 +14,4 @@ The command for executing is `python main.py`. By default, it is set to run on t
 
 ## Baseline : A supervised method which uses Corrected Conditional Entropy (CCE) of IMDs and Message Lengths
 
-Execute `filename.py` Describe
+Execute `baseline_model.py` Describe
