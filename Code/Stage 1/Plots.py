@@ -133,8 +133,8 @@ def stream_best_curve_fit(filename):
 	f.fit() 
 	return f.get_best()
 
-user_imds_list,user_imds = np.array(get_data('../Data/Real Data/Merged_Data/35-40 Viewers#zilabeardatabase_new#dip_7777database_random1_1.txt'))
-real_users = get_user_names('../Data/Real Data/35-40 Viewers/#zilabeardatabase_new.txt')
+user_imds_list,user_imds = np.array(get_data('../Sample Data/sample_chatlog_chatbotted.txt'))
+real_users = get_user_names('../Sample Data/sample_chatlog_real.txt')
 bins = [i for i in range(0,np.max(user_imds_list),1000)]
 #print bins
 group_users(real_users,user_imds,bins,np.min(user_imds_list),np.max(user_imds_list))
