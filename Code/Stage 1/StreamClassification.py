@@ -1,4 +1,6 @@
-import sys
+import sys,time,math
+import bisect
+from math import floor
 import numpy as np
 from collections import OrderedDict,Counter
 from os import listdir
@@ -7,6 +9,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_recall_fscore_support,confusion_matrix
+from sklearn.metrics import precision_recall_curve
 from sklearn import tree
 from sklearn.ensemble import RandomForestClassifier
 from xgboost import XGBClassifier
@@ -16,10 +20,22 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neural_network import MLPClassifier
+import shutil
 
 pd.set_option('display.max_colwidth',-1)
+suspicious_files_gt_50msgs = []
 
-#--------Function returns list of users and list of tuples of user and the timestamp---------
+real_files_lt = []
+cc_files_lt = []
+r1_files_lt = []
+r2_files_lt = []
+og_files_lt = []
+cc_test_fts = []
+r1_test_fts = []
+r2_test_fts = []
+og_test_fts = []
+real_test_fts = []
+train_features = []
 
 def ts_sim(filename):
 	user_msgs = []
@@ -35,12 +51,11 @@ def ts_sim(filename):
 	f.close()
 	return users, user_msgs
 
-#--------Class for obtaining value of #msgs for a stream---------
-
 class DistributionChatters(object):
 
 	def __init__(self,filename):
-		self.users,self.user_msgs = ts_sim(filename)
+		self.filename = filename
+		self.users,self.user_msgs = ts_sim(self.filename)
 
 	def pseudo_vel(self,bs=1):
 		users = {}
@@ -50,13 +65,16 @@ class DistributionChatters(object):
 				users[i[0]] = 1
 			else:
 				users[i[0]] += 1
-				maxs = max(maxs,users[i[0]])	# maxs stores the maximum number of messages made by users in total
-
-		bin_size = bs 	# setting the bin size to its default value
+				maxs = max(maxs,users[i[0]])
+		#print users
+		if sum(users.values())>50:
+			suspicious_files_gt_50msgs.append(self.filename)
+		#time.sleep(5)
+		bin_size = bs
 		arr = [0 for i in range(maxs//bin_size + 1)]
 		xs = []
 		for i in range(len(arr)+1):
-			xs.append(0+(i*bin_size))	# storing the fraction of users * #msgs made by each of them
+			xs.append(0+(i*bin_size))
 		x = [float(xs[i]+xs[i+1])/2 for i in range(len(xs)-1)]
 	
 		for k,v in users.items():
@@ -66,17 +84,19 @@ class DistributionChatters(object):
 		arr = [float(i)/sums for i in arr]
 		newarr = [(arr[i],i) for i in range(len(arr))]
 		newarr = sorted(newarr,key=lambda tup:(tup[0],-tup[1]))
-		newarr = newarr[len(arr)-3:]	# Taking the top 4 values of product of fraction of users and #msgs made by each of them 
+		#print newarr
+		newarr = newarr[len(arr)-3:]
 
-		ans = (sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))]))
-		return ans	# Returning the sum of 4 product values obtained above
+		# ans = (sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))]))
+		ans = ([newarr[i][0] * newarr[i][1] for i in range(len(newarr))])
 
-#----------Class for evaluating the count of windows in which a user appeared in----------
+		return ans
 
 class UserWindows(object):
 
 	def __init__(self,filename):
-		self.users,self.user_msgs = ts_sim(filename)
+		self.filename = filename
+		self.users,self.user_msgs = ts_sim(self.filename)
 
 	def user_windows(self):
 		user_dict = {i:0 for i in self.users}
@@ -98,7 +118,7 @@ class UserWindows(object):
 					break
 				else:
 					j += 1
-		user_dict = {i[0]:i[1] for i in sorted(user_dict.items(), key = lambda kv: kv[1],reverse=True)}		# Dictionary stores the users and #windows it appeared in descending order of #windows
+		user_dict = {i[0]:i[1] for i in sorted(user_dict.items(), key = lambda kv: kv[1],reverse=True)}
 		final_dict = {}
 		maxv, sums = 0, 0
 		for k,v in user_dict.items():
@@ -121,11 +141,11 @@ class UserWindows(object):
 
 		newarr = [(y[i],i) for i in range(len(y))]
 		newarr = sorted(newarr,key=lambda tup:(tup[0],-tup[1]))
-		newarr = newarr[len(y)-3:]	# stores the top most 4 value of product of #users and #windows they showed up
-		ans = sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))])	# Sum up all 4 values obtained above
-		return ans	# Return the sum value
+		newarr = newarr[len(y)-3:]
+		#ans = sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))])
+		ans = [newarr[i][0] * newarr[i][1] for i in range(len(newarr))]
+		return ans	
 
-#---------Class evaluates a value for stream based on imds of users---------  
 
 class StreamIMDFeature(object):
 
@@ -133,10 +153,9 @@ class StreamIMDFeature(object):
 		self.filename = filename
 		self.users_timestamps = self.cluster_user_timestamps()
 		self.users_imds = self.user_intermessage_delay()
-		self.imd_ft_val = self.getimdfeature()
+		self.imd_ft_val,hist,bins,imds_list = self.getimdfeature()
+		self.ft_vec = self.quartile_features(hist,bins,imds_list)
 	
-	#---------Function returns dictionary of users with list of their corresponding timestamps at which message has been made---------
-
 	def cluster_user_timestamps(self):
 		users = {}
 		with open(self.filename,'r') as f:
@@ -152,8 +171,6 @@ class StreamIMDFeature(object):
 		f.close()
 		return users
 
-	#---------Function returns the dictionary of users with the list of their corresponding imds---------
-
 	def user_intermessage_delay(self):
 		user_imd = dict()
 		for user in self.users_timestamps.keys():
@@ -164,7 +181,28 @@ class StreamIMDFeature(object):
 					user_imd[user].append(self.users_timestamps[user][i+1]-self.users_timestamps[user][i])
 		return user_imd
 
-	#---------Function returns a value for imd of stream--------
+	def quartile_features(self,hist,bins,imds_list):
+		ft_vec = []
+
+		pre = [hist[0]]
+		for i in range(1,len(hist)):
+			pre.append(hist[i]+pre[-1])
+		scores = [val for i,val in enumerate(hist)]
+		temp = bisect.bisect_left(pre, 0.6*float(sum(scores)), lo=0, hi=len(pre))
+		ft_vec.append(bins[temp]/1000)
+		temp = bisect.bisect_left(pre, 0.7*float(sum(scores)), lo=0, hi=len(pre))
+		ft_vec.append(bins[temp]/1000)
+		temp = bisect.bisect_left(pre, 0.8*float(sum(scores)), lo=0, hi=len(pre))
+		ft_vec.append(bins[temp]/1000)
+		temp = bisect.bisect_left(pre, 0.9*float(sum(scores)), lo=0, hi=len(pre))
+		ft_vec.append(bins[temp]/1000)
+
+		# print ft_vec
+
+		# plt.hist(imds_list,bins=bins)
+		# plt.show()
+
+		return ft_vec
 
 	def getimdfeature(self):
 		imds_list = []
@@ -173,143 +211,279 @@ class StreamIMDFeature(object):
 		imds_list = np.array(imds_list)
 		bins = [i for i in range(0,np.max(imds_list),1000)]
 		bins = bins[:500]
-		if len(bins) > 0:
-			hist,bins = np.histogram(imds_list,bins,normed=False)
-			#print hist
-			if len(hist) == 0:
-				imd_ft_val = 0.0
-			else:
-				scores = [val*(i+1) for i,val in enumerate(hist)]
-				sum_weights = sum(hist)
-				#print "sum of pdfs:"+ str(sum_weights)
-				if sum_weights > 0:
-					imd_ft_val = sum(scores)/float(sum_weights)	# weighted sum of prodct of imd value and the # users corresponding to the imd 
-				else:
-					imd_ft_val = 0.0
+		if len(bins) < 500:
+			bins.extend([i for i in range(len(bins)*1000,500000,1000)])
+
+		hist,bins = np.histogram(imds_list,bins,normed=False)
+		scores = [val*(i+1) for i,val in enumerate(hist)]
+		sum_weights = sum(hist)
+		#print "sum of pdfs:"+ str(sum_weights)
+		if sum_weights > 0:
+			imd_ft_val = sum(scores)/float(sum_weights)
 		else:
 			imd_ft_val = 0.0
-		return imd_ft_val
+		
+		return imd_ft_val,hist,bins,imds_list
 
-#---------Function returns concatenated feature vector of stream----------
+def gettotalusers(filename):
+	users = set()
+	with open(filename,'r') as f:
+		lines = f.readlines()
+		for line in lines:
+			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
+			users.add(user)
+	return len(users)
 
-def getFeatureVecFile(filename,imd_ft_val,label):
+def get_channel_followers(path,channel_name):
+	#print channel_name	
+	follows = set()
+	for file in listdir(path):
+		if file[13:-2] == channel_name:
+			#print file
+			#print "1st case entered"
+			with open(join(path,file),'r') as f:
+				lines = f.readlines()
+				if len(lines) > 1:
+					users = lines[1].split(' ')
+					#print users
+					for user in users:
+						follows.add(user)
+			f.close()
+		'''
+		else:
+			if file[13:] == channel_name:
+				#print "2nd case entered"
+				with open(join(path,file),'r') as f:
+					lines = f.readlines()
+					users = lines[1].split(' ')
+					for user in users:
+						follows.add(user)
+				f.close()
+		'''
+	return list(follows)
+
+def getFeatureVecFile(filename,imd_ft_vec,followers,label):
 	ft_vec = []
 	distr_classob = DistributionChatters(filename)
 	userwindows_classob = UserWindows(filename)
-	ft_vec.append(distr_classob.pseudo_vel())
-	ft_vec.append(userwindows_classob.user_windows())
-	ft_vec.append(imd_ft_val)
+	#ft_vec.append(filename)
+	ft_vec.extend(distr_classob.pseudo_vel())
+	#ft_vec.extend(distr_classob.pseudo_vel())
+	ft_vec.extend(userwindows_classob.user_windows())
+	ft_vec.extend(imd_ft_vec)
+	ft_vec.append(float(len(followers))/gettotalusers(filename))
 	ft_vec.append(label)
 	return ft_vec	
 
-
-#--------Function recursively calls all files in the folder and returns feature vectors for each of them---------
-
-def getAllFilesRecursive(path,certified_reals,certified_new_reals):
-	features = []
+def getAllFilesRecursiveinlist(path,certified_reals,certified_new_reals):
 	dirs = [d for d in listdir(path) if isdir(join(path,d))]
 	for d in dirs:
-		#print d
-		if 'Viewers' in str(d):
-			for files_in_d in listdir(join(path,d)):
-				filename = join(join(path,d),files_in_d)
-				if isfile(filename) and 'database' in str(filename):
-					#print filename
-					#print "real file"
-					imd_ft = StreamIMDFeature(filename)
-					#print imd_ft.imd_ft_val
-					if imd_ft.imd_ft_val != 0.0:
-						features.append(getFeatureVecFile(filename,imd_ft.imd_ft_val,0))	#label 0 for real file
-		elif 'data' in str(d):
-			for files_in_d in listdir(join(path,d)):
-				filename = join(join(path,d),files_in_d)
-				if isfile(filename) and 'database' in str(filename) and (files_in_d.split('#')[1].split('database')[0] in certified_reals or files_in_d.split('#')[1].split('database')[0] in certified_new_reals):
-					#print filename
-					#print "new real file"
-					imd_ft = StreamIMDFeature(filename)
-					#print imd_ft.imd_ft_val
-					if imd_ft.imd_ft_val != 0.0:
-						features.append(getFeatureVecFile(filename,imd_ft.imd_ft_val,0))	#label 0 for real file
-		else:
-			for files_in_d in listdir(join(path,d)):
-				filename = join(join(path,d),files_in_d)
-				if isfile(filename) and 'database' in str(filename):
-					#print filename
-					#print "bot-ed file"
-					imd_ft = StreamIMDFeature(filename)
-					#print imd_ft.imd_ft_val
-					if imd_ft.imd_ft_val != 0.0:
-						features.append(getFeatureVecFile(filename,imd_ft.imd_ft_val,1))	# label 1 for botted file
-	return features
+		for files_in_d in listdir(join(path,d)):
+			filename = join(join(path,d),files_in_d)
+			if 'dip_7777' in filename:
+				if 'chatterscontrolled' in filename:
+					cc_files_lt.append(filename)
+				elif 'random1' in filename:
+					r1_files_lt.append(filename)
+				elif 'random2' in filename:
+					r2_files_lt.append(filename)
+				else:
+					og_files_lt.append(filename)
+			else:
+				if 'database' in files_in_d and (files_in_d.split('#')[1].split('database')[0] in certified_reals or files_in_d.split('#')[1].split('database')[0] in certified_new_reals):
+					real_files_lt.append(filename)
+	print len(cc_files_lt),len(r1_files_lt),len(r2_files_lt),len(og_files_lt),len(real_files_lt)
 
-#---------Function prints accuracy for the specified classification model for the training and testing dataset---------
+def generateTrainTestData(ratio):
+	length =  (ratio+0.1)*len(real_files_lt)
+	for i in range(len(real_files_lt)):
+		if i < length:
+			imd_ft = StreamIMDFeature(real_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',real_files_lt[i].split('#')[1].split('database')[0])
+			train_features.append(getFeatureVecFile(real_files_lt[i],imd_ft.ft_vec,channel_followers,0))
+		else:
+			imd_ft = StreamIMDFeature(real_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',real_files_lt[i].split('#')[1].split('database')[0])	
+			real_test_fts.append(getFeatureVecFile(real_files_lt[i],imd_ft.ft_vec,channel_followers,0))
+	length = ratio*len(cc_files_lt)
+	for i in range(len(cc_files_lt)):
+		if i < length:
+			imd_ft = StreamIMDFeature(cc_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',cc_files_lt[i].split('#')[1].split('database')[0])	
+			train_features.append(getFeatureVecFile(cc_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+		else:
+			imd_ft = StreamIMDFeature(cc_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',cc_files_lt[i].split('#')[1].split('database')[0])	
+			cc_test_fts.append(getFeatureVecFile(cc_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+	length = ratio*len(r1_files_lt)
+	for i in range(len(r1_files_lt)):
+		if i < length:
+			imd_ft = StreamIMDFeature(r1_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',r1_files_lt[i].split('#')[1].split('database')[0])	
+			train_features.append(getFeatureVecFile(r1_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+		else:
+			imd_ft = StreamIMDFeature(r1_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',r1_files_lt[i].split('#')[1].split('database')[0])
+			r1_test_fts.append(getFeatureVecFile(r1_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+	length = ratio*len(r2_files_lt)
+	for i in range(len(r2_files_lt)):
+		if i < length:
+			imd_ft = StreamIMDFeature(r2_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',r2_files_lt[i].split('#')[1].split('database')[0])
+			train_features.append(getFeatureVecFile(r2_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+		else:
+			imd_ft = StreamIMDFeature(r2_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',r2_files_lt[i].split('#')[1].split('database')[0])
+			r2_test_fts.append(getFeatureVecFile(r2_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+	length = ratio*len(og_files_lt)
+	for i in range(len(og_files_lt)):
+		if i < length:
+			imd_ft = StreamIMDFeature(og_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',og_files_lt[i].split('#')[1].split('database')[0])
+			train_features.append(getFeatureVecFile(og_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+		else:
+			imd_ft = StreamIMDFeature(og_files_lt[i])
+			channel_followers = get_channel_followers('../followers_cnt/',og_files_lt[i].split('#')[1].split('database')[0])
+			og_test_fts.append(getFeatureVecFile(og_files_lt[i],imd_ft.ft_vec,channel_followers,1))
+
+def get_users(filename):
+	users = set()
+	with open(filename,'r') as f:
+		lines = f.readlines()
+		for line in lines:
+			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
+			users.add(user)
+	f.close()
+	return users
+
 
 def run_model(model,alg_name,X_train,y_train,X_test,y_test):
 	model.fit(X_train,y_train)
 	y_pred = model.predict(X_test)
+	#print y_pred
+	print Counter(y_pred)
 	accuracy = accuracy_score(y_test,y_pred)*100
-	print "Classifier:" + alg_name + ' ' + "Accuracy:" + str(accuracy)
+	print "Classifier:" + alg_name
+	print "Accuracy:" + str(accuracy)
+	print "weighted"
+	print "Precision Recall fscore:" + str(precision_recall_fscore_support(y_test,y_pred,average='weighted'))
+	print "confusion matrix"
+	print confusion_matrix(y_test,y_pred)
+	return y_pred
 
-#imds_ob = StreamIMDFeature('../Data/Real Data/Merged_Data/55-60 Viewers#eloedusdatabase_new#dip_7777database_random1_28.txt')
-#print imds_ob.imd_ft_val
-
-with open('../Data/Real Data/certified real.txt','r') as f:
+'''
+with open('../Real Data/certified real.txt','r') as f:
 	certified_reals = f.readlines()
 certified_reals = [real.strip('\n') for real in certified_reals]
 f.close()
-with open('../Data/Real Data/certified real for new data.txt') as f:
+with open('../Real Data/certified real for new data.txt') as f:
 	certified_new_reals = f.readlines()
 certified_new_reals = [real.strip('\n') for real in certified_new_reals]
 f.close()
-features = getAllFilesRecursive('../Data/Real Data/',certified_reals,certified_new_reals)
-print np.array(features).shape
+getAllFilesRecursiveinlist('../Real Data/',certified_reals,certified_new_reals)
+generateTrainTestData(0.6)
+print "training data shape:" + str(np.array(train_features).shape)
+#print test_features
+print "testing data shape:" + str(np.array(cc_test_fts).shape)
 #print features
-df = pd.DataFrame(features)
-df.columns = ['distr_chatters','#user_windows','imds','label']
-X = df.iloc[:,0:3]
-y = df.iloc[:,3:4]
+df = pd.DataFrame(train_features)
+#df.to_csv('s1_training_features.csv')
+'''
+df = pd.read_csv('s1_training_features.csv')
+#df_test = pd.DataFrame(real_test_fts)
+#df.columns = ['distr_chatters','#user_windows','imds','label']
+X_train = df.iloc[:,0:11]
+y_train = df.iloc[:,11:12]
+
+# ------Enter test files-----
+
+test_features = []
+
+imd_ft = StreamIMDFeature('../Sample Data/sample_chatlog_chatbotted.txt')
+channel_followers = get_channel_followers('../Sample Data/sample_chatlog_chatbotted_followers')
+test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_chatbotted.txt',imd_ft.ft_vec,channel_followers,1))
+
+imd_ft = StreamIMDFeature('../Sample Data/sample_chatlog_real.txt')
+channel_followers = get_channel_followers('../Sample Data/sample_chatlog_real_followers')
+test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_real.txt',imd_ft.ft_vec,channel_followers,0))
+
+
+X_test = pd.DataFrame(test_features).iloc[:,0:10]
+y_test - pd.DataFrame(test_features).iloc[:,10:11]
+#print X_test.values
+#y_test = [1 for i in range(len(og_test_fts))]
+#X_train = df.iloc[:,0:10]
+#y_train = df.iloc[:,10:11]
+#X_test = df_test.iloc[:,0:10]
+#y_test = df_test.iloc[:,10:11]
 #print df.isnull().any()
 #print df['imds']
 # Classification models
-
+'''
+train_files = []
+test_files = []
 X_train,X_test,y_train,y_test = train_test_split(X,y,test_size = 0.4,random_state=100)
+for file in X_train.iloc[:,0:1].values.tolist():
+	train_files.extend(file) 
+for file in X_test.iloc[:,0:1].values.tolist():
+	test_files.extend(file)
+X_train = X_train.iloc[:,1:11]
+X_test = X_test.iloc[:,1:11]
+print train_files,test_files
+'''
 
 #-------Decision Tree-----------
 
 model = tree.DecisionTreeClassifier(criterion='entropy',max_depth=5)
+#run_model(model,"Decision Tree",X_train,y_train,X_test,y_test)
 run_model(model,"Decision Tree",X_train,y_train,X_test,y_test)
 
 #-------Random Forest-----------
 
 model = RandomForestClassifier(n_estimators=10)
+#run_model(model,"Random Forest",X_train,y_train,X_test,y_test)
 run_model(model,"Random Forest",X_train,y_train,X_test,y_test)
 
 #-------xgboost-----------------
 
 model = XGBClassifier()
-run_model(model,"XGBoost",X_train,y_train,X_test,y_test)
+#run_model(model,"XGBoost",X_train,y_train,X_test,y_test)
+y_pred = run_model(model,"XGBoost",X_train,y_train,X_test,y_test)
+print y_pred
 
 #-------SVM Classifier-----------
 
 model = SVC()
-run_model(model,"SVM Classifier",X_train,y_train,X_test,y_test)
+#run_model(model,"SVM Classifier",X_train,y_train,X_test,y_test)
+run_model(model,"SVM",X_train,y_train,X_test,y_test)
 
 #-------Nearest Classifier-------
 
 model = neighbors.KNeighborsClassifier()
-run_model(model,"Nearest Neighbors Classifier",X_train,y_train,X_test,y_test)
-
+#run_model(model,"Nearest Neighbors Classifier",X_train,y_train,X_test,y_test)
+run_model(model,"Nearest Neighbor Classifier",X_train,y_train,X_test,y_test)
+'''
 #-------SGD Classifier-----------
 
 model = OneVsRestClassifier(SGDClassifier())
-run_model(model,"SGD Classifier",X_train,y_train,X_test,y_test)
-
+#run_model(model,"SGD Classifier",X_train,y_train,X_test,y_test)
+run_model(model,"SGD",X_train,y_train,X_test,y_test,test_files)
 #-------Gaussian NB--------------
 
 model = GaussianNB()
-run_model(model,"Gaussian NB",X_train,y_train,X_test,y_test)
-
+#run_model(model,"Gaussian NB",X_train,y_train,X_test,y_test)
+run_model(model,"Gaussian NB",X_train,y_train,X_test,y_test,test_files)
+'''
 #-------NN-MLP-------------------
 
 model = MLPClassifier()
+#run_model(model,"NN-MLP",X_train,y_train,X_test,y_test)
 run_model(model,"NN-MLP",X_train,y_train,X_test,y_test)
+
+'''
+index = int(math.ceil(0.7*len(real_files_lt)))
+for i in range(index,len(real_files_lt)):
+	filename = real_files_lt[i]
+	print filename,y_pred[i-index]
+	get_stream_statistics(filename)
+'''
