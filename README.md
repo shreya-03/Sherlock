@@ -19,7 +19,7 @@ We formulate the problem in terms of two subproblems. In the first stage, we det
 
 ## Code
 * The `Data Collection` directory contains `scrape.js` which scrapes the data from a list of Twitch streams provided as input. Requires **tmi.js** <https://github.com/tmijs/tmi.js> Returns chatlogs in the form of *.txt* files of the respective streams where each line is a JSON string containing: {"t": timestamp, "u": username, "e": emoteset, "m": messsage with special characters intact, "nm": message with special characters removed} To anonymize this, use `anonymizer.py`. This also adds labels (real/bot) to the above JSON string if they are available for the given chatlog.
-* Two sample anonymized files have been provided in `Sample Data`
+* Two sample anonymized files `sample_chatlog_chatbotted.txt` (a chatbotted chatlog with both real and bot participants) and `sample_chatlog_real.txt` (a chatlog with only real participants) have been provided in `Sample Data`
 * `Code` contains the code for **Stage 1**, **Stage 2**, and the **Baseline**. Please refer to the `readme.md` therein for instructions on how to execute them.
 * `Misc` contains miscellaneous code for - text based features (which were not used), other clustering methods, conversational graphs, creating a synthetic dataset by merging files, etc.
 
