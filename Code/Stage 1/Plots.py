@@ -1,7 +1,7 @@
 import sys,math
 import seaborn as sns
 #from tfidf import *
-from ConditionalEntropy import *
+#from ConditionalEntropy import *
 from collections import Counter,OrderedDict
 import operator
 import matplotlib.pyplot as plt
@@ -99,7 +99,7 @@ def plot_stacked_barplot(real_users_count_bin,bot_users_count_bin,bins):
 	p1 = plt.bar(np.array(bins),real_users_count_bin,color='b',width=barwidth)
 	p2 = plt.bar(np.array(bins),bot_users_count_bin,color='r',bottom=real_users_count_bin,width=barwidth)
 	plt.legend((p1[0],p2[0]),('real','bots'))
-	plt.title('Bot zilabear 2310 msgs')
+	#plt.title('Bot zilabear 2310 msgs')
 	plt.show()
 
 def plot_ccdf(data,ax):
@@ -139,7 +139,7 @@ def get_real_users(filename):
 		lines = f.readlines()
 		for line in lines:
 			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
-			if line.split(',"b":')[1] == "nb":
+			if line.split(',"b":')[1].split('}')[0] == "\"nb\"":
 				user_names.add(user)
 	return list(user_names)
 
