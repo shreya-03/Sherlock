@@ -259,7 +259,7 @@ def main():
 	'''
 	X_train = df.iloc[:,1:3]
 	Y_train = df.iloc[:,3:4]
-	filename = '../../Sample Data/sample_chatlog_real.txt'
+	filename = '../../Sample Data/sample_chatlog_chatbotted.txt'
 	print filename
 	users = cluster_test_user_timestamps_msgs(filename)
 	selected_users = select_test_users(users)
