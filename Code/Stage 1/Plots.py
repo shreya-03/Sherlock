@@ -1,18 +1,11 @@
 import sys,math
 import seaborn as sns
-#from tfidf import *
-#from ConditionalEntropy import *
 from collections import Counter,OrderedDict
 import operator
 import matplotlib.pyplot as plt
-import plotly.plotly as py
-import plotly.graph_objs as go
 import numpy as np
-import plotly
-import matplotlib.pyplot as plt
 from os import listdir
 from os.path import isfile,join,isdir
-from fitter import Fitter
 
 fit_results = OrderedDict()
 
@@ -21,7 +14,6 @@ fit_results = OrderedDict()
 def user_intermessage_delay(users):
 	user_imd = dict()
 	for user in users.keys():
-		#if len(users[user]['t']) >= 6:
 		if user not in user_imd.keys():
 			user_imd[user] = []
 			for i in range(len(users[user])-1):
@@ -34,10 +26,8 @@ def cluster_user_timestamps(filename):
 	users = {}
 	with open(filename,'r') as f:
 		lines = f.readlines()
-		#lines = lines[201:]
 		for line in lines:
 			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
-			#print count
 			if user in users.keys():
 				users[user].append(int(line.split('"t":')[1].split(',"u":')[0].replace('"','')))
 			else:
@@ -52,7 +42,6 @@ def get_data(filename):
 	users = cluster_user_timestamps(filename)
 	user_imds = user_intermessage_delay(users)
 	imds_list = []
-	#print len(user_imd.keys())
 	for user in user_imds.keys():
 		imds_list.extend(user_imds[user])
 		
@@ -99,7 +88,6 @@ def plot_stacked_barplot(real_users_count_bin,bot_users_count_bin,bins):
 	p1 = plt.bar(np.array(bins),real_users_count_bin,color='b',width=barwidth)
 	p2 = plt.bar(np.array(bins),bot_users_count_bin,color='r',bottom=real_users_count_bin,width=barwidth)
 	plt.legend((p1[0],p2[0]),('real','bots'))
-	#plt.title('Bot zilabear 2310 msgs')
 	plt.show()
 
 def plot_ccdf(data,ax):
@@ -143,16 +131,15 @@ def get_real_users(filename):
 				user_names.add(user)
 	return list(user_names)
 
+# a stacked barplot for the sample_chatlog_chatbotted.txt file
 user_imds_list,user_imds = np.array(get_data('../../Sample Data/sample_chatlog_chatbotted.txt'))
-#real_users = get_user_names('../Sample Data/sample_chatlog_real.txt')
 real_users = get_real_users('../../Sample Data/sample_chatlog_chatbotted.txt')
 bins = [i for i in range(0,np.max(user_imds_list),1000)]
-#print bins
 group_users(real_users,user_imds,bins,np.min(user_imds_list),np.max(user_imds_list))
-#print bins
-#plt.hist(user_imds_list,bins=bins)
-#plt.title('Bot turkey_lips 2140 msgs')
-#plt.show()
-#plot_stacked_barplot()
-#getAllFilesRecursive('../Data/Real Data/')
-#print fit_results
+
+# barplot for the sample_chatlog_real.txt file
+user_imds_list,user_imds = np.array(get_data('../../Sample Data/sample_chatlog_real.txt'))
+real_users = get_user_names('../../Sample Data/sample_chatlog_real.txt')
+bins = [i for i in range(0,np.max(user_imds_list),1000)]
+plt.hist(user_imds_list,bins=bins)
+plt.show()

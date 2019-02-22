@@ -53,7 +53,6 @@ def get_channel_followers(path,channel_name):
 	for file in listdir(path):
 		#print file
 		if file[13:-2] == channel_name:
-			#print "entered"
 			with open(join(path,file),'r') as f:
 				lines = f.readlines()
 				users = lines[1].split(' ')
@@ -128,7 +127,6 @@ def data_labelprop(X,real_users_index,bot_users_index):
 	label_Y = []
 
 	for index in range(len(X)):
-		#if index in considered_users_index:
 		if index in real_users_index:
 			label_X.append(X.iloc[index,:].values.tolist())
 			label_Y.append(0)
@@ -524,7 +522,7 @@ def callmain(filename):
 
 	plt.show()
 
-# handling real files in training
+# for handling real files in training
 # with open('../Data/Real Data/certified real.txt','r') as f:
 # 	certified_reals = f.readlines()
 # certified_reals = [real.strip('\n') for real in certified_reals]

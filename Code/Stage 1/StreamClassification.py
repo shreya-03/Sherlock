@@ -66,10 +66,8 @@ class DistributionChatters(object):
 			else:
 				users[i[0]] += 1
 				maxs = max(maxs,users[i[0]])
-		#print users
 		if sum(users.values())>50:
 			suspicious_files_gt_50msgs.append(self.filename)
-		#time.sleep(5)
 		bin_size = bs
 		arr = [0 for i in range(maxs//bin_size + 1)]
 		xs = []
@@ -84,10 +82,8 @@ class DistributionChatters(object):
 		arr = [float(i)/sums for i in arr]
 		newarr = [(arr[i],i) for i in range(len(arr))]
 		newarr = sorted(newarr,key=lambda tup:(tup[0],-tup[1]))
-		#print newarr
 		newarr = newarr[len(arr)-3:]
 
-		# ans = (sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))]))
 		ans = ([newarr[i][0] * newarr[i][1] for i in range(len(newarr))])
 
 		return ans
@@ -142,7 +138,6 @@ class UserWindows(object):
 		newarr = [(y[i],i) for i in range(len(y))]
 		newarr = sorted(newarr,key=lambda tup:(tup[0],-tup[1]))
 		newarr = newarr[len(y)-3:]
-		#ans = sum([newarr[i][0] * newarr[i][1] for i in range(len(newarr))])
 		ans = [newarr[i][0] * newarr[i][1] for i in range(len(newarr))]
 		return ans	
 
@@ -162,7 +157,6 @@ class StreamIMDFeature(object):
 			lines = f.readlines()
 			for line in lines:
 				user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
-				#print count
 				if user in users.keys():
 					users[user].append(int(line.split('"t":')[1].split(',"u":')[0].replace('"','')))
 				else:
@@ -174,7 +168,6 @@ class StreamIMDFeature(object):
 	def user_intermessage_delay(self):
 		user_imd = dict()
 		for user in self.users_timestamps.keys():
-			#if len(users[user]['t']) >= 6:
 			if user not in user_imd.keys():
 				user_imd[user] = []
 				for i in range(len(self.users_timestamps[user])-1):
@@ -197,11 +190,6 @@ class StreamIMDFeature(object):
 		temp = bisect.bisect_left(pre, 0.9*float(sum(scores)), lo=0, hi=len(pre))
 		ft_vec.append(bins[temp]/1000)
 
-		# print ft_vec
-
-		# plt.hist(imds_list,bins=bins)
-		# plt.show()
-
 		return ft_vec
 
 	def getimdfeature(self):
@@ -217,7 +205,6 @@ class StreamIMDFeature(object):
 		hist,bins = np.histogram(imds_list,bins,normed=False)
 		scores = [val*(i+1) for i,val in enumerate(hist)]
 		sum_weights = sum(hist)
-		#print "sum of pdfs:"+ str(sum_weights)
 		if sum_weights > 0:
 			imd_ft_val = sum(scores)/float(sum_weights)
 		else:
@@ -234,44 +221,13 @@ def gettotalusers(filename):
 			users.add(user)
 	return len(users)
 
-def get_channel_followers(path,channel_name):
-	#print channel_name	
-	follows = set()
-	for file in listdir(path):
-		if file[13:-2] == channel_name:
-			#print file
-			#print "1st case entered"
-			with open(join(path,file),'r') as f:
-				lines = f.readlines()
-				if len(lines) > 1:
-					users = lines[1].split(' ')
-					#print users
-					for user in users:
-						follows.add(user)
-			f.close()
-		'''
-		else:
-			if file[13:] == channel_name:
-				#print "2nd case entered"
-				with open(join(path,file),'r') as f:
-					lines = f.readlines()
-					users = lines[1].split(' ')
-					for user in users:
-						follows.add(user)
-				f.close()
-		'''
-	return list(follows)
-
-def getFeatureVecFile(filename,imd_ft_vec,followers,label):
+def getFeatureVecFile(filename,imd_ft_vec,label):
 	ft_vec = []
 	distr_classob = DistributionChatters(filename)
 	userwindows_classob = UserWindows(filename)
-	#ft_vec.append(filename)
 	ft_vec.extend(distr_classob.pseudo_vel())
-	#ft_vec.extend(distr_classob.pseudo_vel())
 	ft_vec.extend(userwindows_classob.user_windows())
 	ft_vec.extend(imd_ft_vec)
-	#ft_vec.append(float(len(followers))/gettotalusers(filename))
 	ft_vec.append(label)
 	return ft_vec	
 
@@ -360,7 +316,6 @@ def get_users(filename):
 def run_model(model,alg_name,X_train,y_train,X_test,y_test):
 	model.fit(X_train,y_train)
 	y_pred = model.predict(X_test)
-	#print y_pred
 	print Counter(y_pred)
 	accuracy = accuracy_score(y_test,y_pred)*100
 	print "Classifier:" + alg_name
@@ -389,6 +344,7 @@ print "testing data shape:" + str(np.array(cc_test_fts).shape)
 df = pd.DataFrame(train_features)
 #df.to_csv('s1_training_features.csv')
 '''
+# training features from synthetic dataset
 df = pd.read_csv('s1_training_features.csv')
 #df_test = pd.DataFrame(real_test_fts)
 #df.columns = ['distr_chatters','#user_windows','imds','label']
@@ -399,18 +355,16 @@ y_train = df.iloc[:,-1]
 
 test_features = []
 
-imd_ft = StreamIMDFeature('../Sample Data/sample_chatlog_chatbotted.txt')
-channel_followers = get_channel_followers('../Sample Data/sample_chatlog_chatbotted_followers')
-test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_chatbotted.txt',imd_ft.ft_vec,channel_followers,1))
+imd_ft = StreamIMDFeature('../../Sample Data/sample_chatlog_chatbotted.txt')
+test_features.append(getFeatureVecFile('../../Sample Data/sample_chatlog_chatbotted.txt',imd_ft.ft_vec,1))
 
-imd_ft = StreamIMDFeature('../Sample Data/sample_chatlog_real.txt')
-channel_followers = get_channel_followers('../Sample Data/sample_chatlog_real_followers')
-test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_real.txt',imd_ft.ft_vec,channel_followers,0))
+imd_ft = StreamIMDFeature('../../Sample Data/sample_chatlog_real.txt')
+test_features.append(getFeatureVecFile('../../Sample Data/sample_chatlog_real.txt',imd_ft.ft_vec,0))
 
 
 X_test = pd.DataFrame(test_features).iloc[:,0:10]
 y_test = pd.DataFrame(test_features).iloc[:,-1]
-#print X_test.values
+
 #y_test = [1 for i in range(len(og_test_fts))]
 #X_train = df.iloc[:,0:10]
 #y_train = df.iloc[:,10:11]

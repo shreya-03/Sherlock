@@ -57,8 +57,6 @@ def calculate_entropy(bins_list):
 def get_entropy_features(filename):
 	users = get_user_data(filename)
 	user_imd_ml = user_imds_msglengths(users)
-	#print user_imd_ml
-	#user_entropy = OrderedDict()
 	user_entropy = []
 	for user in user_imd_ml.keys():
 		if len(user_imd_ml[user]['t']) >= 5:
@@ -70,7 +68,6 @@ def get_entropy_features(filename):
 			for i in range(len(user_imd_ml[user]['t'])):
 				user_bins.append(i);
 				user_msg_bins.append(i)
-		#if user not in user_entropy.keys():
 		entropies = []
  		entropies.append(calculate_entropy(user_bins))
 		entropies.append(calculate_entropy(user_msg_bins))

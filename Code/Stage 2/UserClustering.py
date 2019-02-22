@@ -17,10 +17,8 @@ plt.rcParams['axes.facecolor'] = 'white'
 def getUserIMDMessages(filename):
 	users = OrderedDict()
 	with open(filename,'r') as f:
-		#count = 1
 		lines = f.readlines()
 		for line in lines:
-			#print count
 			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
 			if user in users.keys():
 				users[user]['t'].append(int(line.split('"t":')[1].split(',"u":')[0].replace('"','')))
@@ -30,7 +28,6 @@ def getUserIMDMessages(filename):
 				users[user]['t'] = []
 				users[user]['m'] = 1
 				users[user]['t'].append(int(line.split('"t":')[1].split(',"u":')[0].replace('"','')))
-			#count += 1
 	f.close()
 	return users
 

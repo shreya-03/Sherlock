@@ -91,11 +91,9 @@ def user_intermessage_delay(users):
 					user_imd[user] = {}
 					user_imd[user]['t'] = []
 					user_imd[user]['m'] = []
-					#user_imd[user].append(0)
 					for i in range(len(users[user]['t'])-1):
 						user_imd[user]['t'].append(users[user]['t'][i+1]-users[user]['t'][i])
 					user_imd[user]['m'] = users[user]['m']
-					#user_imd[user]['t'] = user_imd[user]['t']*3
 					user_imd[user]['b'] = 'yes'
 		if users[user]['b'] == 'no':
 			if len(users[user]['t']) >= 20:
@@ -103,7 +101,6 @@ def user_intermessage_delay(users):
 					user_imd[user] = {}
 					user_imd[user]['t'] = []
 					user_imd[user]['m'] = []
-					#user_imd[user].append(0)
 					for i in range(len(users[user]['t'])-1):
 						user_imd[user]['t'].append(users[user]['t'][i+1]-users[user]['t'][i])
 					user_imd[user]['m'] = users[user]['m']
