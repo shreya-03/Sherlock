@@ -133,8 +133,19 @@ def stream_best_curve_fit(filename):
 	f.fit() 
 	return f.get_best()
 
-user_imds_list,user_imds = np.array(get_data('../Sample Data/sample_chatlog_chatbotted.txt'))
-real_users = get_user_names('../Sample Data/sample_chatlog_real.txt')
+def get_real_users(filename):
+	user_names = set()
+	with open(filename,'r') as f:
+		lines = f.readlines()
+		for line in lines:
+			user = str(line.split(',"u":')[1].split(',"e":')[0].replace('"',''))
+			if line.split(',"b":')[1] == "nb":
+				user_names.add(user)
+	return list(user_names)
+
+user_imds_list,user_imds = np.array(get_data('../../Sample Data/sample_chatlog_chatbotted.txt'))
+#real_users = get_user_names('../Sample Data/sample_chatlog_real.txt')
+real_users = get_real_users('../../Sample Data/sample_chatlog_chatbotted.txt')
 bins = [i for i in range(0,np.max(user_imds_list),1000)]
 #print bins
 group_users(real_users,user_imds,bins,np.min(user_imds_list),np.max(user_imds_list))
