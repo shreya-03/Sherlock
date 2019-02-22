@@ -14,4 +14,4 @@ The command for executing is `python main.py`. By default, it is set to run on t
 
 ## Baseline : A supervised method which uses Corrected Conditional Entropy (CCE) of IMDs and Message Lengths
 
-Execute `python baseline_model.py`. Runs and reports the accuracy of the baseline model trained on the synthetic dataset (features stored as a *csv* file) and tested on the provided sample botted and real chatlogs. Refer **NOTE** in the `readme.md` in the root directory for a note about the training dataset for the baseline approach.
+Execute `python baseline_model.py`. Runs and reports the accuracy of the baseline model trained on the synthetic dataset (features stored as a *csv* file) and tested on the provided sample botted and real chatlogs. Refer **NOTE** in the `README.MD` in the root directory for a note about the training dataset for the baseline approach.
