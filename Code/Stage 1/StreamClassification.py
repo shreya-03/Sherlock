@@ -392,8 +392,8 @@ df = pd.DataFrame(train_features)
 df = pd.read_csv('s1_training_features.csv')
 #df_test = pd.DataFrame(real_test_fts)
 #df.columns = ['distr_chatters','#user_windows','imds','label']
-X_train = df.iloc[:,0:10]
-y_train = df.iloc[:,10:11]
+X_train = df.iloc[:,1:11]
+y_train = df.iloc[:,-1]
 
 # ------Enter test files-----
 
@@ -409,7 +409,7 @@ test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_real.txt',
 
 
 X_test = pd.DataFrame(test_features).iloc[:,0:10]
-y_test = pd.DataFrame(test_features).iloc[:,10:11]
+y_test = pd.DataFrame(test_features).iloc[:,-1]
 #print X_test.values
 #y_test = [1 for i in range(len(og_test_fts))]
 #X_train = df.iloc[:,0:10]
