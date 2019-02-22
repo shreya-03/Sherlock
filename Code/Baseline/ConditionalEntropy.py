@@ -9,7 +9,6 @@ class Node(object):
 		self.freq = freq
 		self.probability = probability
 		self.entropy = entropy
-		#self.conditionalentropy = conditionalentropy
 		self.children = [None] * 6;
 
 class Trie(object):
@@ -25,11 +24,9 @@ class Trie(object):
 		Q.freq = 1
 		Q.probability = 0.0
 		Q.entropy = 0.0
-		#Q.conditionalentropy = 0.0
 		return Q
 
 	def AddString(self,s):
-		#cur = node()
 		cur = self.root
 		for i in range(len(s)):
 			if cur.children[ord(s[i])-48] == None:
@@ -52,7 +49,6 @@ class Trie(object):
 					if p.children[i]:
 						q.put(p.children[i])
 				n -= 1
-			#print '\n'
 
 	def LevelSum(self):
 		if self.root is None:
@@ -164,5 +160,3 @@ if __name__ == "__main__":
 		print "avg entropy:" + str((imd_cce + msg_len_cce)/2)
 		
 #tree.LevelOrderTraversal()
-
-

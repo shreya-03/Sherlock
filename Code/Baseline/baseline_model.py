@@ -1,14 +1,12 @@
 import sys,time
 import math,random,requests,json
-import community,urllib2
-from twitch import TwitchClient
 from collections import OrderedDict,Counter
 from os import listdir
 from os.path import isfile,join,isdir
-from ConditionalEntropy import *
 import json
 import numpy as np 
 import pandas as pd 
+from ConditionalEntropy import *
 from UserBins import map_user_timestamp_bins,map_user_msg_bins
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
@@ -82,13 +80,10 @@ def select_test_users(users):
 				selected_users[user] = {}
 				selected_users[user]['t'] = []
 				selected_users[user]['m'] = []
-				#user_imd[user].append(0)
 				for i in range(len(users[user]['t'])-1):
 					selected_users[user]['t'].append(users[user]['t'][i+1]-users[user]['t'][i])
 				selected_users[user]['m'] = users[user]['m']
 				selected_users[user]['b'] = users[user]['b']
-				#user_imd[user]['t'] = user_imd[user]['t']*3
-				#selected_users[user]['b'] = users[user]['b']
 	return selected_users
 
 def select_users(users):
@@ -99,11 +94,9 @@ def select_users(users):
 				selected_users[user] = {}
 				selected_users[user]['t'] = []
 				selected_users[user]['m'] = []
-				#user_imd[user].append(0)
 				for i in range(len(users[user]['t'])-1):
 					selected_users[user]['t'].append(users[user]['t'][i+1]-users[user]['t'][i])
 				selected_users[user]['m'] = users[user]['m']
-				#user_imd[user]['t'] = user_imd[user]['t']*3
 				selected_users[user]['b'] = users[user]['b']
 	return selected_users
 
@@ -180,13 +173,6 @@ def getAllFilesRecursilvely(path):
 				train_features['cce_ml'].extend(get_msgLength_cce(selected_users))
 				train_features['labels'].extend(assign_labels(selected_users))
 				cc_train_count += 1
-			'''
-			if 'chatterscontrolled' in str(f) and test_count <= 10:
-				test_features['cce_imds'].extend(get_imd_cce(selected_users))
-				test_features['cce_ml'].extend(get_msgLength_cce(selected_users))
-				test_features['labels'].extend(assign_labels(selected_users))
-				test_count += 1
-			'''
 			if r_train_count > 15 and cc_train_count > 15:
 				break
 			#print "train count:" + str(train_count) + ' ' + "test count:" + str(test_count)
@@ -259,92 +245,59 @@ def main():
 	'''
 	X_train = df.iloc[:,1:3]
 	Y_train = df.iloc[:,3:4]
-	filename = '../../Sample Data/sample_chatlog_chatbotted.txt'
-	print filename
-	users = cluster_test_user_timestamps_msgs(filename)
-	selected_users = select_test_users(users)
-	test_features = {'cce_imds':[],'cce_ml':[],'labels':[]}
-	test_features['cce_imds'].extend(get_imd_cce(selected_users))
-	test_features['cce_ml'].extend(get_msgLength_cce(selected_users))
-	test_features['labels'].extend(assign_labels(selected_users))
-	df1_test = pd.DataFrame({'cce_imds':test_features['cce_imds']})
-	df2_test = pd.DataFrame({'cce_msgLengths':test_features['cce_ml']})
-	X_test = pd.concat([df1_test,df2_test],axis=1)
-	Y_test = pd.DataFrame({'labels':test_features['labels']})
-	'''
-	model = tree.DecisionTreeClassifier(criterion='entropy',max_depth=5)
-	run_model(model,"Decision Tree",X_train,Y_train,X_test,Y_test)
 
-	#-------Random Forest-----------
+	for i in ['../../Sample Data/sample_chatlog_chatbotted.txt', '../../Sample Data/sample_chatlog_real.txt']:
+		filename = i
+		print filename
+		users = cluster_test_user_timestamps_msgs(filename)
+		selected_users = select_test_users(users)
+		test_features = {'cce_imds':[],'cce_ml':[],'labels':[]}
+		test_features['cce_imds'].extend(get_imd_cce(selected_users))
+		test_features['cce_ml'].extend(get_msgLength_cce(selected_users))
+		test_features['labels'].extend(assign_labels(selected_users))
+		df1_test = pd.DataFrame({'cce_imds':test_features['cce_imds']})
+		df2_test = pd.DataFrame({'cce_msgLengths':test_features['cce_ml']})
+		X_test = pd.concat([df1_test,df2_test],axis=1)
+		Y_test = pd.DataFrame({'labels':test_features['labels']})
+		'''
+		model = tree.DecisionTreeClassifier(criterion='entropy',max_depth=5)
+		run_model(model,"Decision Tree",X_train,Y_train,X_test,Y_test)
 
-	model = RandomForestClassifier(n_estimators=10)
-	run_model(model,"Random Forest",X_train,Y_train,X_test,Y_test)
-	'''
-	
-	#-------xgboost-----------------
-	model = XGBClassifier()
-	run_model(model,"XGBoost",X_train,Y_train,X_test,Y_test)
-	'''
-	real_count = 0
-	bot_count = 0
-	for i in range(len(y_pred)):
-		if y_pred[i] == 'yes':
-			bot_count += 1
-		else:
-			real_count += 1
-	print "#real users:" + str(real_count) + " " + "#bot users:" + str(bot_count)
-	'''
-	'''
-	#print y_pred
-	sorted_index_dict = sorted(index_dict.items(), key=operator.itemgetter(1))
-	print sorted_index_dict
-	#indexes_list = sorted_index_dict.values()
-	#print indexes_list
-	#files_list = sorted_index_dict.keys()
-	for idx,tup in enumerate(sorted_index_dict):
-		real_count = 0
-		bot_count = 0
-		print tup[0]
-		if idx < len(sorted_index_dict)-1:
-			for i in range(tup[1],sorted_index_dict[idx+1][1]):
-				if y_pred[i] == 'yes':
-					bot_count += 1
-				else:
-					real_count += 1
-			print "#real users:" + str(real_count) + " " + "#bot users:" + str(bot_count)
-		else:
-			for i in range(tup[1],index):
-				if y_pred[i] == 'yes':
-					bot_count += 1
-				else:
-					real_count += 1
-			print "#real users:" + str(real_count) + " " + "#bot users:" + str(bot_count)
-	'''
-	'''
-	#-------SVM Classifier-----------
+		#-------Random Forest-----------
 
-	model = SVC()
-	run_model(model,"SVM Classifier",X_train,Y_train,X_test,Y_test)
+		model = RandomForestClassifier(n_estimators=10)
+		run_model(model,"Random Forest",X_train,Y_train,X_test,Y_test)
+		'''
+		
+		#-------xgboost-----------------
+		model = XGBClassifier()
+		run_model(model,"XGBoost",X_train,Y_train,X_test,Y_test)
+		
+		'''
+		#-------SVM Classifier-----------
 
-	#-------Nearest Classifier-------
+		model = SVC()
+		run_model(model,"SVM Classifier",X_train,Y_train,X_test,Y_test)
 
-	model = neighbors.KNeighborsClassifier()
-	run_model(model,"Nearest Neighbors Classifier",X_train,Y_train,X_test,Y_test)
+		#-------Nearest Classifier-------
 
-	#-------SGD Classifier-----------
+		model = neighbors.KNeighborsClassifier()
+		run_model(model,"Nearest Neighbors Classifier",X_train,Y_train,X_test,Y_test)
 
-	model = OneVsRestClassifier(SGDClassifier())
-	run_model(model,"SGD Classifier",X_train,Y_train,X_test,Y_test)
+		#-------SGD Classifier-----------
 
-	#-------Gaussian NB--------------
+		model = OneVsRestClassifier(SGDClassifier())
+		run_model(model,"SGD Classifier",X_train,Y_train,X_test,Y_test)
 
-	model = GaussianNB()
-	run_model(model,"Gaussian NB",X_train,Y_train,X_test,Y_test)
+		#-------Gaussian NB--------------
 
-	#-------NN-MLP-------------------
+		model = GaussianNB()
+		run_model(model,"Gaussian NB",X_train,Y_train,X_test,Y_test)
 
-	model = MLPClassifier()
-	run_model(model,"NN-MLP",X_train,Y_train,X_test,Y_test)
-	'''
+		#-------NN-MLP-------------------
+
+		model = MLPClassifier()
+		run_model(model,"NN-MLP",X_train,Y_train,X_test,Y_test)
+		'''
 main()
 
