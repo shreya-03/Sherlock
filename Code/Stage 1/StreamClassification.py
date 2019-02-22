@@ -271,7 +271,7 @@ def getFeatureVecFile(filename,imd_ft_vec,followers,label):
 	#ft_vec.extend(distr_classob.pseudo_vel())
 	ft_vec.extend(userwindows_classob.user_windows())
 	ft_vec.extend(imd_ft_vec)
-	ft_vec.append(float(len(followers))/gettotalusers(filename))
+	#ft_vec.append(float(len(followers))/gettotalusers(filename))
 	ft_vec.append(label)
 	return ft_vec	
 
@@ -392,8 +392,8 @@ df = pd.DataFrame(train_features)
 df = pd.read_csv('s1_training_features.csv')
 #df_test = pd.DataFrame(real_test_fts)
 #df.columns = ['distr_chatters','#user_windows','imds','label']
-X_train = df.iloc[:,0:11]
-y_train = df.iloc[:,11:12]
+X_train = df.iloc[:,0:10]
+y_train = df.iloc[:,10:11]
 
 # ------Enter test files-----
 
@@ -409,7 +409,7 @@ test_features.append(getFeatureVecFile('../Sample Data/sample_chatlog_real.txt',
 
 
 X_test = pd.DataFrame(test_features).iloc[:,0:10]
-y_test - pd.DataFrame(test_features).iloc[:,10:11]
+y_test = pd.DataFrame(test_features).iloc[:,10:11]
 #print X_test.values
 #y_test = [1 for i in range(len(og_test_fts))]
 #X_train = df.iloc[:,0:10]
